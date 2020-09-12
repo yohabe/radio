@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+ xmlns:media="http://search.yahoo.com/mrss"
+ version="2.0">
+<channel>
+<ttl>60</ttl>
+<title>misc Podcast</title>
+<link>http://192.168.11.3/misc</link>
+<description>
+Audio files in /home/pi/radio/misc
+</description>
+<language>ja</language>
+<lastBuildDate>Sun, 13 Sep 2020 00:47:50 +0900</lastBuildDate>
+<generator>https://github.com/miyagawa/dircaster</generator>
+<itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/misc/icon.jpg" />
+
+<item>
+<title>5Gは産業構造を大きく変える.mp3</title>
+<link>http://192.168.11.3/misc/5G%E3%81%AF%E7%94%A3%E6%A5%AD%E6%A7%8B%E9%80%A0%E3%82%92%E5%A4%A7%E3%81%8D%E3%81%8F%E5%A4%89%E3%81%88%E3%82%8B.mp3</link>
+<description>5Gは産業構造を大きく変える.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/5G%E3%81%AF%E7%94%A3%E6%A5%AD%E6%A7%8B%E9%80%A0%E3%82%92%E5%A4%A7%E3%81%8D%E3%81%8F%E5%A4%89%E3%81%88%E3%82%8B.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 27 May 2020 23:30:42 +0900</pubDate>
+<itunes:duration>41:18</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/5G%E3%81%AF%E7%94%A3%E6%A5%AD%E6%A7%8B%E9%80%A0%E3%82%92%E5%A4%A7%E3%81%8D%E3%81%8F%E5%A4%89%E3%81%88%E3%82%8B.mp3" type="audio/mpeg" length="31788764" />
+</item>
+
+<item>
+<title>救いようのないこの世界に映画が一筋の光明を見出し始めたわけ.mp3</title>
+<link>http://192.168.11.3/misc/%E6%95%91%E3%81%84%E3%82%88%E3%81%86%E3%81%AE%E3%81%AA%E3%81%84%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E6%98%A0%E7%94%BB%E3%81%8C%E4%B8%80%E7%AD%8B%E3%81%AE%E5%85%89%E6%98%8E%E3%82%92%E8%A6%8B%E5%87%BA%E3%81%97%E5%A7%8B%E3%82%81%E3%81%9F%E3%82%8F%E3%81%91.mp3</link>
+<description>救いようのないこの世界に映画が一筋の光明を見出し始めたわけ.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E6%95%91%E3%81%84%E3%82%88%E3%81%86%E3%81%AE%E3%81%AA%E3%81%84%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E6%98%A0%E7%94%BB%E3%81%8C%E4%B8%80%E7%AD%8B%E3%81%AE%E5%85%89%E6%98%8E%E3%82%92%E8%A6%8B%E5%87%BA%E3%81%97%E5%A7%8B%E3%82%81%E3%81%9F%E3%82%8F%E3%81%91.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 27 May 2020 22:26:23 +0900</pubDate>
+<itunes:duration>3:03:15</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E6%95%91%E3%81%84%E3%82%88%E3%81%86%E3%81%AE%E3%81%AA%E3%81%84%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AB%E6%98%A0%E7%94%BB%E3%81%8C%E4%B8%80%E7%AD%8B%E3%81%AE%E5%85%89%E6%98%8E%E3%82%92%E8%A6%8B%E5%87%BA%E3%81%97%E5%A7%8B%E3%82%81%E3%81%9F%E3%82%8F%E3%81%91.mp3" type="audio/mpeg" length="127119376" />
+</item>
+
+<item>
+<title>種苗法改正で国家100年の計を過つ事なかれ.mp3</title>
+<link>http://192.168.11.3/misc/%E7%A8%AE%E8%8B%97%E6%B3%95%E6%94%B9%E6%AD%A3%E3%81%A7%E5%9B%BD%E5%AE%B6100%E5%B9%B4%E3%81%AE%E8%A8%88%E3%82%92%E9%81%8E%E3%81%A4%E4%BA%8B%E3%81%AA%E3%81%8B%E3%82%8C.mp3</link>
+<description>種苗法改正で国家100年の計を過つ事なかれ.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E7%A8%AE%E8%8B%97%E6%B3%95%E6%94%B9%E6%AD%A3%E3%81%A7%E5%9B%BD%E5%AE%B6100%E5%B9%B4%E3%81%AE%E8%A8%88%E3%82%92%E9%81%8E%E3%81%A4%E4%BA%8B%E3%81%AA%E3%81%8B%E3%82%8C.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 27 May 2020 22:25:52 +0900</pubDate>
+<itunes:duration>1:29:47</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E7%A8%AE%E8%8B%97%E6%B3%95%E6%94%B9%E6%AD%A3%E3%81%A7%E5%9B%BD%E5%AE%B6100%E5%B9%B4%E3%81%AE%E8%A8%88%E3%82%92%E9%81%8E%E3%81%A4%E4%BA%8B%E3%81%AA%E3%81%8B%E3%82%8C.mp3" type="audio/mpeg" length="55285858" />
+</item>
+
+<item>
+<title>vn0523.mp3</title>
+<link>http://192.168.11.3/misc/vn0523.mp3</link>
+<description>vn0523.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/vn0523.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 26 May 2020 09:41:05 +0900</pubDate>
+<itunes:duration>1:35:46</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/vn0523.mp3" type="audio/mpeg" length="58201091" />
+</item>
+
+<item>
+<title>大学で学ぶ物理を板書１枚にまとめてみた.mp3</title>
+<link>http://192.168.11.3/misc/%E5%A4%A7%E5%AD%A6%E3%81%A7%E5%AD%A6%E3%81%B6%E7%89%A9%E7%90%86%E3%82%92%E6%9D%BF%E6%9B%B8%EF%BC%91%E6%9E%9A%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F.mp3</link>
+<description>大学で学ぶ物理を板書１枚にまとめてみた.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E5%A4%A7%E5%AD%A6%E3%81%A7%E5%AD%A6%E3%81%B6%E7%89%A9%E7%90%86%E3%82%92%E6%9D%BF%E6%9B%B8%EF%BC%91%E6%9E%9A%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 17 May 2020 23:50:29 +0900</pubDate>
+<itunes:duration>33:24</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E5%A4%A7%E5%AD%A6%E3%81%A7%E5%AD%A6%E3%81%B6%E7%89%A9%E7%90%86%E3%82%92%E6%9D%BF%E6%9B%B8%EF%BC%91%E6%9E%9A%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F.mp3" type="audio/mpeg" length="20524965" />
+</item>
+
+<item>
+<title>中学数学からはじめるAI(人工知能)のための数学入門.mp3</title>
+<link>http://192.168.11.3/misc/%E4%B8%AD%E5%AD%A6%E6%95%B0%E5%AD%A6%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BAI(%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6%E5%85%A5%E9%96%80.mp3</link>
+<description>中学数学からはじめるAI(人工知能)のための数学入門.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E4%B8%AD%E5%AD%A6%E6%95%B0%E5%AD%A6%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BAI(%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6%E5%85%A5%E9%96%80.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 17 May 2020 23:50:20 +0900</pubDate>
+<itunes:duration>2:05:23</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E4%B8%AD%E5%AD%A6%E6%95%B0%E5%AD%A6%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BAI(%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6%E5%85%A5%E9%96%80.mp3" type="audio/mpeg" length="74797677" />
+</item>
+
+<item>
+<title>ダースレイダーｘ神保哲生 &#39;検察庁法改正案と種苗法のなにがやばいか？&#39;.mp3</title>
+<link>http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BD%98%E7%A5%9E%E4%BF%9D%E5%93%B2%E7%94%9F%20&#39;%E6%A4%9C%E5%AF%9F%E5%BA%81%E6%B3%95%E6%94%B9%E6%AD%A3%E6%A1%88%E3%81%A8%E7%A8%AE%E8%8B%97%E6%B3%95%E3%81%AE%E3%81%AA%E3%81%AB%E3%81%8C%E3%82%84%E3%81%B0%E3%81%84%E3%81%8B%EF%BC%9F&#39;.mp3</link>
+<description>ダースレイダーｘ神保哲生 &#39;検察庁法改正案と種苗法のなにがやばいか？&#39;.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BD%98%E7%A5%9E%E4%BF%9D%E5%93%B2%E7%94%9F%20'%E6%A4%9C%E5%AF%9F%E5%BA%81%E6%B3%95%E6%94%B9%E6%AD%A3%E6%A1%88%E3%81%A8%E7%A8%AE%E8%8B%97%E6%B3%95%E3%81%AE%E3%81%AA%E3%81%AB%E3%81%8C%E3%82%84%E3%81%B0%E3%81%84%E3%81%8B%EF%BC%9F'.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 17 May 2020 23:50:05 +0900</pubDate>
+<itunes:duration>2:10:35</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BD%98%E7%A5%9E%E4%BF%9D%E5%93%B2%E7%94%9F%20&#39;%E6%A4%9C%E5%AF%9F%E5%BA%81%E6%B3%95%E6%94%B9%E6%AD%A3%E6%A1%88%E3%81%A8%E7%A8%AE%E8%8B%97%E6%B3%95%E3%81%AE%E3%81%AA%E3%81%AB%E3%81%8C%E3%82%84%E3%81%B0%E3%81%84%E3%81%8B%EF%BC%9F&#39;.mp3" type="audio/mpeg" length="65789470" />
+</item>
+
+<item>
+<title>ダースレイダーxプチ鹿島 #ヒルカラナンデス 第五回.mp3</title>
+<link>http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BCx%E3%83%97%E3%83%81%E9%B9%BF%E5%B3%B6%20%23%E3%83%92%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%20%E7%AC%AC%E4%BA%94%E5%9B%9E.mp3</link>
+<description>ダースレイダーxプチ鹿島 #ヒルカラナンデス 第五回.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BCx%E3%83%97%E3%83%81%E9%B9%BF%E5%B3%B6%20%23%E3%83%92%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%20%E7%AC%AC%E4%BA%94%E5%9B%9E.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 17 May 2020 23:49:43 +0900</pubDate>
+<itunes:duration>1:59:50</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BCx%E3%83%97%E3%83%81%E9%B9%BF%E5%B3%B6%20%23%E3%83%92%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%20%E7%AC%AC%E4%BA%94%E5%9B%9E.mp3" type="audio/mpeg" length="58738755" />
+</item>
+
+<item>
+<title>ダースレイダーxプチ鹿島 #ヒルカラナンデス 第1回.mp3</title>
+<link>http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BCx%E3%83%97%E3%83%81%E9%B9%BF%E5%B3%B6%20%23%E3%83%92%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%20%E7%AC%AC1%E5%9B%9E.mp3</link>
+<description>ダースレイダーxプチ鹿島 #ヒルカラナンデス 第1回.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BCx%E3%83%97%E3%83%81%E9%B9%BF%E5%B3%B6%20%23%E3%83%92%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%20%E7%AC%AC1%E5%9B%9E.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 17 May 2020 23:49:15 +0900</pubDate>
+<itunes:duration>1:39:20</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BCx%E3%83%97%E3%83%81%E9%B9%BF%E5%B3%B6%20%23%E3%83%92%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9%20%E7%AC%AC1%E5%9B%9E.mp3" type="audio/mpeg" length="53343682" />
+</item>
+
+<item>
+<title>vn0516b.mp3</title>
+<link>http://192.168.11.3/misc/vn0516b.mp3</link>
+<description>vn0516b.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/vn0516b.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 17 May 2020 12:35:05 +0900</pubDate>
+<itunes:duration>46:07</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/vn0516b.mp3" type="audio/mpeg" length="30564353" />
+</item>
+
+<item>
+<title>vn0516a.mp3</title>
+<link>http://192.168.11.3/misc/vn0516a.mp3</link>
+<description>vn0516a.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/vn0516a.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 17 May 2020 12:35:02 +0900</pubDate>
+<itunes:duration>47:21</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/vn0516a.mp3" type="audio/mpeg" length="31323867" />
+</item>
+
+<item>
+<title>やばい集中.mp3</title>
+<link>http://192.168.11.3/misc/%E3%82%84%E3%81%B0%E3%81%84%E9%9B%86%E4%B8%AD.mp3</link>
+<description>やばい集中.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E3%82%84%E3%81%B0%E3%81%84%E9%9B%86%E4%B8%AD.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 15 May 2020 20:49:37 +0900</pubDate>
+<itunes:duration>4:55:26</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E3%82%84%E3%81%B0%E3%81%84%E9%9B%86%E4%B8%AD.mp3" type="audio/mpeg" length="220826722" />
+</item>
+
+<item>
+<title>vn0515.mp3</title>
+<link>http://192.168.11.3/misc/vn0515.mp3</link>
+<description>vn0515.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/vn0515.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 15 May 2020 10:16:27 +0900</pubDate>
+<itunes:duration>1:06:33</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/vn0515.mp3" type="audio/mpeg" length="46128084" />
+</item>
+
+</channel>
+</rss>
