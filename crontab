@@ -1,25 +1,25 @@
-0 1 * * 2 base=/home/pi/radio p=$base/ijuin_shinya_bakajikara; $base/rec_radiko.sh TBS 120 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-0 22 * * 1-5 base=/home/pi/radio p=$base/a_session22; $base/rec_radiko.sh TBS 115 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh > /tmp/cron_b.log 2>&1
+0 1 * * 2 base=/home/pi/radio p=$base/ijuin_shinya_bakajikara; $base/rec_radiko.sh TBS 120 $p ; $base/dircaster.sh $p > $p/feed2.xml
+0 22 * * 1-5 base=/home/pi/radio p=$base/a_session22; $base/rec_radiko.sh TBS 115 $p ; $base/dircaster.sh $p > $p/feed2.xml
 
-16 9 * * 1-2 base=/home/pi/radio p=$base/E_nyumon_business_eigo; $base/rec_nhk_radiko.sh r2 15 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-16 9 * * 3-5 base=/home/pi/radio p=$base/E_jissen_business_eigo; $base/rec_nhk_radiko.sh r2 15 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-41 12 * * 6-7  base=/home/pi/radio p=$base/E_gendaieigo; $base/rec_nhk_radiko.sh r2 15 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-31 8 * * 1-5  base=/home/pi/radio p=$base/E_eikaiwa_timetrial; $base/rec_nhk_radiko.sh r2 10 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload_one.sh
-#5 9 * * 1-5 base=/home/pi/radio p=$base/E_vocabu; $base/rec_nhk_radiko.sh r2 5 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-#10 9 * * 1-5 base=/home/pi/radio p=$base/E_enjoysimple; $base/rec_nhk_radiko.sh r2 5 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-#31 10 * * 1-3 base=/home/pi/radio p=$base/E_toyamakei_eikaiwa; $base/rec_nhk_radiko.sh r2 15 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-#55 12 * * 1-5 base=/home/pi/radio p=$base/E_eigojyutu; $base/rec_nhk_radiko.sh r2 5 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-1 0 * * 2  base=/home/pi/radio p=$base/a_tokyopodkyoka; $base/rec_radiko.sh TBS 60 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-#0 20 * * 4    base=/home/pi/radio p=$base/a_connected; $base/rec_radiko.sh RN1 20 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-36 11 * * 4   base=/home/pi/radio p=$base/a_nikkei_yonde; $base/rec_radiko.sh RN1 25 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-0 9 * * 1-5   base=/home/pi/radio p=$base/a_ijuin_radioto_news; $base/rec_radiko.sh TBS 19 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-30 21 * * 5    base=/home/pi/radio p=$base/a_matunojyou; $base/rec_radiko.sh TBS 30 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-# 0 1 * * 3 base=/home/pi/radio p=$base/bakushoumondai_cowboy; $base/rec_radiko.sh TBS 120 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-# 0 0 * * 5 base=/home/pi/radio p=$base/haraichi; $base/rec_radiko.sh TBS 60 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-# 0 19 * * 6   base=/home/pi/radio p=$base/miyakawadate; $base/rec_radiko.sh TBS 120 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-# 0 15 * * 2   base=/home/pi/radio p=$base/tamamusubi; $base/rec_radiko.sh TBS 25 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-30 20 * * 6 base=/home/pi/radio p=$base/human_science; $base/rec_nhk_radiko.sh r2 30 $p ; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
+16 9 * * 1-2 base=/home/pi/radio p=$base/E_nyumon_business_eigo; $base/rec_nhk_radiko.sh r2 15 $p ; $base/dircaster.sh $p > $p/feed2.xml
+16 9 * * 3-5 base=/home/pi/radio p=$base/E_jissen_business_eigo; $base/rec_nhk_radiko.sh r2 15 $p ; $base/dircaster.sh $p > $p/feed2.xml
+41 12 * * 6-7  base=/home/pi/radio p=$base/E_gendaieigo; $base/rec_nhk_radiko.sh r2 15 $p ; $base/dircaster.sh $p > $p/feed2.xml
+31 8 * * 1-5  base=/home/pi/radio p=$base/E_eikaiwa_timetrial; $base/rec_nhk_radiko.sh r2 10 $p ; $base/dircaster.sh $p > $p/feed2.xml
+#5 9 * * 1-5 base=/home/pi/radio p=$base/E_vocabu; $base/rec_nhk_radiko.sh r2 5 $p ; $base/dircaster.sh $p > $p/feed2.xml
+#10 9 * * 1-5 base=/home/pi/radio p=$base/E_enjoysimple; $base/rec_nhk_radiko.sh r2 5 $p ; $base/dircaster.sh $p > $p/feed2.xml
+#31 10 * * 1-3 base=/home/pi/radio p=$base/E_toyamakei_eikaiwa; $base/rec_nhk_radiko.sh r2 15 $p ; $base/dircaster.sh $p > $p/feed2.xml
+#55 12 * * 1-5 base=/home/pi/radio p=$base/E_eigojyutu; $base/rec_nhk_radiko.sh r2 5 $p ; $base/dircaster.sh $p > $p/feed2.xml
+1 0 * * 2  base=/home/pi/radio p=$base/a_tokyopodkyoka; $base/rec_radiko.sh TBS 60 $p ; $base/dircaster.sh $p > $p/feed2.xml
+#0 20 * * 4    base=/home/pi/radio p=$base/a_connected; $base/rec_radiko.sh RN1 20 $p ; $base/dircaster.sh $p > $p/feed2.xml
+36 11 * * 4   base=/home/pi/radio p=$base/a_nikkei_yonde; $base/rec_radiko.sh RN1 25 $p ; $base/dircaster.sh $p > $p/feed2.xml
+0 9 * * 1-5   base=/home/pi/radio p=$base/a_ijuin_radioto_news; $base/rec_radiko.sh TBS 19 $p ; $base/dircaster.sh $p > $p/feed2.xml
+30 21 * * 5    base=/home/pi/radio p=$base/a_matunojyou; $base/rec_radiko.sh TBS 30 $p ; $base/dircaster.sh $p > $p/feed2.xml
+# 0 1 * * 3 base=/home/pi/radio p=$base/bakushoumondai_cowboy; $base/rec_radiko.sh TBS 120 $p ; $base/dircaster.sh $p > $p/feed2.xml
+# 0 0 * * 5 base=/home/pi/radio p=$base/haraichi; $base/rec_radiko.sh TBS 60 $p ; $base/dircaster.sh $p > $p/feed2.xml
+# 0 19 * * 6   base=/home/pi/radio p=$base/miyakawadate; $base/rec_radiko.sh TBS 120 $p ; $base/dircaster.sh $p > $p/feed2.xml
+# 0 15 * * 2   base=/home/pi/radio p=$base/tamamusubi; $base/rec_radiko.sh TBS 25 $p ; $base/dircaster.sh $p > $p/feed2.xml
+30 20 * * 6 base=/home/pi/radio p=$base/human_science; $base/rec_nhk_radiko.sh r2 30 $p ; $base/dircaster.sh $p > $p/feed2.xml
 
-30 * * * *   base=/home/pi/radio p=$base/misc; $base/dircaster.sh $p > $p/feed2.xml; $base/upload.sh
-
+30 * * * *   base=/home/pi/radio p=$base/misc; $base/dircaster.sh $p > $p/feed2.xml
+0 6,12,18 * * * python3 /home/pi/tweetdiscord/tweetdiscord.py
 
