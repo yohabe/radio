@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 16 Sep 2020 00:24:22 +0900</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2020 00:24:18 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>a_session22_20200916水22.mp3</title>
+<link>http://192.168.11.3/a_session22/a_session22_20200916%E6%B0%B422.mp3</link>
+<description>a_session22_20200916水22.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/a_session22_20200916%E6%B0%B422.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 17 Sep 2020 00:24:17 +0900</pubDate>
+<itunes:duration>1:55:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/a_session22_20200916%E6%B0%B422.mp3" type="audio/mpeg" length="55201016" />
+</item>
 
 <item>
 <title>a_session22_20200915火22.mp3</title>
