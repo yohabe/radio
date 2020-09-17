@@ -18,4 +18,4 @@
 
 30 * * * *   base=/home/pi/radio p=$base/misc; $base/dircaster.sh $p > $p/feed.xml
 0 6,12,14,18 * * * cd /home/pi/tweetdiscord/; python3 /home/pi/tweetdiscord/tweetdiscord.py
-0 1 * * 5  base=/home/pi/radio p=$base/mygame; python3 /home/pi/mygamemylife.py ; $base/dircaster.sh $p > $p/feed.xml 
+0 1 * * *  base=/home/pi/radio p=$base/mygame; cd $p; python3 /home/pi/mygamemylife.py ; $base/dircaster.sh $p > $p/feed.xml 
