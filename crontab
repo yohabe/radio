@@ -14,7 +14,6 @@
 36 11 * * 4   base=/home/pi/radio p=$base/a_nikkei_yonde; $base/rec_radiko.sh RN1 25 $p ; $base/dircaster.sh $p > $p/feed.xml
 0 9 * * 1-5   base=/home/pi/radio p=$base/a_ijuin_radioto_news; $base/rec_radiko.sh TBS 19 $p ; $base/dircaster.sh $p > $p/feed.xml
 30 21 * * 5    base=/home/pi/radio p=$base/a_matunojyou; $base/rec_radiko.sh TBS 30 $p ; $base/dircaster.sh $p > $p/feed.xml
-30 20 * * 6 base=/home/pi/radio p=$base/human_science; $base/rec_nhk_radiko.sh r2 30 $p ; $base/dircaster.sh $p > $p/feed.xml
 
 30 * * * *   base=/home/pi/radio p=$base/misc; $base/dircaster.sh $p > $p/feed.xml
 0 6,12,14,18 * * * cd /home/pi/tweetdiscord/; python3 /home/pi/tweetdiscord/tweetdiscord.py
