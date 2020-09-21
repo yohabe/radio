@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/ijuin_shinya_bakajikara
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 15 Sep 2020 03:27:46 +0900</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2020 03:28:34 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/ijuin_shinya_bakajikara/icon.jpg" />
+
+<item>
+<title>ijuin_shinya_bakajikara_20200922火01.mp3</title>
+<link>http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20200922%E7%81%AB01.mp3</link>
+<description>ijuin_shinya_bakajikara_20200922火01.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20200922%E7%81%AB01.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 22 Sep 2020 03:28:26 +0900</pubDate>
+<itunes:duration>2:00:00</itunes:duration>
+<enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20200922%E7%81%AB01.mp3" type="audio/mpeg" length="57600824" />
+</item>
 
 <item>
 <title>ijuin_shinya_bakajikara_20200915火01.mp3</title>
