@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 21 Sep 2020 01:01:28 +0900</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2020 01:14:38 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/mygame/icon.jpg" />
 
@@ -25,22 +25,9 @@ Audio files in /home/pi/radio/mygame
 <author></author>
 <guid>http://192.168.11.3/mygame/%E7%AC%AC181%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%83%BB%E5%BE%8C%E7%B7%A8.92819.mp3</guid>
 <dc:creator></dc:creator>
-<pubDate>Sun, 20 Sep 2020 01:13:04 +0900</pubDate>
+<pubDate>Tue, 22 Sep 2020 01:13:59 +0900</pubDate>
 <itunes:duration>1:20:39</itunes:duration>
 <enclosure url="http://192.168.11.3/mygame/%E7%AC%AC181%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%83%BB%E5%BE%8C%E7%B7%A8.92819.mp3" type="audio/mpeg" length="77428160" />
-</item>
-
-<item>
-<title>第180回：小池徹平・前編.92278.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC180%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%83%BB%E5%89%8D%E7%B7%A8.92278.mp3</link>
-<description>第180回：小池徹平・前編.92278.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC180%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%83%BB%E5%89%8D%E7%B7%A8.92278.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sun, 13 Sep 2020 20:32:11 +0900</pubDate>
-<itunes:duration>1:01:34</itunes:duration>
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC180%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%83%BB%E5%89%8D%E7%B7%A8.92278.mp3" type="audio/mpeg" length="59110208" />
 </item>
 
 </channel>
