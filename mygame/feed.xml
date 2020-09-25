@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 25 Sep 2020 01:01:45 +0900</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2020 01:16:58 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/mygame/icon.jpg" />
+
+<item>
+<title>前編.93135.mp3</title>
+<link>http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.93135.mp3</link>
+<description>前編.93135.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.93135.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 26 Sep 2020 01:15:22 +0900</pubDate>
+<itunes:duration>48:04</itunes:duration>
+<enclosure url="http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.93135.mp3" type="audio/mpeg" length="46157120" />
+</item>
 
 <item>
 <title>第181回：小池徹平「ゲームプレイ中は基本「無感情」になれる小池徹平さん、『ゴーストオブツシマ』の「馬の件」だけは悲しかった」.92819.mp3</title>
