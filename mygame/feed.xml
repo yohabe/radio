@@ -13,47 +13,21 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 28 Sep 2020 01:01:51 +0900</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2020 01:08:52 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/mygame/icon.jpg" />
 
 <item>
-<title>前編.93135.mp3</title>
-<link>http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.93135.mp3</link>
-<description>前編.93135.mp3</description>
+<title>第182回：勝間和代「子ども時代の勝間和代さん「もらった5000円を貯金しても、大人になったらはした金になると思う」と全部ゲームに使っていた」.93135.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC182%E5%9B%9E%EF%BC%9A%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%80%8C%E5%AD%90%E3%81%A9%E3%82%82%E6%99%82%E4%BB%A3%E3%81%AE%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%95%E3%82%93%E3%80%8C%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F5000%E5%86%86%E3%82%92%E8%B2%AF%E9%87%91%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89%E3%81%AF%E3%81%97%E3%81%9F%E9%87%91%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E6%80%9D%E3%81%86%E3%80%8D%E3%81%A8%E5%85%A8%E9%83%A8%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%80%8D.93135.mp3</link>
+<description>第182回：勝間和代「子ども時代の勝間和代さん「もらった5000円を貯金しても、大人になったらはした金になると思う」と全部ゲームに使っていた」.93135.mp3</description>
 <itunes:author></itunes:author>
 <author></author>
-<guid>http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.93135.mp3</guid>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC182%E5%9B%9E%EF%BC%9A%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%80%8C%E5%AD%90%E3%81%A9%E3%82%82%E6%99%82%E4%BB%A3%E3%81%AE%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%95%E3%82%93%E3%80%8C%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F5000%E5%86%86%E3%82%92%E8%B2%AF%E9%87%91%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89%E3%81%AF%E3%81%97%E3%81%9F%E9%87%91%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E6%80%9D%E3%81%86%E3%80%8D%E3%81%A8%E5%85%A8%E9%83%A8%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%80%8D.93135.mp3</guid>
 <dc:creator></dc:creator>
-<pubDate>Sat, 26 Sep 2020 01:15:22 +0900</pubDate>
+<pubDate>Tue, 29 Sep 2020 01:08:28 +0900</pubDate>
 <itunes:duration>48:04</itunes:duration>
-<enclosure url="http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.93135.mp3" type="audio/mpeg" length="46157120" />
-</item>
-
-<item>
-<title>第181回：小池徹平「ゲームプレイ中は基本「無感情」になれる小池徹平さん、『ゴーストオブツシマ』の「馬の件」だけは悲しかった」.92819.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC181%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%80%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%82%A4%E4%B8%AD%E3%81%AF%E5%9F%BA%E6%9C%AC%E3%80%8C%E7%84%A1%E6%84%9F%E6%83%85%E3%80%8D%E3%81%AB%E3%81%AA%E3%82%8C%E3%82%8B%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%81%95%E3%82%93%E3%80%81%E3%80%8E%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AA%E3%83%96%E3%83%84%E3%82%B7%E3%83%9E%E3%80%8F%E3%81%AE%E3%80%8C%E9%A6%AC%E3%81%AE%E4%BB%B6%E3%80%8D%E3%81%A0%E3%81%91%E3%81%AF%E6%82%B2%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%8D.92819.mp3</link>
-<description>第181回：小池徹平「ゲームプレイ中は基本「無感情」になれる小池徹平さん、『ゴーストオブツシマ』の「馬の件」だけは悲しかった」.92819.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC181%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%80%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%82%A4%E4%B8%AD%E3%81%AF%E5%9F%BA%E6%9C%AC%E3%80%8C%E7%84%A1%E6%84%9F%E6%83%85%E3%80%8D%E3%81%AB%E3%81%AA%E3%82%8C%E3%82%8B%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%81%95%E3%82%93%E3%80%81%E3%80%8E%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AA%E3%83%96%E3%83%84%E3%82%B7%E3%83%9E%E3%80%8F%E3%81%AE%E3%80%8C%E9%A6%AC%E3%81%AE%E4%BB%B6%E3%80%8D%E3%81%A0%E3%81%91%E3%81%AF%E6%82%B2%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%8D.92819.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Thu, 24 Sep 2020 01:13:14 +0900</pubDate>
-<itunes:duration>1:20:39</itunes:duration>
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC181%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%80%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%82%A4%E4%B8%AD%E3%81%AF%E5%9F%BA%E6%9C%AC%E3%80%8C%E7%84%A1%E6%84%9F%E6%83%85%E3%80%8D%E3%81%AB%E3%81%AA%E3%82%8C%E3%82%8B%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%81%95%E3%82%93%E3%80%81%E3%80%8E%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AA%E3%83%96%E3%83%84%E3%82%B7%E3%83%9E%E3%80%8F%E3%81%AE%E3%80%8C%E9%A6%AC%E3%81%AE%E4%BB%B6%E3%80%8D%E3%81%A0%E3%81%91%E3%81%AF%E6%82%B2%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%8D.92819.mp3" type="audio/mpeg" length="77428160" />
-</item>
-
-<item>
-<title>第181回：小池徹平・後編.92819.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC181%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%83%BB%E5%BE%8C%E7%B7%A8.92819.mp3</link>
-<description>第181回：小池徹平・後編.92819.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC181%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%83%BB%E5%BE%8C%E7%B7%A8.92819.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 22 Sep 2020 01:13:59 +0900</pubDate>
-<itunes:duration>1:20:39</itunes:duration>
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC181%E5%9B%9E%EF%BC%9A%E5%B0%8F%E6%B1%A0%E5%BE%B9%E5%B9%B3%E3%83%BB%E5%BE%8C%E7%B7%A8.92819.mp3" type="audio/mpeg" length="77428160" />
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC182%E5%9B%9E%EF%BC%9A%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%80%8C%E5%AD%90%E3%81%A9%E3%82%82%E6%99%82%E4%BB%A3%E3%81%AE%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%95%E3%82%93%E3%80%8C%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F5000%E5%86%86%E3%82%92%E8%B2%AF%E9%87%91%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E5%A4%A7%E4%BA%BA%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89%E3%81%AF%E3%81%97%E3%81%9F%E9%87%91%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E6%80%9D%E3%81%86%E3%80%8D%E3%81%A8%E5%85%A8%E9%83%A8%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%80%8D.93135.mp3" type="audio/mpeg" length="46157120" />
 </item>
 
 </channel>
