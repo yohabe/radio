@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/E_eikaiwa_timetrial
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 30 Sep 2020 08:40:46 +0900</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2020 08:40:45 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/E_eikaiwa_timetrial/icon.jpg" />
+
+<item>
+<title>E_eikaiwa_timetrial_20201001.mp3</title>
+<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20201001.mp3</link>
+<description>E_eikaiwa_timetrial_20201001.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20201001.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 01 Oct 2020 08:40:37 +0900</pubDate>
+<itunes:duration>10:00</itunes:duration>
+<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20201001.mp3" type="audio/mpeg" length="9600416" />
+</item>
 
 <item>
 <title>E_eikaiwa_timetrial_20200930.mp3</title>
@@ -54,19 +67,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 <pubDate>Mon, 28 Sep 2020 08:40:37 +0900</pubDate>
 <itunes:duration>10:00</itunes:duration>
 <enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200928.mp3" type="audio/mpeg" length="9600416" />
-</item>
-
-<item>
-<title>E_eikaiwa_timetrial_20200925.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200925.mp3</link>
-<description>E_eikaiwa_timetrial_20200925.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200925.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 25 Sep 2020 10:59:35 +0900</pubDate>
-<itunes:duration>2:28:49</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200925.mp3" type="audio/mpeg" length="142869152" />
 </item>
 
 <item>
@@ -668,19 +668,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 </item>
 
 <item>
-<title>E_eikaiwa_timetrial_20200722.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200722.mp3</link>
-<description>E_eikaiwa_timetrial_20200722.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200722.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Wed, 22 Jul 2020 08:34:22 +0900</pubDate>
-<itunes:duration>03:35</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200722.mp3" type="audio/mpeg" length="3441056" />
-</item>
-
-<item>
 <title>E_eikaiwa_timetrial_20200721.mp3</title>
 <link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200721.mp3</link>
 <description>E_eikaiwa_timetrial_20200721.mp3</description>
@@ -925,19 +912,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 <pubDate>Thu, 25 Jun 2020 08:41:05 +0900</pubDate>
 <itunes:duration>10:00</itunes:duration>
 <enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200625.mp3" type="audio/mpeg" length="9600416" />
-</item>
-
-<item>
-<title>E_eikaiwa_timetrial_20200622.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200622.mp3</link>
-<description>E_eikaiwa_timetrial_20200622.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200622.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Wed, 24 Jun 2020 18:24:45 +0900</pubDate>
-<itunes:duration>57:53:24</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200622.mp3" type="audio/mpeg" length="3334472096" />
 </item>
 
 <item>
@@ -1903,32 +1877,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 </item>
 
 <item>
-<title>E_eikaiwa_timetrial_20200302.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200302.mp3</link>
-<description>E_eikaiwa_timetrial_20200302.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200302.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 02 Mar 2020 08:31:02 +0900</pubDate>
-<itunes:duration>00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200302.mp3" type="audio/mpeg" length="8192" />
-</item>
-
-<item>
-<title>E_eikaiwa_timetrial_20200217.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200217.mp3</link>
-<description>E_eikaiwa_timetrial_20200217.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200217.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 17 Feb 2020 08:31:02 +0900</pubDate>
-<itunes:duration>00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200217.mp3" type="audio/mpeg" length="12288" />
-</item>
-
-<item>
 <title>E_eikaiwa_timetrial_20200213.mp3</title>
 <link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20200213.mp3</link>
 <description>E_eikaiwa_timetrial_20200213.mp3</description>
@@ -2592,19 +2540,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 </item>
 
 <item>
-<title>E_eikaiwa_timetrial_20191202.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20191202.mp3</link>
-<description>E_eikaiwa_timetrial_20191202.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20191202.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Wed, 04 Dec 2019 09:54:46 +0900</pubDate>
-<itunes:duration>49:23:58</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20191202.mp3" type="audio/mpeg" length="2845409696" />
-</item>
-
-<item>
 <title>E_eikaiwa_timetrial_20191204.mp3</title>
 <link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20191204.mp3</link>
 <description>E_eikaiwa_timetrial_20191204.mp3</description>
@@ -2758,19 +2693,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 <pubDate>Mon, 18 Nov 2019 08:40:40 +0900</pubDate>
 <itunes:duration>10:00</itunes:duration>
 <enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20191118.mp3" type="audio/mpeg" length="9600416" />
-</item>
-
-<item>
-<title>E_eikaiwa_timetrial_20191113.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20191113.mp3</link>
-<description>E_eikaiwa_timetrial_20191113.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20191113.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Wed, 13 Nov 2019 08:32:14 +0900</pubDate>
-<itunes:duration>01:38</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20191113.mp3" type="audio/mpeg" length="1576960" />
 </item>
 
 <item>
@@ -3151,19 +3073,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 </item>
 
 <item>
-<title>E_eikaiwa_timetrial_20190930.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20190930.mp3</link>
-<description>E_eikaiwa_timetrial_20190930.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20190930.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 30 Sep 2019 08:31:03 +0900</pubDate>
-<itunes:duration>00:05</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20190930.mp3" type="audio/mpeg" length="86016" />
-</item>
-
-<item>
 <title>E_eikaiwa_timetrial_20190927.mp3</title>
 <link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20190927.mp3</link>
 <description>E_eikaiwa_timetrial_20190927.mp3</description>
@@ -3434,19 +3343,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 <pubDate>Fri, 30 Aug 2019 08:40:43 +0900</pubDate>
 <itunes:duration>10:00</itunes:duration>
 <enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20190830.mp3" type="audio/mpeg" length="9600416" />
-</item>
-
-<item>
-<title>E_eikaiwa_timetrial_20190829.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20190829.mp3</link>
-<description>E_eikaiwa_timetrial_20190829.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20190829.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 30 Aug 2019 00:47:30 +0900</pubDate>
-<itunes:duration>16:16:43</itunes:duration>
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20190829.mp3" type="audio/mpeg" length="937656992" />
 </item>
 
 <item>
