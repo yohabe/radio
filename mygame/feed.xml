@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 02 Oct 2020 01:00:47 +0900</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2020 01:17:16 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/mygame/icon.jpg" />
+
+<item>
+<title>後編.93683.mp3</title>
+<link>http://192.168.11.3/mygame/%E5%BE%8C%E7%B7%A8.93683.mp3</link>
+<description>後編.93683.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E5%BE%8C%E7%B7%A8.93683.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 03 Oct 2020 01:16:30 +0900</pubDate>
+<itunes:duration>52:12</itunes:duration>
+<enclosure url="http://192.168.11.3/mygame/%E5%BE%8C%E7%B7%A8.93683.mp3" type="audio/mpeg" length="50112704" />
+</item>
 
 <item>
 <title>第182回：勝間和代「子ども時代の勝間和代さん「もらった5000円を貯金しても、大人になったらはした金になると思う」と全部ゲームに使っていた」.93135.mp3</title>
