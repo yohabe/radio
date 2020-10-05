@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/E_nyumon_business_eigo
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 29 Sep 2020 09:30:42 +0900</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2020 09:30:43 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/E_nyumon_business_eigo/icon.jpg" />
+
+<item>
+<title>E_nyumon_business_eigo_20201005.mp3</title>
+<link>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20201005.mp3</link>
+<description>E_nyumon_business_eigo_20201005.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20201005.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 05 Oct 2020 09:30:32 +0900</pubDate>
+<itunes:duration>15:00</itunes:duration>
+<enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20201005.mp3" type="audio/mpeg" length="14400416" />
+</item>
 
 <item>
 <title>E_nyumon_business_eigo_20200929.mp3</title>
@@ -613,19 +626,6 @@ Audio files in /home/pi/radio/E_nyumon_business_eigo
 <pubDate>Mon, 27 Apr 2020 09:31:10 +0900</pubDate>
 <itunes:duration>15:00</itunes:duration>
 <enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20200427.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_nyumon_business_eigo_20200420.mp3</title>
-<link>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20200420.mp3</link>
-<description>E_nyumon_business_eigo_20200420.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20200420.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 25 Apr 2020 22:02:49 +0900</pubDate>
-<itunes:duration>132:46:12</itunes:duration>
-<enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20200420.mp3" type="audio/mpeg" length="7647560096" />
 </item>
 
 <item>
@@ -2290,19 +2290,6 @@ Audio files in /home/pi/radio/E_nyumon_business_eigo
 <pubDate>Tue, 25 Dec 2018 09:30:37 +0900</pubDate>
 <itunes:duration>15:00</itunes:duration>
 <enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20181225.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_nyumon_business_eigo_20181224.mp3</title>
-<link>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20181224.mp3</link>
-<description>E_nyumon_business_eigo_20181224.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20181224.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 24 Dec 2018 09:19:43 +0900</pubDate>
-<itunes:duration>04:05</itunes:duration>
-<enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20181224.mp3" type="audio/mpeg" length="3932576" />
 </item>
 
 <item>
