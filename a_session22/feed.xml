@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 13 Oct 2020 10:02:20 +0900</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2020 15:39:02 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>a_session22_20201013火15.mp3</title>
+<link>http://192.168.11.3/a_session22/a_session22_20201013%E7%81%AB15.mp3</link>
+<description>a_session22_20201013火15.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/a_session22_20201013%E7%81%AB15.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 13 Oct 2020 15:36:46 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/a_session22_20201013%E7%81%AB15.mp3" type="audio/mpeg" length="1920824" />
+</item>
 
 <item>
 <title>【台風19号の上陸から1年。依然7,000人以上が避難生活】住田昌生×荻上チキ【ニュース】.96224.mp3</title>
