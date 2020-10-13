@@ -13,21 +13,21 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 13 Oct 2020 01:00:34 +0900</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2020 13:30:12 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/mygame/icon.jpg" />
 
 <item>
-<title>前編.95350.mp3</title>
-<link>http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.95350.mp3</link>
-<description>前編.95350.mp3</description>
+<title>第184回：相田周二前編.95350.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC184%E5%9B%9E%EF%BC%9A%E7%9B%B8%E7%94%B0%E5%91%A8%E4%BA%8C%E5%89%8D%E7%B7%A8.95350.mp3</link>
+<description>第184回：相田周二前編.95350.mp3</description>
 <itunes:author></itunes:author>
 <author></author>
-<guid>http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.95350.mp3</guid>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC184%E5%9B%9E%EF%BC%9A%E7%9B%B8%E7%94%B0%E5%91%A8%E4%BA%8C%E5%89%8D%E7%B7%A8.95350.mp3</guid>
 <dc:creator></dc:creator>
-<pubDate>Sat, 10 Oct 2020 01:14:49 +0900</pubDate>
+<pubDate>Tue, 13 Oct 2020 13:29:50 +0900</pubDate>
 <itunes:duration>46:12</itunes:duration>
-<enclosure url="http://192.168.11.3/mygame/%E5%89%8D%E7%B7%A8.95350.mp3" type="audio/mpeg" length="44355008" />
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC184%E5%9B%9E%EF%BC%9A%E7%9B%B8%E7%94%B0%E5%91%A8%E4%BA%8C%E5%89%8D%E7%B7%A8.95350.mp3" type="audio/mpeg" length="44355008" />
 </item>
 
 </channel>
