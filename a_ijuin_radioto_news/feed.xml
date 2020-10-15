@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_ijuin_radioto_news
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 14 Oct 2020 09:22:58 +0900</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2020 09:23:04 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_ijuin_radioto_news/icon.jpg" />
+
+<item>
+<title>a_ijuin_radioto_news_20201015木09.mp3</title>
+<link>http://192.168.11.3/a_ijuin_radioto_news/a_ijuin_radioto_news_20201015%E6%9C%A809.mp3</link>
+<description>a_ijuin_radioto_news_20201015木09.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_ijuin_radioto_news/a_ijuin_radioto_news_20201015%E6%9C%A809.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 15 Oct 2020 09:22:56 +0900</pubDate>
+<itunes:duration>19:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_ijuin_radioto_news/a_ijuin_radioto_news_20201015%E6%9C%A809.mp3" type="audio/mpeg" length="9121016" />
+</item>
 
 <item>
 <title>a_ijuin_radioto_news_20201014水09.mp3</title>
