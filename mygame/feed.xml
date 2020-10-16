@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 16 Oct 2020 01:00:34 +0900</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2020 01:09:16 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/mygame/icon.jpg" />
+
+<item>
+<title>第185回：相田周二後編.96548.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC185%E5%9B%9E%EF%BC%9A%E7%9B%B8%E7%94%B0%E5%91%A8%E4%BA%8C%E5%BE%8C%E7%B7%A8.96548.mp3</link>
+<description>第185回：相田周二後編.96548.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC185%E5%9B%9E%EF%BC%9A%E7%9B%B8%E7%94%B0%E5%91%A8%E4%BA%8C%E5%BE%8C%E7%B7%A8.96548.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 17 Oct 2020 01:08:30 +0900</pubDate>
+<itunes:duration>47:07</itunes:duration>
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC185%E5%9B%9E%EF%BC%9A%E7%9B%B8%E7%94%B0%E5%91%A8%E4%BA%8C%E5%BE%8C%E7%B7%A8.96548.mp3" type="audio/mpeg" length="45237440" />
+</item>
 
 <item>
 <title>第184回：相田周二前編.95350.mp3</title>
