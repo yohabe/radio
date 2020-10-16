@@ -1,0 +1,4 @@
+rss_url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC5oLRA4CAPwZdZ-o0yLF-Tg'
+title_search_negative: 'ダイジェスト'
+where_to: '/usr/local/bin/youtube-dl -i --extract-audio --audio-format mp3 {}'
+
