@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+ xmlns:media="http://search.yahoo.com/mrss"
+ version="2.0">
+<channel>
+<ttl>60</ttl>
+<title>lifescience_takato Podcast</title>
+<link>http://192.168.11.3/lifescience_takato</link>
+<description>
+Audio files in /home/pi/radio/lifescience_takato
+</description>
+<language>ja</language>
+<lastBuildDate>Sun, 18 Oct 2020 15:56:24 +0900</lastBuildDate>
+<generator>https://github.com/miyagawa/dircaster</generator>
+<itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/lifescience_takato/icon.jpg" />
+
+<item>
+<title>【ゲノム編集】2020年ノーベル化学賞を世界最速で4分解説【Vtuber】-TsSVnY4tG-k.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%80%90%E3%82%B2%E3%83%8E%E3%83%A0%E7%B7%A8%E9%9B%86%E3%80%912020%E5%B9%B4%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E5%8C%96%E5%AD%A6%E8%B3%9E%E3%82%92%E4%B8%96%E7%95%8C%E6%9C%80%E9%80%9F%E3%81%A74%E5%88%86%E8%A7%A3%E8%AA%AC%E3%80%90Vtuber%E3%80%91-TsSVnY4tG-k.mp3</link>
+<description>【ゲノム編集】2020年ノーベル化学賞を世界最速で4分解説【Vtuber】-TsSVnY4tG-k.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%80%90%E3%82%B2%E3%83%8E%E3%83%A0%E7%B7%A8%E9%9B%86%E3%80%912020%E5%B9%B4%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E5%8C%96%E5%AD%A6%E8%B3%9E%E3%82%92%E4%B8%96%E7%95%8C%E6%9C%80%E9%80%9F%E3%81%A74%E5%88%86%E8%A7%A3%E8%AA%AC%E3%80%90Vtuber%E3%80%91-TsSVnY4tG-k.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:55:36 +0900</pubDate>
+<itunes:duration>04:02</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%80%90%E3%82%B2%E3%83%8E%E3%83%A0%E7%B7%A8%E9%9B%86%E3%80%912020%E5%B9%B4%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E5%8C%96%E5%AD%A6%E8%B3%9E%E3%82%92%E4%B8%96%E7%95%8C%E6%9C%80%E9%80%9F%E3%81%A74%E5%88%86%E8%A7%A3%E8%AA%AC%E3%80%90Vtuber%E3%80%91-TsSVnY4tG-k.mp3" type="audio/mpeg" length="3261704" />
+</item>
+
+<item>
+<title>VTuberによる2020年ノーベル生理学医学賞発表予想・同時視聴会【C型肝炎ウイルスの発見】-ICY0ZjXeSH4.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/VTuber%E3%81%AB%E3%82%88%E3%82%8B2020%E5%B9%B4%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E7%94%9F%E7%90%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E8%B3%9E%E7%99%BA%E8%A1%A8%E4%BA%88%E6%83%B3%E3%83%BB%E5%90%8C%E6%99%82%E8%A6%96%E8%81%B4%E4%BC%9A%E3%80%90C%E5%9E%8B%E8%82%9D%E7%82%8E%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AE%E7%99%BA%E8%A6%8B%E3%80%91-ICY0ZjXeSH4.mp3</link>
+<description>VTuberによる2020年ノーベル生理学医学賞発表予想・同時視聴会【C型肝炎ウイルスの発見】-ICY0ZjXeSH4.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/VTuber%E3%81%AB%E3%82%88%E3%82%8B2020%E5%B9%B4%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E7%94%9F%E7%90%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E8%B3%9E%E7%99%BA%E8%A1%A8%E4%BA%88%E6%83%B3%E3%83%BB%E5%90%8C%E6%99%82%E8%A6%96%E8%81%B4%E4%BC%9A%E3%80%90C%E5%9E%8B%E8%82%9D%E7%82%8E%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AE%E7%99%BA%E8%A6%8B%E3%80%91-ICY0ZjXeSH4.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:44:43 +0900</pubDate>
+<itunes:duration>1:17:34</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/VTuber%E3%81%AB%E3%82%88%E3%82%8B2020%E5%B9%B4%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E7%94%9F%E7%90%86%E5%AD%A6%E5%8C%BB%E5%AD%A6%E8%B3%9E%E7%99%BA%E8%A1%A8%E4%BA%88%E6%83%B3%E3%83%BB%E5%90%8C%E6%99%82%E8%A6%96%E8%81%B4%E4%BC%9A%E3%80%90C%E5%9E%8B%E8%82%9D%E7%82%8E%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AE%E7%99%BA%E8%A6%8B%E3%80%91-ICY0ZjXeSH4.mp3" type="audio/mpeg" length="39318597" />
+</item>
+
+<item>
+<title>VTuberによるイグノーベル賞授賞式同時視聴会【放送事故不可避！？】-jZ-t25GhaZI.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/VTuber%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E6%8E%88%E8%B3%9E%E5%BC%8F%E5%90%8C%E6%99%82%E8%A6%96%E8%81%B4%E4%BC%9A%E3%80%90%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85%E4%B8%8D%E5%8F%AF%E9%81%BF%EF%BC%81%EF%BC%9F%E3%80%91-jZ-t25GhaZI.mp3</link>
+<description>VTuberによるイグノーベル賞授賞式同時視聴会【放送事故不可避！？】-jZ-t25GhaZI.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/VTuber%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E6%8E%88%E8%B3%9E%E5%BC%8F%E5%90%8C%E6%99%82%E8%A6%96%E8%81%B4%E4%BC%9A%E3%80%90%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85%E4%B8%8D%E5%8F%AF%E9%81%BF%EF%BC%81%EF%BC%9F%E3%80%91-jZ-t25GhaZI.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:30:48 +0900</pubDate>
+<itunes:duration>1:30:44</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/VTuber%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E6%8E%88%E8%B3%9E%E5%BC%8F%E5%90%8C%E6%99%82%E8%A6%96%E8%81%B4%E4%BC%9A%E3%80%90%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85%E4%B8%8D%E5%8F%AF%E9%81%BF%EF%BC%81%EF%BC%9F%E3%80%91-jZ-t25GhaZI.mp3" type="audio/mpeg" length="43611543" />
+</item>
+
+<item>
+<title>たかとーのテスト配信！【第0回】-ccYd45B2oyE.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%81%9F%E3%81%8B%E3%81%A8%E3%83%BC%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E9%85%8D%E4%BF%A1%EF%BC%81%E3%80%90%E7%AC%AC0%E5%9B%9E%E3%80%91-ccYd45B2oyE.mp3</link>
+<description>たかとーのテスト配信！【第0回】-ccYd45B2oyE.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%81%9F%E3%81%8B%E3%81%A8%E3%83%BC%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E9%85%8D%E4%BF%A1%EF%BC%81%E3%80%90%E7%AC%AC0%E5%9B%9E%E3%80%91-ccYd45B2oyE.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:17:30 +0900</pubDate>
+<itunes:duration>58:35</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%81%9F%E3%81%8B%E3%81%A8%E3%83%BC%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E9%85%8D%E4%BF%A1%EF%BC%81%E3%80%90%E7%AC%AC0%E5%9B%9E%E3%80%91-ccYd45B2oyE.mp3" type="audio/mpeg" length="41872688" />
+</item>
+
+<item>
+<title>【生命の起源】現生生物の最終共通祖先はどのような生物だったか？【Vtuber解説】-uRF4pAUmobI.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%80%90%E7%94%9F%E5%91%BD%E3%81%AE%E8%B5%B7%E6%BA%90%E3%80%91%E7%8F%BE%E7%94%9F%E7%94%9F%E7%89%A9%E3%81%AE%E6%9C%80%E7%B5%82%E5%85%B1%E9%80%9A%E7%A5%96%E5%85%88%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%94%9F%E7%89%A9%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%EF%BC%9F%E3%80%90Vtuber%E8%A7%A3%E8%AA%AC%E3%80%91-uRF4pAUmobI.mp3</link>
+<description>【生命の起源】現生生物の最終共通祖先はどのような生物だったか？【Vtuber解説】-uRF4pAUmobI.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%80%90%E7%94%9F%E5%91%BD%E3%81%AE%E8%B5%B7%E6%BA%90%E3%80%91%E7%8F%BE%E7%94%9F%E7%94%9F%E7%89%A9%E3%81%AE%E6%9C%80%E7%B5%82%E5%85%B1%E9%80%9A%E7%A5%96%E5%85%88%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%94%9F%E7%89%A9%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%EF%BC%9F%E3%80%90Vtuber%E8%A7%A3%E8%AA%AC%E3%80%91-uRF4pAUmobI.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:14:52 +0900</pubDate>
+<itunes:duration>05:24</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%80%90%E7%94%9F%E5%91%BD%E3%81%AE%E8%B5%B7%E6%BA%90%E3%80%91%E7%8F%BE%E7%94%9F%E7%94%9F%E7%89%A9%E3%81%AE%E6%9C%80%E7%B5%82%E5%85%B1%E9%80%9A%E7%A5%96%E5%85%88%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%94%9F%E7%89%A9%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%EF%BC%9F%E3%80%90Vtuber%E8%A7%A3%E8%AA%AC%E3%80%91-uRF4pAUmobI.mp3" type="audio/mpeg" length="4206802" />
+</item>
+
+<item>
+<title>【COVID-19】男性型脱毛症AGAに対する新型コロナウイルス重症化の症例検証【Vtuber】-vA0LNq-gAMA.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%80%90COVID-19%E3%80%91%E7%94%B7%E6%80%A7%E5%9E%8B%E8%84%B1%E6%AF%9B%E7%97%87AGA%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E9%87%8D%E7%97%87%E5%8C%96%E3%81%AE%E7%97%87%E4%BE%8B%E6%A4%9C%E8%A8%BC%E3%80%90Vtuber%E3%80%91-vA0LNq-gAMA.mp3</link>
+<description>【COVID-19】男性型脱毛症AGAに対する新型コロナウイルス重症化の症例検証【Vtuber】-vA0LNq-gAMA.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%80%90COVID-19%E3%80%91%E7%94%B7%E6%80%A7%E5%9E%8B%E8%84%B1%E6%AF%9B%E7%97%87AGA%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E9%87%8D%E7%97%87%E5%8C%96%E3%81%AE%E7%97%87%E4%BE%8B%E6%A4%9C%E8%A8%BC%E3%80%90Vtuber%E3%80%91-vA0LNq-gAMA.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:13:53 +0900</pubDate>
+<itunes:duration>03:13</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%80%90COVID-19%E3%80%91%E7%94%B7%E6%80%A7%E5%9E%8B%E8%84%B1%E6%AF%9B%E7%97%87AGA%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E9%87%8D%E7%97%87%E5%8C%96%E3%81%AE%E7%97%87%E4%BE%8B%E6%A4%9C%E8%A8%BC%E3%80%90Vtuber%E3%80%91-vA0LNq-gAMA.mp3" type="audio/mpeg" length="2704112" />
+</item>
+
+<item>
+<title>【COVID-19】新型コロナウイルスに関する人工知能、機械学習論文レビュー【Vtuber】-zcr4AEtWx14.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%80%90COVID-19%E3%80%91%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%80%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%AB%96%E6%96%87%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%90Vtuber%E3%80%91-zcr4AEtWx14.mp3</link>
+<description>【COVID-19】新型コロナウイルスに関する人工知能、機械学習論文レビュー【Vtuber】-zcr4AEtWx14.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%80%90COVID-19%E3%80%91%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%80%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%AB%96%E6%96%87%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%90Vtuber%E3%80%91-zcr4AEtWx14.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:12:37 +0900</pubDate>
+<itunes:duration>04:57</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%80%90COVID-19%E3%80%91%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%80%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%AB%96%E6%96%87%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%90Vtuber%E3%80%91-zcr4AEtWx14.mp3" type="audio/mpeg" length="4058576" />
+</item>
+
+<item>
+<title>90秒でわかる高遠 頼【生命科学Vtuber】-8gGqRShagSk.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/90%E7%A7%92%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E9%AB%98%E9%81%A0%20%E9%A0%BC%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6Vtuber%E3%80%91-8gGqRShagSk.mp3</link>
+<description>90秒でわかる高遠 頼【生命科学Vtuber】-8gGqRShagSk.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/90%E7%A7%92%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E9%AB%98%E9%81%A0%20%E9%A0%BC%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6Vtuber%E3%80%91-8gGqRShagSk.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:11:58 +0900</pubDate>
+<itunes:duration>01:27</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/90%E7%A7%92%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E9%AB%98%E9%81%A0%20%E9%A0%BC%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6Vtuber%E3%80%91-8gGqRShagSk.mp3" type="audio/mpeg" length="1559336" />
+</item>
+
+<item>
+<title>生物学の世界地図かいてみた 【Map of Biology】-rrKRrI0yepk.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E7%94%9F%E7%89%A9%E5%AD%A6%E3%81%AE%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%B3%E3%81%8B%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F%20%E3%80%90Map%20of%20Biology%E3%80%91-rrKRrI0yepk.mp3</link>
+<description>生物学の世界地図かいてみた 【Map of Biology】-rrKRrI0yepk.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E7%94%9F%E7%89%A9%E5%AD%A6%E3%81%AE%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%B3%E3%81%8B%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F%20%E3%80%90Map%20of%20Biology%E3%80%91-rrKRrI0yepk.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:06:49 +0900</pubDate>
+<itunes:duration>24:58</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E7%94%9F%E7%89%A9%E5%AD%A6%E3%81%AE%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%B3%E3%81%8B%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F%20%E3%80%90Map%20of%20Biology%E3%80%91-rrKRrI0yepk.mp3" type="audio/mpeg" length="21426584" />
+</item>
+
+<item>
+<title>【VTuber】YouTubeでの論文紹介動画の作成における著作権について【違反したら100万円！？】-8cM0jUlOOm0.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%80%90VTuber%E3%80%91YouTube%E3%81%A7%E3%81%AE%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%91%97%E4%BD%9C%E6%A8%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%90%E9%81%95%E5%8F%8D%E3%81%97%E3%81%9F%E3%82%89100%E4%B8%87%E5%86%86%EF%BC%81%EF%BC%9F%E3%80%91-8cM0jUlOOm0.mp3</link>
+<description>【VTuber】YouTubeでの論文紹介動画の作成における著作権について【違反したら100万円！？】-8cM0jUlOOm0.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%80%90VTuber%E3%80%91YouTube%E3%81%A7%E3%81%AE%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%91%97%E4%BD%9C%E6%A8%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%90%E9%81%95%E5%8F%8D%E3%81%97%E3%81%9F%E3%82%89100%E4%B8%87%E5%86%86%EF%BC%81%EF%BC%9F%E3%80%91-8cM0jUlOOm0.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:05:02 +0900</pubDate>
+<itunes:duration>05:25</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%80%90VTuber%E3%80%91YouTube%E3%81%A7%E3%81%AE%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E5%8B%95%E7%94%BB%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%91%97%E4%BD%9C%E6%A8%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%90%E9%81%95%E5%8F%8D%E3%81%97%E3%81%9F%E3%82%89100%E4%B8%87%E5%86%86%EF%BC%81%EF%BC%9F%E3%80%91-8cM0jUlOOm0.mp3" type="audio/mpeg" length="4600736" />
+</item>
+
+<item>
+<title>ソーシャルディスタンスとは？サイエンス誌に投稿されたハーバード大学の論文を基に解説【生命科学系Vtuber】-XB5L99YFniM.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%A8%E3%81%AF%EF%BC%9F%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E8%AA%8C%E3%81%AB%E6%8A%95%E7%A8%BF%E3%81%95%E3%82%8C%E3%81%9F%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E8%AB%96%E6%96%87%E3%82%92%E5%9F%BA%E3%81%AB%E8%A7%A3%E8%AA%AC%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVtuber%E3%80%91-XB5L99YFniM.mp3</link>
+<description>ソーシャルディスタンスとは？サイエンス誌に投稿されたハーバード大学の論文を基に解説【生命科学系Vtuber】-XB5L99YFniM.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%A8%E3%81%AF%EF%BC%9F%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E8%AA%8C%E3%81%AB%E6%8A%95%E7%A8%BF%E3%81%95%E3%82%8C%E3%81%9F%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E8%AB%96%E6%96%87%E3%82%92%E5%9F%BA%E3%81%AB%E8%A7%A3%E8%AA%AC%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVtuber%E3%80%91-XB5L99YFniM.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:02:40 +0900</pubDate>
+<itunes:duration>10:21</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%A8%E3%81%AF%EF%BC%9F%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E8%AA%8C%E3%81%AB%E6%8A%95%E7%A8%BF%E3%81%95%E3%82%8C%E3%81%9F%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E8%AB%96%E6%96%87%E3%82%92%E5%9F%BA%E3%81%AB%E8%A7%A3%E8%AA%AC%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVtuber%E3%80%91-XB5L99YFniM.mp3" type="audio/mpeg" length="8720336" />
+</item>
+
+<item>
+<title>【論文紹介】クライオ電子顕微鏡によるタンパク質構造解析での機械学習の応用【生命科学系VTuber準備中】-UBfY_eBRZe8.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%80%90%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%91%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%AA%E9%9B%BB%E5%AD%90%E9%A1%95%E5%BE%AE%E9%8F%A1%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E3%81%A7%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%BF%9C%E7%94%A8%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVTuber%E6%BA%96%E5%82%99%E4%B8%AD%E3%80%91-UBfY_eBRZe8.mp3</link>
+<description>【論文紹介】クライオ電子顕微鏡によるタンパク質構造解析での機械学習の応用【生命科学系VTuber準備中】-UBfY_eBRZe8.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%80%90%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%91%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%AA%E9%9B%BB%E5%AD%90%E9%A1%95%E5%BE%AE%E9%8F%A1%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E3%81%A7%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%BF%9C%E7%94%A8%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVTuber%E6%BA%96%E5%82%99%E4%B8%AD%E3%80%91-UBfY_eBRZe8.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 15:00:16 +0900</pubDate>
+<itunes:duration>04:12</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%80%90%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%91%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%AA%E9%9B%BB%E5%AD%90%E9%A1%95%E5%BE%AE%E9%8F%A1%E3%81%AB%E3%82%88%E3%82%8B%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA%E6%A7%8B%E9%80%A0%E8%A7%A3%E6%9E%90%E3%81%A7%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%BF%9C%E7%94%A8%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVTuber%E6%BA%96%E5%82%99%E4%B8%AD%E3%80%91-UBfY_eBRZe8.mp3" type="audio/mpeg" length="2824904" />
+</item>
+
+<item>
+<title>【合成生物学、システム生物学】二酸化炭素を食べる大腸菌の論文紹介【生命科学系Vtuber】-BNhvjVEk0gA.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E3%80%90%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%81%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%91%E4%BA%8C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E5%A4%A7%E8%85%B8%E8%8F%8C%E3%81%AE%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVtuber%E3%80%91-BNhvjVEk0gA.mp3</link>
+<description>【合成生物学、システム生物学】二酸化炭素を食べる大腸菌の論文紹介【生命科学系Vtuber】-BNhvjVEk0gA.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E3%80%90%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%81%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%91%E4%BA%8C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E5%A4%A7%E8%85%B8%E8%8F%8C%E3%81%AE%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVtuber%E3%80%91-BNhvjVEk0gA.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 14:58:45 +0900</pubDate>
+<itunes:duration>06:39</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E3%80%90%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%81%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%91%E4%BA%8C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E5%A4%A7%E8%85%B8%E8%8F%8C%E3%81%AE%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%90%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%B3%BBVtuber%E3%80%91-BNhvjVEk0gA.mp3" type="audio/mpeg" length="4063712" />
+</item>
+
+<item>
+<title>次世代の再生医療？キメラ、異種移植って？ -ヒトブタ間移植の現状 -【VTuber生命科学解説】-pomzzRKb92k.mp3</title>
+<link>http://192.168.11.3/lifescience_takato/%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E5%86%8D%E7%94%9F%E5%8C%BB%E7%99%82%EF%BC%9F%E3%82%AD%E3%83%A1%E3%83%A9%E3%80%81%E7%95%B0%E7%A8%AE%E7%A7%BB%E6%A4%8D%E3%81%A3%E3%81%A6%EF%BC%9F%20-%E3%83%92%E3%83%88%E3%83%96%E3%82%BF%E9%96%93%E7%A7%BB%E6%A4%8D%E3%81%AE%E7%8F%BE%E7%8A%B6%20-%E3%80%90VTuber%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E8%A7%A3%E8%AA%AC%E3%80%91-pomzzRKb92k.mp3</link>
+<description>次世代の再生医療？キメラ、異種移植って？ -ヒトブタ間移植の現状 -【VTuber生命科学解説】-pomzzRKb92k.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/lifescience_takato/%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E5%86%8D%E7%94%9F%E5%8C%BB%E7%99%82%EF%BC%9F%E3%82%AD%E3%83%A1%E3%83%A9%E3%80%81%E7%95%B0%E7%A8%AE%E7%A7%BB%E6%A4%8D%E3%81%A3%E3%81%A6%EF%BC%9F%20-%E3%83%92%E3%83%88%E3%83%96%E3%82%BF%E9%96%93%E7%A7%BB%E6%A4%8D%E3%81%AE%E7%8F%BE%E7%8A%B6%20-%E3%80%90VTuber%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E8%A7%A3%E8%AA%AC%E3%80%91-pomzzRKb92k.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 18 Oct 2020 14:57:24 +0900</pubDate>
+<itunes:duration>05:38</itunes:duration>
+<enclosure url="http://192.168.11.3/lifescience_takato/%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E5%86%8D%E7%94%9F%E5%8C%BB%E7%99%82%EF%BC%9F%E3%82%AD%E3%83%A1%E3%83%A9%E3%80%81%E7%95%B0%E7%A8%AE%E7%A7%BB%E6%A4%8D%E3%81%A3%E3%81%A6%EF%BC%9F%20-%E3%83%92%E3%83%88%E3%83%96%E3%82%BF%E9%96%93%E7%A7%BB%E6%A4%8D%E3%81%AE%E7%8F%BE%E7%8A%B6%20-%E3%80%90VTuber%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E8%A7%A3%E8%AA%AC%E3%80%91-pomzzRKb92k.mp3" type="audio/mpeg" length="3424400" />
+</item>
+
+</channel>
+</rss>
