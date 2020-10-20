@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 20 Oct 2020 10:04:46 +0900</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2020 15:41:25 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>a_session22_20201020火15.mp3</title>
+<link>http://192.168.11.3/a_session22/a_session22_20201020%E7%81%AB15.mp3</link>
+<description>a_session22_20201020火15.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/a_session22_20201020%E7%81%AB15.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 15:36:47 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/a_session22_20201020%E7%81%AB15.mp3" type="audio/mpeg" length="1920824" />
+</item>
 
 <item>
 <title>特集「新型コロナ、ヨーロッパで再び感染拡大。厳しい規制が始まったフランスとイギリスは、いまどうなっているのか」髙崎順子（仏）×ピネガー由紀（英）×荻上チキ.96850.mp3</title>

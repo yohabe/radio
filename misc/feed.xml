@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/misc
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 20 Oct 2020 14:30:01 +0900</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2020 15:30:02 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/misc/icon.jpg" />
 
@@ -41,6 +41,19 @@ Audio files in /home/pi/radio/misc
 <pubDate>Sat, 17 Oct 2020 15:22:23 +0900</pubDate>
 <itunes:duration>50:48</itunes:duration>
 <enclosure url="http://192.168.11.3/misc/%E5%9B%A0%E7%B8%81%E3%81%AE%E4%BA%BA%E3%81%A8%E5%92%8C%E8%A7%A3%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%80%81%E8%B3%AA%E7%96%91%E5%BF%9C%E7%AD%94%E3%81%97%E3%81%BE%E3%81%99-YzzfBUg6rto.mp3" type="audio/mpeg" length="26606988" />
+</item>
+
+<item>
+<title>backspace.fm新年会スペシャルトークショー「健康と筋肉と散財」-143YEV9h2i0.mp3</title>
+<link>http://192.168.11.3/misc/backspace.fm%E6%96%B0%E5%B9%B4%E4%BC%9A%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC%E3%80%8C%E5%81%A5%E5%BA%B7%E3%81%A8%E7%AD%8B%E8%82%89%E3%81%A8%E6%95%A3%E8%B2%A1%E3%80%8D-143YEV9h2i0.mp3</link>
+<description>backspace.fm新年会スペシャルトークショー「健康と筋肉と散財」-143YEV9h2i0.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/backspace.fm%E6%96%B0%E5%B9%B4%E4%BC%9A%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC%E3%80%8C%E5%81%A5%E5%BA%B7%E3%81%A8%E7%AD%8B%E8%82%89%E3%81%A8%E6%95%A3%E8%B2%A1%E3%80%8D-143YEV9h2i0.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 13 Jan 2020 02:56:25 +0900</pubDate>
+<itunes:duration>1:04:49</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/backspace.fm%E6%96%B0%E5%B9%B4%E4%BC%9A%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC%E3%80%8C%E5%81%A5%E5%BA%B7%E3%81%A8%E7%AD%8B%E8%82%89%E3%81%A8%E6%95%A3%E8%B2%A1%E3%80%8D-143YEV9h2i0.mp3" type="audio/mpeg" length="35373710" />
 </item>
 
 </channel>
