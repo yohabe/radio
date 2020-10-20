@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+ xmlns:media="http://search.yahoo.com/mrss"
+ version="2.0">
+<channel>
+<ttl>60</ttl>
+<title>videonews_marugeki Podcast</title>
+<link>http://192.168.11.3/videonews_marugeki</link>
+<description>
+Audio files in /home/pi/radio/videonews_marugeki
+</description>
+<language>ja</language>
+<lastBuildDate>Tue, 20 Oct 2020 12:56:35 +0900</lastBuildDate>
+<generator>https://github.com/miyagawa/dircaster</generator>
+<itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/videonews_marugeki/icon.jpg" />
+
+<item>
+<title>【５金映画スペシャル＋α Part2】「法外の正義」どころか日本はまず「正義のイロハ」からやり直せ-8GQq-fxvwhE.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E6%98%A0%E7%94%BB%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%8B%CE%B1%20Part2%E3%80%91%E3%80%8C%E6%B3%95%E5%A4%96%E3%81%AE%E6%AD%A3%E7%BE%A9%E3%80%8D%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B%E6%97%A5%E6%9C%AC%E3%81%AF%E3%81%BE%E3%81%9A%E3%80%8C%E6%AD%A3%E7%BE%A9%E3%81%AE%E3%82%A4%E3%83%AD%E3%83%8F%E3%80%8D%E3%81%8B%E3%82%89%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B-8GQq-fxvwhE.mp3</link>
+<description>【５金映画スペシャル＋α Part2】「法外の正義」どころか日本はまず「正義のイロハ」からやり直せ-8GQq-fxvwhE.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E6%98%A0%E7%94%BB%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%8B%CE%B1%20Part2%E3%80%91%E3%80%8C%E6%B3%95%E5%A4%96%E3%81%AE%E6%AD%A3%E7%BE%A9%E3%80%8D%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B%E6%97%A5%E6%9C%AC%E3%81%AF%E3%81%BE%E3%81%9A%E3%80%8C%E6%AD%A3%E7%BE%A9%E3%81%AE%E3%82%A4%E3%83%AD%E3%83%8F%E3%80%8D%E3%81%8B%E3%82%89%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B-8GQq-fxvwhE.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:50:50 +0900</pubDate>
+<itunes:duration>1:19:19</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E6%98%A0%E7%94%BB%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%8B%CE%B1%20Part2%E3%80%91%E3%80%8C%E6%B3%95%E5%A4%96%E3%81%AE%E6%AD%A3%E7%BE%A9%E3%80%8D%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B%E6%97%A5%E6%9C%AC%E3%81%AF%E3%81%BE%E3%81%9A%E3%80%8C%E6%AD%A3%E7%BE%A9%E3%81%AE%E3%82%A4%E3%83%AD%E3%83%8F%E3%80%8D%E3%81%8B%E3%82%89%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B-8GQq-fxvwhE.mp3" type="audio/mpeg" length="42145460" />
+</item>
+
+<item>
+<title>【５金映画スペシャル＋α Part1】「法外の正義」どころか日本はまず「正義のイロハ」からやり直せ-iJJwz6Ipi9U.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E6%98%A0%E7%94%BB%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%8B%CE%B1%20Part1%E3%80%91%E3%80%8C%E6%B3%95%E5%A4%96%E3%81%AE%E6%AD%A3%E7%BE%A9%E3%80%8D%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B%E6%97%A5%E6%9C%AC%E3%81%AF%E3%81%BE%E3%81%9A%E3%80%8C%E6%AD%A3%E7%BE%A9%E3%81%AE%E3%82%A4%E3%83%AD%E3%83%8F%E3%80%8D%E3%81%8B%E3%82%89%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B-iJJwz6Ipi9U.mp3</link>
+<description>【５金映画スペシャル＋α Part1】「法外の正義」どころか日本はまず「正義のイロハ」からやり直せ-iJJwz6Ipi9U.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E6%98%A0%E7%94%BB%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%8B%CE%B1%20Part1%E3%80%91%E3%80%8C%E6%B3%95%E5%A4%96%E3%81%AE%E6%AD%A3%E7%BE%A9%E3%80%8D%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B%E6%97%A5%E6%9C%AC%E3%81%AF%E3%81%BE%E3%81%9A%E3%80%8C%E6%AD%A3%E7%BE%A9%E3%81%AE%E3%82%A4%E3%83%AD%E3%83%8F%E3%80%8D%E3%81%8B%E3%82%89%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B-iJJwz6Ipi9U.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:50:35 +0900</pubDate>
+<itunes:duration>1:20:13</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E6%98%A0%E7%94%BB%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%8B%CE%B1%20Part1%E3%80%91%E3%80%8C%E6%B3%95%E5%A4%96%E3%81%AE%E6%AD%A3%E7%BE%A9%E3%80%8D%E3%81%A9%E3%81%93%E3%82%8D%E3%81%8B%E6%97%A5%E6%9C%AC%E3%81%AF%E3%81%BE%E3%81%9A%E3%80%8C%E6%AD%A3%E7%BE%A9%E3%81%AE%E3%82%A4%E3%83%AD%E3%83%8F%E3%80%8D%E3%81%8B%E3%82%89%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B-iJJwz6Ipi9U.mp3" type="audio/mpeg" length="42292093" />
+</item>
+
+<item>
+<title>【５金スペシャルPart2】絶望と感動のマル激20年史 これからも種を撒き続けます-pOYsGdmtNmU.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABPart2%E3%80%91%E7%B5%B6%E6%9C%9B%E3%81%A8%E6%84%9F%E5%8B%95%E3%81%AE%E3%83%9E%E3%83%AB%E6%BF%8020%E5%B9%B4%E5%8F%B2%20%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82%E7%A8%AE%E3%82%92%E6%92%92%E3%81%8D%E7%B6%9A%E3%81%91%E3%81%BE%E3%81%99-pOYsGdmtNmU.mp3</link>
+<description>【５金スペシャルPart2】絶望と感動のマル激20年史 これからも種を撒き続けます-pOYsGdmtNmU.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABPart2%E3%80%91%E7%B5%B6%E6%9C%9B%E3%81%A8%E6%84%9F%E5%8B%95%E3%81%AE%E3%83%9E%E3%83%AB%E6%BF%8020%E5%B9%B4%E5%8F%B2%20%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82%E7%A8%AE%E3%82%92%E6%92%92%E3%81%8D%E7%B6%9A%E3%81%91%E3%81%BE%E3%81%99-pOYsGdmtNmU.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:50:17 +0900</pubDate>
+<itunes:duration>1:04:37</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABPart2%E3%80%91%E7%B5%B6%E6%9C%9B%E3%81%A8%E6%84%9F%E5%8B%95%E3%81%AE%E3%83%9E%E3%83%AB%E6%BF%8020%E5%B9%B4%E5%8F%B2%20%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82%E7%A8%AE%E3%82%92%E6%92%92%E3%81%8D%E7%B6%9A%E3%81%91%E3%81%BE%E3%81%99-pOYsGdmtNmU.mp3" type="audio/mpeg" length="38709621" />
+</item>
+
+<item>
+<title>【５金スペシャルPart1】絶望と感動のマル激20年史 これからも種を撒き続けます-rzt4Dj9grKE.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABPart1%E3%80%91%E7%B5%B6%E6%9C%9B%E3%81%A8%E6%84%9F%E5%8B%95%E3%81%AE%E3%83%9E%E3%83%AB%E6%BF%8020%E5%B9%B4%E5%8F%B2%20%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82%E7%A8%AE%E3%82%92%E6%92%92%E3%81%8D%E7%B6%9A%E3%81%91%E3%81%BE%E3%81%99-rzt4Dj9grKE.mp3</link>
+<description>【５金スペシャルPart1】絶望と感動のマル激20年史 これからも種を撒き続けます-rzt4Dj9grKE.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABPart1%E3%80%91%E7%B5%B6%E6%9C%9B%E3%81%A8%E6%84%9F%E5%8B%95%E3%81%AE%E3%83%9E%E3%83%AB%E6%BF%8020%E5%B9%B4%E5%8F%B2%20%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82%E7%A8%AE%E3%82%92%E6%92%92%E3%81%8D%E7%B6%9A%E3%81%91%E3%81%BE%E3%81%99-rzt4Dj9grKE.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:49:54 +0900</pubDate>
+<itunes:duration>1:42:01</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90%EF%BC%95%E9%87%91%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%ABPart1%E3%80%91%E7%B5%B6%E6%9C%9B%E3%81%A8%E6%84%9F%E5%8B%95%E3%81%AE%E3%83%9E%E3%83%AB%E6%BF%8020%E5%B9%B4%E5%8F%B2%20%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82%E7%A8%AE%E3%82%92%E6%92%92%E3%81%8D%E7%B6%9A%E3%81%91%E3%81%BE%E3%81%99-rzt4Dj9grKE.mp3" type="audio/mpeg" length="60778485" />
+</item>
+
+<item>
+<title>【ダイジェスト】検察を市民社会が絶えず監視しなければならない理由-SV_68VUXBNY.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E6%A4%9C%E5%AF%9F%E3%82%92%E5%B8%82%E6%B0%91%E7%A4%BE%E4%BC%9A%E3%81%8C%E7%B5%B6%E3%81%88%E3%81%9A%E7%9B%A3%E8%A6%96%E3%81%97%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1-SV_68VUXBNY.mp3</link>
+<description>【ダイジェスト】検察を市民社会が絶えず監視しなければならない理由-SV_68VUXBNY.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E6%A4%9C%E5%AF%9F%E3%82%92%E5%B8%82%E6%B0%91%E7%A4%BE%E4%BC%9A%E3%81%8C%E7%B5%B6%E3%81%88%E3%81%9A%E7%9B%A3%E8%A6%96%E3%81%97%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1-SV_68VUXBNY.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:49:25 +0900</pubDate>
+<itunes:duration>13:53</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E6%A4%9C%E5%AF%9F%E3%82%92%E5%B8%82%E6%B0%91%E7%A4%BE%E4%BC%9A%E3%81%8C%E7%B5%B6%E3%81%88%E3%81%9A%E7%9B%A3%E8%A6%96%E3%81%97%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1-SV_68VUXBNY.mp3" type="audio/mpeg" length="8190234" />
+</item>
+
+<item>
+<title>【Part2】郷原信郎氏：河井夫妻逮捕で問われる検察の本気度と「政治活動」再定義の是非-435268118.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E9%83%B7%E5%8E%9F%E4%BF%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%B2%B3%E4%BA%95%E5%A4%AB%E5%A6%BB%E9%80%AE%E6%8D%95%E3%81%A7%E5%95%8F%E3%82%8F%E3%82%8C%E3%82%8B%E6%A4%9C%E5%AF%9F%E3%81%AE%E6%9C%AC%E6%B0%97%E5%BA%A6%E3%81%A8%E3%80%8C%E6%94%BF%E6%B2%BB%E6%B4%BB%E5%8B%95%E3%80%8D%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%AE%E6%98%AF%E9%9D%9E-435268118.mp3</link>
+<description>【Part2】郷原信郎氏：河井夫妻逮捕で問われる検察の本気度と「政治活動」再定義の是非-435268118.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E9%83%B7%E5%8E%9F%E4%BF%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%B2%B3%E4%BA%95%E5%A4%AB%E5%A6%BB%E9%80%AE%E6%8D%95%E3%81%A7%E5%95%8F%E3%82%8F%E3%82%8C%E3%82%8B%E6%A4%9C%E5%AF%9F%E3%81%AE%E6%9C%AC%E6%B0%97%E5%BA%A6%E3%81%A8%E3%80%8C%E6%94%BF%E6%B2%BB%E6%B4%BB%E5%8B%95%E3%80%8D%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%AE%E6%98%AF%E9%9D%9E-435268118.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:49:22 +0900</pubDate>
+<itunes:duration>44:54</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E9%83%B7%E5%8E%9F%E4%BF%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%B2%B3%E4%BA%95%E5%A4%AB%E5%A6%BB%E9%80%AE%E6%8D%95%E3%81%A7%E5%95%8F%E3%82%8F%E3%82%8C%E3%82%8B%E6%A4%9C%E5%AF%9F%E3%81%AE%E6%9C%AC%E6%B0%97%E5%BA%A6%E3%81%A8%E3%80%8C%E6%94%BF%E6%B2%BB%E6%B4%BB%E5%8B%95%E3%80%8D%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%AE%E6%98%AF%E9%9D%9E-435268118.mp3" type="audio/mpeg" length="22663224" />
+</item>
+
+<item>
+<title>【Part2】稲場雅紀氏：新型コロナのワクチン開発は自国中心主義から脱却を-441554597.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%A8%B2%E5%A0%B4%E9%9B%85%E7%B4%80%E6%B0%8F%EF%BC%9A%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AF%E8%87%AA%E5%9B%BD%E4%B8%AD%E5%BF%83%E4%B8%BB%E7%BE%A9%E3%81%8B%E3%82%89%E8%84%B1%E5%8D%B4%E3%82%92-441554597.mp3</link>
+<description>【Part2】稲場雅紀氏：新型コロナのワクチン開発は自国中心主義から脱却を-441554597.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%A8%B2%E5%A0%B4%E9%9B%85%E7%B4%80%E6%B0%8F%EF%BC%9A%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AF%E8%87%AA%E5%9B%BD%E4%B8%AD%E5%BF%83%E4%B8%BB%E7%BE%A9%E3%81%8B%E3%82%89%E8%84%B1%E5%8D%B4%E3%82%92-441554597.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:49:14 +0900</pubDate>
+<itunes:duration>46:37</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%A8%B2%E5%A0%B4%E9%9B%85%E7%B4%80%E6%B0%8F%EF%BC%9A%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AF%E8%87%AA%E5%9B%BD%E4%B8%AD%E5%BF%83%E4%B8%BB%E7%BE%A9%E3%81%8B%E3%82%89%E8%84%B1%E5%8D%B4%E3%82%92-441554597.mp3" type="audio/mpeg" length="25813896" />
+</item>
+
+<item>
+<title>【Part2】福島香織氏：世界は香港をこのまま見殺しにするのか-445785126.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%A6%8F%E5%B3%B6%E9%A6%99%E7%B9%94%E6%B0%8F%EF%BC%9A%E4%B8%96%E7%95%8C%E3%81%AF%E9%A6%99%E6%B8%AF%E3%82%92%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E8%A6%8B%E6%AE%BA%E3%81%97%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-445785126.mp3</link>
+<description>【Part2】福島香織氏：世界は香港をこのまま見殺しにするのか-445785126.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%A6%8F%E5%B3%B6%E9%A6%99%E7%B9%94%E6%B0%8F%EF%BC%9A%E4%B8%96%E7%95%8C%E3%81%AF%E9%A6%99%E6%B8%AF%E3%82%92%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E8%A6%8B%E6%AE%BA%E3%81%97%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-445785126.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:49:03 +0900</pubDate>
+<itunes:duration>54:21</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%A6%8F%E5%B3%B6%E9%A6%99%E7%B9%94%E6%B0%8F%EF%BC%9A%E4%B8%96%E7%95%8C%E3%81%AF%E9%A6%99%E6%B8%AF%E3%82%92%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E8%A6%8B%E6%AE%BA%E3%81%97%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-445785126.mp3" type="audio/mpeg" length="26974224" />
+</item>
+
+<item>
+<title>【Part2】白井さゆり氏：日本経済はコロナと五輪ショックを乗り切れるのか-437363976.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%99%BD%E4%BA%95%E3%81%95%E3%82%86%E3%82%8A%E6%B0%8F%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%A8%E4%BA%94%E8%BC%AA%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E3%82%92%E4%B9%97%E3%82%8A%E5%88%87%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B-437363976.mp3</link>
+<description>【Part2】白井さゆり氏：日本経済はコロナと五輪ショックを乗り切れるのか-437363976.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%99%BD%E4%BA%95%E3%81%95%E3%82%86%E3%82%8A%E6%B0%8F%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%A8%E4%BA%94%E8%BC%AA%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E3%82%92%E4%B9%97%E3%82%8A%E5%88%87%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B-437363976.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:48:52 +0900</pubDate>
+<itunes:duration>48:42</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%99%BD%E4%BA%95%E3%81%95%E3%82%86%E3%82%8A%E6%B0%8F%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%A8%E4%BA%94%E8%BC%AA%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E3%82%92%E4%B9%97%E3%82%8A%E5%88%87%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B-437363976.mp3" type="audio/mpeg" length="25406712" />
+</item>
+
+<item>
+<title>【Part2】熊野英生氏、小幡績氏：安倍政権の検証（2） 結局アベノミクスとは何だったのか-457209794.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%86%8A%E9%87%8E%E8%8B%B1%E7%94%9F%E6%B0%8F%E3%80%81%E5%B0%8F%E5%B9%A1%E7%B8%BE%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%882%EF%BC%89%20%E7%B5%90%E5%B1%80%E3%82%A2%E3%83%99%E3%83%8E%E3%83%9F%E3%82%AF%E3%82%B9%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-457209794.mp3</link>
+<description>【Part2】熊野英生氏、小幡績氏：安倍政権の検証（2） 結局アベノミクスとは何だったのか-457209794.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%86%8A%E9%87%8E%E8%8B%B1%E7%94%9F%E6%B0%8F%E3%80%81%E5%B0%8F%E5%B9%A1%E7%B8%BE%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%882%EF%BC%89%20%E7%B5%90%E5%B1%80%E3%82%A2%E3%83%99%E3%83%8E%E3%83%9F%E3%82%AF%E3%82%B9%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-457209794.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:48:42 +0900</pubDate>
+<itunes:duration>1:32:37</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E7%86%8A%E9%87%8E%E8%8B%B1%E7%94%9F%E6%B0%8F%E3%80%81%E5%B0%8F%E5%B9%A1%E7%B8%BE%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%882%EF%BC%89%20%E7%B5%90%E5%B1%80%E3%82%A2%E3%83%99%E3%83%8E%E3%83%9F%E3%82%AF%E3%82%B9%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-457209794.mp3" type="audio/mpeg" length="47201832" />
+</item>
+
+<item>
+<title>【Part2】渡邉芳樹氏：感染が拡大してもスウェーデンが独自のコロナ対策を貫ける理由-452811814.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%B8%A1%E9%82%89%E8%8A%B3%E6%A8%B9%E6%B0%8F%EF%BC%9A%E6%84%9F%E6%9F%93%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%97%E3%81%A6%E3%82%82%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%8C%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96%E3%82%92%E8%B2%AB%E3%81%91%E3%82%8B%E7%90%86%E7%94%B1-452811814.mp3</link>
+<description>【Part2】渡邉芳樹氏：感染が拡大してもスウェーデンが独自のコロナ対策を貫ける理由-452811814.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%B8%A1%E9%82%89%E8%8A%B3%E6%A8%B9%E6%B0%8F%EF%BC%9A%E6%84%9F%E6%9F%93%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%97%E3%81%A6%E3%82%82%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%8C%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96%E3%82%92%E8%B2%AB%E3%81%91%E3%82%8B%E7%90%86%E7%94%B1-452811814.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:48:22 +0900</pubDate>
+<itunes:duration>58:44</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%B8%A1%E9%82%89%E8%8A%B3%E6%A8%B9%E6%B0%8F%EF%BC%9A%E6%84%9F%E6%9F%93%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%97%E3%81%A6%E3%82%82%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%8C%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96%E3%82%92%E8%B2%AB%E3%81%91%E3%82%8B%E7%90%86%E7%94%B1-452811814.mp3" type="audio/mpeg" length="29982456" />
+</item>
+
+<item>
+<title>【Part2】橳島次郎氏：死は自分で選ぶことができるものなのか-451104780.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%A9%B3%E5%B3%B6%E6%AC%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%AD%BB%E3%81%AF%E8%87%AA%E5%88%86%E3%81%A7%E9%81%B8%E3%81%B6%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AA%E3%81%AE%E3%81%8B-451104780.mp3</link>
+<description>【Part2】橳島次郎氏：死は自分で選ぶことができるものなのか-451104780.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%A9%B3%E5%B3%B6%E6%AC%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%AD%BB%E3%81%AF%E8%87%AA%E5%88%86%E3%81%A7%E9%81%B8%E3%81%B6%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AA%E3%81%AE%E3%81%8B-451104780.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:48:09 +0900</pubDate>
+<itunes:duration>48:29</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%A9%B3%E5%B3%B6%E6%AC%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%AD%BB%E3%81%AF%E8%87%AA%E5%88%86%E3%81%A7%E9%81%B8%E3%81%B6%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AA%E3%81%AE%E3%81%8B-451104780.mp3" type="audio/mpeg" length="23821728" />
+</item>
+
+<item>
+<title>【Part2】橋本健二氏：だから安倍・菅路線では日本は幸せになれない-469224758.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%A9%8B%E6%9C%AC%E5%81%A5%E4%BA%8C%E6%B0%8F%EF%BC%9A%E3%81%A0%E3%81%8B%E3%82%89%E5%AE%89%E5%80%8D%E3%83%BB%E8%8F%85%E8%B7%AF%E7%B7%9A%E3%81%A7%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AF%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84-469224758.mp3</link>
+<description>【Part2】橋本健二氏：だから安倍・菅路線では日本は幸せになれない-469224758.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%A9%8B%E6%9C%AC%E5%81%A5%E4%BA%8C%E6%B0%8F%EF%BC%9A%E3%81%A0%E3%81%8B%E3%82%89%E5%AE%89%E5%80%8D%E3%83%BB%E8%8F%85%E8%B7%AF%E7%B7%9A%E3%81%A7%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AF%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84-469224758.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:47:59 +0900</pubDate>
+<itunes:duration>43:44</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%A9%8B%E6%9C%AC%E5%81%A5%E4%BA%8C%E6%B0%8F%EF%BC%9A%E3%81%A0%E3%81%8B%E3%82%89%E5%AE%89%E5%80%8D%E3%83%BB%E8%8F%85%E8%B7%AF%E7%B7%9A%E3%81%A7%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AF%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84-469224758.mp3" type="audio/mpeg" length="23473752" />
+</item>
+
+<item>
+<title>【Part2】枝野幸男氏：民主党は本当に生まれ変わったのか-462104928.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9E%9D%E9%87%8E%E5%B9%B8%E7%94%B7%E6%B0%8F%EF%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-462104928.mp3</link>
+<description>【Part2】枝野幸男氏：民主党は本当に生まれ変わったのか-462104928.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9E%9D%E9%87%8E%E5%B9%B8%E7%94%B7%E6%B0%8F%EF%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-462104928.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:47:49 +0900</pubDate>
+<itunes:duration>48:51</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9E%9D%E9%87%8E%E5%B9%B8%E7%94%B7%E6%B0%8F%EF%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-462104928.mp3" type="audio/mpeg" length="26225280" />
+</item>
+
+<item>
+<title>【Part2】林香里氏：メディアはコロナをどう報じてきたか-439503026.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9E%97%E9%A6%99%E9%87%8C%E6%B0%8F%EF%BC%9A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%92%E3%81%A9%E3%81%86%E5%A0%B1%E3%81%98%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%8B-439503026.mp3</link>
+<description>【Part2】林香里氏：メディアはコロナをどう報じてきたか-439503026.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9E%97%E9%A6%99%E9%87%8C%E6%B0%8F%EF%BC%9A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%92%E3%81%A9%E3%81%86%E5%A0%B1%E3%81%98%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%8B-439503026.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:47:37 +0900</pubDate>
+<itunes:duration>49:49</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9E%97%E9%A6%99%E9%87%8C%E6%B0%8F%EF%BC%9A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%92%E3%81%A9%E3%81%86%E5%A0%B1%E3%81%98%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%8B-439503026.mp3" type="audio/mpeg" length="25477368" />
+</item>
+
+<item>
+<title>【Part2】村上祐介氏：安倍政権の検証（６） 政権中枢の思想と新自由主義に振り回され続けた教育改革-466823165.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9D%91%E4%B8%8A%E7%A5%90%E4%BB%8B%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%96%EF%BC%89%20%E6%94%BF%E6%A8%A9%E4%B8%AD%E6%9E%A2%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9%E3%81%AB%E6%8C%AF%E3%82%8A%E5%9B%9E%E3%81%95%E3%82%8C%E7%B6%9A%E3%81%91%E3%81%9F%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9-466823165.mp3</link>
+<description>【Part2】村上祐介氏：安倍政権の検証（６） 政権中枢の思想と新自由主義に振り回され続けた教育改革-466823165.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9D%91%E4%B8%8A%E7%A5%90%E4%BB%8B%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%96%EF%BC%89%20%E6%94%BF%E6%A8%A9%E4%B8%AD%E6%9E%A2%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9%E3%81%AB%E6%8C%AF%E3%82%8A%E5%9B%9E%E3%81%95%E3%82%8C%E7%B6%9A%E3%81%91%E3%81%9F%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9-466823165.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:47:26 +0900</pubDate>
+<itunes:duration>53:28</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9D%91%E4%B8%8A%E7%A5%90%E4%BB%8B%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%96%EF%BC%89%20%E6%94%BF%E6%A8%A9%E4%B8%AD%E6%9E%A2%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9%E3%81%AB%E6%8C%AF%E3%82%8A%E5%9B%9E%E3%81%95%E3%82%8C%E7%B6%9A%E3%81%91%E3%81%9F%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9-466823165.mp3" type="audio/mpeg" length="26733984" />
+</item>
+
+<item>
+<title>【Part2】有馬哲夫氏：この戦争観はアメリカに押しつけられたものだったのか、日本人が自ら選んだものだったのか-448058066.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9C%89%E9%A6%AC%E5%93%B2%E5%A4%AB%E6%B0%8F%EF%BC%9A%E3%81%93%E3%81%AE%E6%88%A6%E4%BA%89%E8%A6%B3%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AB%E6%8A%BC%E3%81%97%E3%81%A4%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%E3%80%81%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E8%87%AA%E3%82%89%E9%81%B8%E3%82%93%E3%81%A0%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-448058066.mp3</link>
+<description>【Part2】有馬哲夫氏：この戦争観はアメリカに押しつけられたものだったのか、日本人が自ら選んだものだったのか-448058066.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9C%89%E9%A6%AC%E5%93%B2%E5%A4%AB%E6%B0%8F%EF%BC%9A%E3%81%93%E3%81%AE%E6%88%A6%E4%BA%89%E8%A6%B3%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AB%E6%8A%BC%E3%81%97%E3%81%A4%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%E3%80%81%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E8%87%AA%E3%82%89%E9%81%B8%E3%82%93%E3%81%A0%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-448058066.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:47:14 +0900</pubDate>
+<itunes:duration>1:00:50</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9C%89%E9%A6%AC%E5%93%B2%E5%A4%AB%E6%B0%8F%EF%BC%9A%E3%81%93%E3%81%AE%E6%88%A6%E4%BA%89%E8%A6%B3%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AB%E6%8A%BC%E3%81%97%E3%81%A4%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%E3%80%81%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E8%87%AA%E3%82%89%E9%81%B8%E3%82%93%E3%81%A0%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-448058066.mp3" type="audio/mpeg" length="31513464" />
+</item>
+
+<item>
+<title>【Part2】指宿昭一氏：ポストコロナが問う、日本は外国人と共生できる国なのか-433075186.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%8C%87%E5%AE%BF%E6%98%AD%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%95%8F%E3%81%86%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E5%85%B1%E7%94%9F%E3%81%A7%E3%81%8D%E3%82%8B%E5%9B%BD%E3%81%AA%E3%81%AE%E3%81%8B-433075186.mp3</link>
+<description>【Part2】指宿昭一氏：ポストコロナが問う、日本は外国人と共生できる国なのか-433075186.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%8C%87%E5%AE%BF%E6%98%AD%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%95%8F%E3%81%86%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E5%85%B1%E7%94%9F%E3%81%A7%E3%81%8D%E3%82%8B%E5%9B%BD%E3%81%AA%E3%81%AE%E3%81%8B-433075186.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:47:02 +0900</pubDate>
+<itunes:duration>39:02</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%8C%87%E5%AE%BF%E6%98%AD%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%95%8F%E3%81%86%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E5%85%B1%E7%94%9F%E3%81%A7%E3%81%8D%E3%82%8B%E5%9B%BD%E3%81%AA%E3%81%AE%E3%81%8B-433075186.mp3" type="audio/mpeg" length="20636520" />
+</item>
+
+<item>
+<title>【Part2】大沢真理氏：安倍政権の検証（４） 一貫して強者に優しく弱者に冷たい社会保障改革が行われた-459651535.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%A4%A7%E6%B2%A2%E7%9C%9F%E7%90%86%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%94%EF%BC%89%20%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E5%BC%B7%E8%80%85%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E5%BC%B1%E8%80%85%E3%81%AB%E5%86%B7%E3%81%9F%E3%81%84%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E6%94%B9%E9%9D%A9%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9F-459651535.mp3</link>
+<description>【Part2】大沢真理氏：安倍政権の検証（４） 一貫して強者に優しく弱者に冷たい社会保障改革が行われた-459651535.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%A4%A7%E6%B2%A2%E7%9C%9F%E7%90%86%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%94%EF%BC%89%20%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E5%BC%B7%E8%80%85%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E5%BC%B1%E8%80%85%E3%81%AB%E5%86%B7%E3%81%9F%E3%81%84%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E6%94%B9%E9%9D%A9%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9F-459651535.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:46:47 +0900</pubDate>
+<itunes:duration>44:41</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%A4%A7%E6%B2%A2%E7%9C%9F%E7%90%86%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%94%EF%BC%89%20%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E5%BC%B7%E8%80%85%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E5%BC%B1%E8%80%85%E3%81%AB%E5%86%B7%E3%81%9F%E3%81%84%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E6%94%B9%E9%9D%A9%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9F-459651535.mp3" type="audio/mpeg" length="22862952" />
+</item>
+
+<item>
+<title>【Part2】北丸雄二氏：人種差別と収束しないコロナに対する怒りがトランプのアメリカを変え始めている-430983521.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%8C%97%E4%B8%B8%E9%9B%84%E4%BA%8C%E6%B0%8F%EF%BC%9A%E4%BA%BA%E7%A8%AE%E5%B7%AE%E5%88%A5%E3%81%A8%E5%8F%8E%E6%9D%9F%E3%81%97%E3%81%AA%E3%81%84%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%80%92%E3%82%8A%E3%81%8C%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%92%E5%A4%89%E3%81%88%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B-430983521.mp3</link>
+<description>【Part2】北丸雄二氏：人種差別と収束しないコロナに対する怒りがトランプのアメリカを変え始めている-430983521.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%8C%97%E4%B8%B8%E9%9B%84%E4%BA%8C%E6%B0%8F%EF%BC%9A%E4%BA%BA%E7%A8%AE%E5%B7%AE%E5%88%A5%E3%81%A8%E5%8F%8E%E6%9D%9F%E3%81%97%E3%81%AA%E3%81%84%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%80%92%E3%82%8A%E3%81%8C%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%92%E5%A4%89%E3%81%88%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B-430983521.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:46:37 +0900</pubDate>
+<itunes:duration>53:32</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%8C%97%E4%B8%B8%E9%9B%84%E4%BA%8C%E6%B0%8F%EF%BC%9A%E4%BA%BA%E7%A8%AE%E5%B7%AE%E5%88%A5%E3%81%A8%E5%8F%8E%E6%9D%9F%E3%81%97%E3%81%AA%E3%81%84%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%80%92%E3%82%8A%E3%81%8C%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%92%E5%A4%89%E3%81%88%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B-430983521.mp3" type="audio/mpeg" length="28669272" />
+</item>
+
+<item>
+<title>【Part2】児玉龍彦氏：ようやく見えてきたコロナの正体-426497690.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%85%90%E7%8E%89%E9%BE%8D%E5%BD%A6%E6%B0%8F%EF%BC%9A%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E6%AD%A3%E4%BD%93-426497690.mp3</link>
+<description>【Part2】児玉龍彦氏：ようやく見えてきたコロナの正体-426497690.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%85%90%E7%8E%89%E9%BE%8D%E5%BD%A6%E6%B0%8F%EF%BC%9A%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E6%AD%A3%E4%BD%93-426497690.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:46:26 +0900</pubDate>
+<itunes:duration>58:06</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E5%85%90%E7%8E%89%E9%BE%8D%E5%BD%A6%E6%B0%8F%EF%BC%9A%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E6%AD%A3%E4%BD%93-426497690.mp3" type="audio/mpeg" length="29581920" />
+</item>
+
+<item>
+<title>【Part2】井手英策氏：コロナ危機を日本のセーフティネットを張り替える機会に-421863833.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%BA%95%E6%89%8B%E8%8B%B1%E7%AD%96%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E5%8D%B1%E6%A9%9F%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%95%E3%83%86%E3%82%A3%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E5%BC%B5%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%AB-421863833.mp3</link>
+<description>【Part2】井手英策氏：コロナ危機を日本のセーフティネットを張り替える機会に-421863833.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%BA%95%E6%89%8B%E8%8B%B1%E7%AD%96%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E5%8D%B1%E6%A9%9F%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%95%E3%83%86%E3%82%A3%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E5%BC%B5%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%AB-421863833.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:46:16 +0900</pubDate>
+<itunes:duration>47:42</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%BA%95%E6%89%8B%E8%8B%B1%E7%AD%96%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E5%8D%B1%E6%A9%9F%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%95%E3%83%86%E3%82%A3%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E5%BC%B5%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%AB-421863833.mp3" type="audio/mpeg" length="23919336" />
+</item>
+
+<item>
+<title>【Part2】中野晃一氏：安倍政権の検証（1） 日本の民主政治を変質させた責任を問う-454996274.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%B8%AD%E9%87%8E%E6%99%83%E4%B8%80%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-454996274.mp3</link>
+<description>【Part2】中野晃一氏：安倍政権の検証（1） 日本の民主政治を変質させた責任を問う-454996274.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%B8%AD%E9%87%8E%E6%99%83%E4%B8%80%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-454996274.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:46:05 +0900</pubDate>
+<itunes:duration>1:14:39</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%B8%AD%E9%87%8E%E6%99%83%E4%B8%80%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-454996274.mp3" type="audio/mpeg" length="39079200" />
+</item>
+
+<item>
+<title>【Part2】三木由希子氏：安倍政権の検証（5） 公文書管理と情報公開のできない政権は歴史の審判に値しない-464485163.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%B8%89%E6%9C%A8%E7%94%B1%E5%B8%8C%E5%AD%90%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%885%EF%BC%89%20%E5%85%AC%E6%96%87%E6%9B%B8%E7%AE%A1%E7%90%86%E3%81%A8%E6%83%85%E5%A0%B1%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%94%BF%E6%A8%A9%E3%81%AF%E6%AD%B4%E5%8F%B2%E3%81%AE%E5%AF%A9%E5%88%A4%E3%81%AB%E5%80%A4%E3%81%97%E3%81%AA%E3%81%84-464485163.mp3</link>
+<description>【Part2】三木由希子氏：安倍政権の検証（5） 公文書管理と情報公開のできない政権は歴史の審判に値しない-464485163.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%B8%89%E6%9C%A8%E7%94%B1%E5%B8%8C%E5%AD%90%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%885%EF%BC%89%20%E5%85%AC%E6%96%87%E6%9B%B8%E7%AE%A1%E7%90%86%E3%81%A8%E6%83%85%E5%A0%B1%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%94%BF%E6%A8%A9%E3%81%AF%E6%AD%B4%E5%8F%B2%E3%81%AE%E5%AF%A9%E5%88%A4%E3%81%AB%E5%80%A4%E3%81%97%E3%81%AA%E3%81%84-464485163.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:45:49 +0900</pubDate>
+<itunes:duration>49:01</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E4%B8%89%E6%9C%A8%E7%94%B1%E5%B8%8C%E5%AD%90%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%885%EF%BC%89%20%E5%85%AC%E6%96%87%E6%9B%B8%E7%AE%A1%E7%90%86%E3%81%A8%E6%83%85%E5%A0%B1%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%94%BF%E6%A8%A9%E3%81%AF%E6%AD%B4%E5%8F%B2%E3%81%AE%E5%AF%A9%E5%88%A4%E3%81%AB%E5%80%A4%E3%81%97%E3%81%AA%E3%81%84-464485163.mp3" type="audio/mpeg" length="24963528" />
+</item>
+
+<item>
+<title>【Part1】郷原信郎氏：河井夫妻逮捕で問われる検察の本気度と「政治活動」再定義の是非-435268100.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E9%83%B7%E5%8E%9F%E4%BF%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%B2%B3%E4%BA%95%E5%A4%AB%E5%A6%BB%E9%80%AE%E6%8D%95%E3%81%A7%E5%95%8F%E3%82%8F%E3%82%8C%E3%82%8B%E6%A4%9C%E5%AF%9F%E3%81%AE%E6%9C%AC%E6%B0%97%E5%BA%A6%E3%81%A8%E3%80%8C%E6%94%BF%E6%B2%BB%E6%B4%BB%E5%8B%95%E3%80%8D%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%AE%E6%98%AF%E9%9D%9E-435268100.mp3</link>
+<description>【Part1】郷原信郎氏：河井夫妻逮捕で問われる検察の本気度と「政治活動」再定義の是非-435268100.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E9%83%B7%E5%8E%9F%E4%BF%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%B2%B3%E4%BA%95%E5%A4%AB%E5%A6%BB%E9%80%AE%E6%8D%95%E3%81%A7%E5%95%8F%E3%82%8F%E3%82%8C%E3%82%8B%E6%A4%9C%E5%AF%9F%E3%81%AE%E6%9C%AC%E6%B0%97%E5%BA%A6%E3%81%A8%E3%80%8C%E6%94%BF%E6%B2%BB%E6%B4%BB%E5%8B%95%E3%80%8D%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%AE%E6%98%AF%E9%9D%9E-435268100.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:45:38 +0900</pubDate>
+<itunes:duration>50:59</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E9%83%B7%E5%8E%9F%E4%BF%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%B2%B3%E4%BA%95%E5%A4%AB%E5%A6%BB%E9%80%AE%E6%8D%95%E3%81%A7%E5%95%8F%E3%82%8F%E3%82%8C%E3%82%8B%E6%A4%9C%E5%AF%9F%E3%81%AE%E6%9C%AC%E6%B0%97%E5%BA%A6%E3%81%A8%E3%80%8C%E6%94%BF%E6%B2%BB%E6%B4%BB%E5%8B%95%E3%80%8D%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%AE%E6%98%AF%E9%9D%9E-435268100.mp3" type="audio/mpeg" length="25775424" />
+</item>
+
+<item>
+<title>【Part1】稲場雅紀氏：新型コロナのワクチン開発は自国中心主義から脱却を-441554566.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%A8%B2%E5%A0%B4%E9%9B%85%E7%B4%80%E6%B0%8F%EF%BC%9A%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AF%E8%87%AA%E5%9B%BD%E4%B8%AD%E5%BF%83%E4%B8%BB%E7%BE%A9%E3%81%8B%E3%82%89%E8%84%B1%E5%8D%B4%E3%82%92-441554566.mp3</link>
+<description>【Part1】稲場雅紀氏：新型コロナのワクチン開発は自国中心主義から脱却を-441554566.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%A8%B2%E5%A0%B4%E9%9B%85%E7%B4%80%E6%B0%8F%EF%BC%9A%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AF%E8%87%AA%E5%9B%BD%E4%B8%AD%E5%BF%83%E4%B8%BB%E7%BE%A9%E3%81%8B%E3%82%89%E8%84%B1%E5%8D%B4%E3%82%92-441554566.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:45:27 +0900</pubDate>
+<itunes:duration>48:39</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%A8%B2%E5%A0%B4%E9%9B%85%E7%B4%80%E6%B0%8F%EF%BC%9A%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AF%E8%87%AA%E5%9B%BD%E4%B8%AD%E5%BF%83%E4%B8%BB%E7%BE%A9%E3%81%8B%E3%82%89%E8%84%B1%E5%8D%B4%E3%82%92-441554566.mp3" type="audio/mpeg" length="26371128" />
+</item>
+
+<item>
+<title>【Part1】福島香織氏：世界は香港をこのまま見殺しにするのか-445785082.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%A6%8F%E5%B3%B6%E9%A6%99%E7%B9%94%E6%B0%8F%EF%BC%9A%E4%B8%96%E7%95%8C%E3%81%AF%E9%A6%99%E6%B8%AF%E3%82%92%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E8%A6%8B%E6%AE%BA%E3%81%97%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-445785082.mp3</link>
+<description>【Part1】福島香織氏：世界は香港をこのまま見殺しにするのか-445785082.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%A6%8F%E5%B3%B6%E9%A6%99%E7%B9%94%E6%B0%8F%EF%BC%9A%E4%B8%96%E7%95%8C%E3%81%AF%E9%A6%99%E6%B8%AF%E3%82%92%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E8%A6%8B%E6%AE%BA%E3%81%97%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-445785082.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:45:15 +0900</pubDate>
+<itunes:duration>59:56</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%A6%8F%E5%B3%B6%E9%A6%99%E7%B9%94%E6%B0%8F%EF%BC%9A%E4%B8%96%E7%95%8C%E3%81%AF%E9%A6%99%E6%B8%AF%E3%82%92%E3%81%93%E3%81%AE%E3%81%BE%E3%81%BE%E8%A6%8B%E6%AE%BA%E3%81%97%E3%81%AB%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-445785082.mp3" type="audio/mpeg" length="30047544" />
+</item>
+
+<item>
+<title>【Part1】白井さゆり氏：日本経済はコロナと五輪ショックを乗り切れるのか-437363942.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%99%BD%E4%BA%95%E3%81%95%E3%82%86%E3%82%8A%E6%B0%8F%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%A8%E4%BA%94%E8%BC%AA%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E3%82%92%E4%B9%97%E3%82%8A%E5%88%87%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B-437363942.mp3</link>
+<description>【Part1】白井さゆり氏：日本経済はコロナと五輪ショックを乗り切れるのか-437363942.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%99%BD%E4%BA%95%E3%81%95%E3%82%86%E3%82%8A%E6%B0%8F%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%A8%E4%BA%94%E8%BC%AA%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E3%82%92%E4%B9%97%E3%82%8A%E5%88%87%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B-437363942.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:45:02 +0900</pubDate>
+<itunes:duration>53:31</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%99%BD%E4%BA%95%E3%81%95%E3%82%86%E3%82%8A%E6%B0%8F%EF%BC%9A%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%A8%E4%BA%94%E8%BC%AA%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E3%82%92%E4%B9%97%E3%82%8A%E5%88%87%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B-437363942.mp3" type="audio/mpeg" length="27964704" />
+</item>
+
+<item>
+<title>【Part1】熊野英生氏、小幡績氏：安倍政権の検証（1） 日本の民主政治を変質させた責任を問う-457209776.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%86%8A%E9%87%8E%E8%8B%B1%E7%94%9F%E6%B0%8F%E3%80%81%E5%B0%8F%E5%B9%A1%E7%B8%BE%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-457209776.mp3</link>
+<description>【Part1】熊野英生氏、小幡績氏：安倍政権の検証（1） 日本の民主政治を変質させた責任を問う-457209776.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%86%8A%E9%87%8E%E8%8B%B1%E7%94%9F%E6%B0%8F%E3%80%81%E5%B0%8F%E5%B9%A1%E7%B8%BE%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-457209776.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:44:49 +0900</pubDate>
+<itunes:duration>59:17</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E7%86%8A%E9%87%8E%E8%8B%B1%E7%94%9F%E6%B0%8F%E3%80%81%E5%B0%8F%E5%B9%A1%E7%B8%BE%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-457209776.mp3" type="audio/mpeg" length="30713856" />
+</item>
+
+<item>
+<title>【Part1】渡邉芳樹氏：感染が拡大してもスウェーデンが独自のコロナ対策を貫ける理由-452820104.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%B8%A1%E9%82%89%E8%8A%B3%E6%A8%B9%E6%B0%8F%EF%BC%9A%E6%84%9F%E6%9F%93%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%97%E3%81%A6%E3%82%82%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%8C%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96%E3%82%92%E8%B2%AB%E3%81%91%E3%82%8B%E7%90%86%E7%94%B1-452820104.mp3</link>
+<description>【Part1】渡邉芳樹氏：感染が拡大してもスウェーデンが独自のコロナ対策を貫ける理由-452820104.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%B8%A1%E9%82%89%E8%8A%B3%E6%A8%B9%E6%B0%8F%EF%BC%9A%E6%84%9F%E6%9F%93%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%97%E3%81%A6%E3%82%82%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%8C%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96%E3%82%92%E8%B2%AB%E3%81%91%E3%82%8B%E7%90%86%E7%94%B1-452820104.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:44:36 +0900</pubDate>
+<itunes:duration>1:23:26</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%B8%A1%E9%82%89%E8%8A%B3%E6%A8%B9%E6%B0%8F%EF%BC%9A%E6%84%9F%E6%9F%93%E3%81%8C%E6%8B%A1%E5%A4%A7%E3%81%97%E3%81%A6%E3%82%82%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%8C%E7%8B%AC%E8%87%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%83%8A%E5%AF%BE%E7%AD%96%E3%82%92%E8%B2%AB%E3%81%91%E3%82%8B%E7%90%86%E7%94%B1-452820104.mp3" type="audio/mpeg" length="43492104" />
+</item>
+
+<item>
+<title>【Part1】橳島次郎氏：死は自分で選ぶことができるものなのか-450423965.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%A9%B3%E5%B3%B6%E6%AC%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%AD%BB%E3%81%AF%E8%87%AA%E5%88%86%E3%81%A7%E9%81%B8%E3%81%B6%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AA%E3%81%AE%E3%81%8B-450423965.mp3</link>
+<description>【Part1】橳島次郎氏：死は自分で選ぶことができるものなのか-450423965.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%A9%B3%E5%B3%B6%E6%AC%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%AD%BB%E3%81%AF%E8%87%AA%E5%88%86%E3%81%A7%E9%81%B8%E3%81%B6%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AA%E3%81%AE%E3%81%8B-450423965.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:44:18 +0900</pubDate>
+<itunes:duration>54:34</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%A9%B3%E5%B3%B6%E6%AC%A1%E9%83%8E%E6%B0%8F%EF%BC%9A%E6%AD%BB%E3%81%AF%E8%87%AA%E5%88%86%E3%81%A7%E9%81%B8%E3%81%B6%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AA%E3%81%AE%E3%81%8B-450423965.mp3" type="audio/mpeg" length="27004200" />
+</item>
+
+<item>
+<title>【Part1】橋本健二氏：だから安倍・菅路線では日本は幸せになれない-469224680.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%A9%8B%E6%9C%AC%E5%81%A5%E4%BA%8C%E6%B0%8F%EF%BC%9A%E3%81%A0%E3%81%8B%E3%82%89%E5%AE%89%E5%80%8D%E3%83%BB%E8%8F%85%E8%B7%AF%E7%B7%9A%E3%81%A7%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AF%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84-469224680.mp3</link>
+<description>【Part1】橋本健二氏：だから安倍・菅路線では日本は幸せになれない-469224680.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%A9%8B%E6%9C%AC%E5%81%A5%E4%BA%8C%E6%B0%8F%EF%BC%9A%E3%81%A0%E3%81%8B%E3%82%89%E5%AE%89%E5%80%8D%E3%83%BB%E8%8F%85%E8%B7%AF%E7%B7%9A%E3%81%A7%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AF%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84-469224680.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:44:07 +0900</pubDate>
+<itunes:duration>55:24</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%A9%8B%E6%9C%AC%E5%81%A5%E4%BA%8C%E6%B0%8F%EF%BC%9A%E3%81%A0%E3%81%8B%E3%82%89%E5%AE%89%E5%80%8D%E3%83%BB%E8%8F%85%E8%B7%AF%E7%B7%9A%E3%81%A7%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AF%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84-469224680.mp3" type="audio/mpeg" length="29696232" />
+</item>
+
+<item>
+<title>【Part1】枝野幸男氏：民主党は本当に生まれ変わったのか-462109614.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9E%9D%E9%87%8E%E5%B9%B8%E7%94%B7%E6%B0%8F%EF%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-462109614.mp3</link>
+<description>【Part1】枝野幸男氏：民主党は本当に生まれ変わったのか-462109614.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9E%9D%E9%87%8E%E5%B9%B8%E7%94%B7%E6%B0%8F%EF%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-462109614.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:43:54 +0900</pubDate>
+<itunes:duration>48:20</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9E%9D%E9%87%8E%E5%B9%B8%E7%94%B7%E6%B0%8F%EF%BC%9A%E6%B0%91%E4%B8%BB%E5%85%9A%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-462109614.mp3" type="audio/mpeg" length="25620624" />
+</item>
+
+<item>
+<title>【Part1】林香里氏：メディアはコロナをどう報じてきたか-439502969.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9E%97%E9%A6%99%E9%87%8C%E6%B0%8F%EF%BC%9A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%92%E3%81%A9%E3%81%86%E5%A0%B1%E3%81%98%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%8B-439502969.mp3</link>
+<description>【Part1】林香里氏：メディアはコロナをどう報じてきたか-439502969.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9E%97%E9%A6%99%E9%87%8C%E6%B0%8F%EF%BC%9A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%92%E3%81%A9%E3%81%86%E5%A0%B1%E3%81%98%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%8B-439502969.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:43:43 +0900</pubDate>
+<itunes:duration>55:06</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9E%97%E9%A6%99%E9%87%8C%E6%B0%8F%EF%BC%9A%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AF%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%92%E3%81%A9%E3%81%86%E5%A0%B1%E3%81%98%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%8B-439502969.mp3" type="audio/mpeg" length="28294896" />
+</item>
+
+<item>
+<title>【Part1】村上祐介氏：安倍政権の検証（６） 政権中枢の思想と新自由主義に振り回され続けた教育改革-466823117.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9D%91%E4%B8%8A%E7%A5%90%E4%BB%8B%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%96%EF%BC%89%20%E6%94%BF%E6%A8%A9%E4%B8%AD%E6%9E%A2%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9%E3%81%AB%E6%8C%AF%E3%82%8A%E5%9B%9E%E3%81%95%E3%82%8C%E7%B6%9A%E3%81%91%E3%81%9F%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9-466823117.mp3</link>
+<description>【Part1】村上祐介氏：安倍政権の検証（６） 政権中枢の思想と新自由主義に振り回され続けた教育改革-466823117.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9D%91%E4%B8%8A%E7%A5%90%E4%BB%8B%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%96%EF%BC%89%20%E6%94%BF%E6%A8%A9%E4%B8%AD%E6%9E%A2%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9%E3%81%AB%E6%8C%AF%E3%82%8A%E5%9B%9E%E3%81%95%E3%82%8C%E7%B6%9A%E3%81%91%E3%81%9F%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9-466823117.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:43:32 +0900</pubDate>
+<itunes:duration>46:40</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9D%91%E4%B8%8A%E7%A5%90%E4%BB%8B%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%96%EF%BC%89%20%E6%94%BF%E6%A8%A9%E4%B8%AD%E6%9E%A2%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9%E3%81%AB%E6%8C%AF%E3%82%8A%E5%9B%9E%E3%81%95%E3%82%8C%E7%B6%9A%E3%81%91%E3%81%9F%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9-466823117.mp3" type="audio/mpeg" length="23166288" />
+</item>
+
+<item>
+<title>【Part1】有馬哲夫氏：この戦争観はアメリカに押しつけられたものだったのか、日本人が自ら選んだものだったのか-448058047.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9C%89%E9%A6%AC%E5%93%B2%E5%A4%AB%E6%B0%8F%EF%BC%9A%E3%81%93%E3%81%AE%E6%88%A6%E4%BA%89%E8%A6%B3%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AB%E6%8A%BC%E3%81%97%E3%81%A4%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%E3%80%81%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E8%87%AA%E3%82%89%E9%81%B8%E3%82%93%E3%81%A0%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-448058047.mp3</link>
+<description>【Part1】有馬哲夫氏：この戦争観はアメリカに押しつけられたものだったのか、日本人が自ら選んだものだったのか-448058047.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9C%89%E9%A6%AC%E5%93%B2%E5%A4%AB%E6%B0%8F%EF%BC%9A%E3%81%93%E3%81%AE%E6%88%A6%E4%BA%89%E8%A6%B3%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AB%E6%8A%BC%E3%81%97%E3%81%A4%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%E3%80%81%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E8%87%AA%E3%82%89%E9%81%B8%E3%82%93%E3%81%A0%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-448058047.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:43:23 +0900</pubDate>
+<itunes:duration>58:56</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9C%89%E9%A6%AC%E5%93%B2%E5%A4%AB%E6%B0%8F%EF%BC%9A%E3%81%93%E3%81%AE%E6%88%A6%E4%BA%89%E8%A6%B3%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AB%E6%8A%BC%E3%81%97%E3%81%A4%E3%81%91%E3%82%89%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%E3%80%81%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E8%87%AA%E3%82%89%E9%81%B8%E3%82%93%E3%81%A0%E3%82%82%E3%81%AE%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B-448058047.mp3" type="audio/mpeg" length="30114456" />
+</item>
+
+<item>
+<title>【Part1】指宿昭一氏：ポストコロナが問う、日本は外国人と共生できる国なのか-433082865.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%8C%87%E5%AE%BF%E6%98%AD%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%95%8F%E3%81%86%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E5%85%B1%E7%94%9F%E3%81%A7%E3%81%8D%E3%82%8B%E5%9B%BD%E3%81%AA%E3%81%AE%E3%81%8B-433082865.mp3</link>
+<description>【Part1】指宿昭一氏：ポストコロナが問う、日本は外国人と共生できる国なのか-433082865.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%8C%87%E5%AE%BF%E6%98%AD%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%95%8F%E3%81%86%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E5%85%B1%E7%94%9F%E3%81%A7%E3%81%8D%E3%82%8B%E5%9B%BD%E3%81%AA%E3%81%AE%E3%81%8B-433082865.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:43:11 +0900</pubDate>
+<itunes:duration>42:55</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%8C%87%E5%AE%BF%E6%98%AD%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%83%9D%E3%82%B9%E3%83%88%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%95%8F%E3%81%86%E3%80%81%E6%97%A5%E6%9C%AC%E3%81%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%A8%E5%85%B1%E7%94%9F%E3%81%A7%E3%81%8D%E3%82%8B%E5%9B%BD%E3%81%AA%E3%81%AE%E3%81%8B-433082865.mp3" type="audio/mpeg" length="22956096" />
+</item>
+
+<item>
+<title>【Part1】大沢真理氏：安倍政権の検証（４） 一貫して強者に優しく弱者に冷たい社会保障改革が行われた-459651495.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%A4%A7%E6%B2%A2%E7%9C%9F%E7%90%86%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%94%EF%BC%89%20%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E5%BC%B7%E8%80%85%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E5%BC%B1%E8%80%85%E3%81%AB%E5%86%B7%E3%81%9F%E3%81%84%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E6%94%B9%E9%9D%A9%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9F-459651495.mp3</link>
+<description>【Part1】大沢真理氏：安倍政権の検証（４） 一貫して強者に優しく弱者に冷たい社会保障改革が行われた-459651495.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%A4%A7%E6%B2%A2%E7%9C%9F%E7%90%86%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%94%EF%BC%89%20%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E5%BC%B7%E8%80%85%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E5%BC%B1%E8%80%85%E3%81%AB%E5%86%B7%E3%81%9F%E3%81%84%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E6%94%B9%E9%9D%A9%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9F-459651495.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:43:01 +0900</pubDate>
+<itunes:duration>41:28</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%A4%A7%E6%B2%A2%E7%9C%9F%E7%90%86%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%88%EF%BC%94%EF%BC%89%20%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E5%BC%B7%E8%80%85%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E5%BC%B1%E8%80%85%E3%81%AB%E5%86%B7%E3%81%9F%E3%81%84%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E6%94%B9%E9%9D%A9%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%9F-459651495.mp3" type="audio/mpeg" length="21306048" />
+</item>
+
+<item>
+<title>【Part1】北丸雄二氏：人種差別と収束しないコロナに対する怒りがトランプのアメリカを変え始めている-431011268.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%8C%97%E4%B8%B8%E9%9B%84%E4%BA%8C%E6%B0%8F%EF%BC%9A%E4%BA%BA%E7%A8%AE%E5%B7%AE%E5%88%A5%E3%81%A8%E5%8F%8E%E6%9D%9F%E3%81%97%E3%81%AA%E3%81%84%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%80%92%E3%82%8A%E3%81%8C%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%92%E5%A4%89%E3%81%88%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B-431011268.mp3</link>
+<description>【Part1】北丸雄二氏：人種差別と収束しないコロナに対する怒りがトランプのアメリカを変え始めている-431011268.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%8C%97%E4%B8%B8%E9%9B%84%E4%BA%8C%E6%B0%8F%EF%BC%9A%E4%BA%BA%E7%A8%AE%E5%B7%AE%E5%88%A5%E3%81%A8%E5%8F%8E%E6%9D%9F%E3%81%97%E3%81%AA%E3%81%84%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%80%92%E3%82%8A%E3%81%8C%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%92%E5%A4%89%E3%81%88%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B-431011268.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:42:53 +0900</pubDate>
+<itunes:duration>1:00:45</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%8C%97%E4%B8%B8%E9%9B%84%E4%BA%8C%E6%B0%8F%EF%BC%9A%E4%BA%BA%E7%A8%AE%E5%B7%AE%E5%88%A5%E3%81%A8%E5%8F%8E%E6%9D%9F%E3%81%97%E3%81%AA%E3%81%84%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E6%80%92%E3%82%8A%E3%81%8C%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%92%E5%A4%89%E3%81%88%E5%A7%8B%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B-431011268.mp3" type="audio/mpeg" length="32891304" />
+</item>
+
+<item>
+<title>【Part1】児玉龍彦氏：ようやく見えてきたコロナの正体-426497673.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%85%90%E7%8E%89%E9%BE%8D%E5%BD%A6%E6%B0%8F%EF%BC%9A%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E6%AD%A3%E4%BD%93-426497673.mp3</link>
+<description>【Part1】児玉龍彦氏：ようやく見えてきたコロナの正体-426497673.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%85%90%E7%8E%89%E9%BE%8D%E5%BD%A6%E6%B0%8F%EF%BC%9A%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E6%AD%A3%E4%BD%93-426497673.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:42:40 +0900</pubDate>
+<itunes:duration>1:06:20</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%85%90%E7%8E%89%E9%BE%8D%E5%BD%A6%E6%B0%8F%EF%BC%9A%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%8D%E3%81%9F%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E6%AD%A3%E4%BD%93-426497673.mp3" type="audio/mpeg" length="34291728" />
+</item>
+
+<item>
+<title>【Part1】井手英策氏：コロナ危機を日本のセーフティネットを張り替える機会に-421863781.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%BA%95%E6%89%8B%E8%8B%B1%E7%AD%96%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E5%8D%B1%E6%A9%9F%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%95%E3%83%86%E3%82%A3%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E5%BC%B5%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%AB-421863781.mp3</link>
+<description>【Part1】井手英策氏：コロナ危機を日本のセーフティネットを張り替える機会に-421863781.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%BA%95%E6%89%8B%E8%8B%B1%E7%AD%96%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E5%8D%B1%E6%A9%9F%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%95%E3%83%86%E3%82%A3%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E5%BC%B5%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%AB-421863781.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:42:27 +0900</pubDate>
+<itunes:duration>48:18</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%BA%95%E6%89%8B%E8%8B%B1%E7%AD%96%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E5%8D%B1%E6%A9%9F%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%95%E3%83%86%E3%82%A3%E3%83%8D%E3%83%83%E3%83%88%E3%82%92%E5%BC%B5%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%AB-421863781.mp3" type="audio/mpeg" length="24144096" />
+</item>
+
+<item>
+<title>【Part1】中野晃一氏：安倍政権の検証（1） 日本の民主政治を変質させた責任を問う-454996232.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%B8%AD%E9%87%8E%E6%99%83%E4%B8%80%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-454996232.mp3</link>
+<description>【Part1】中野晃一氏：安倍政権の検証（1） 日本の民主政治を変質させた責任を問う-454996232.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%B8%AD%E9%87%8E%E6%99%83%E4%B8%80%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-454996232.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:42:17 +0900</pubDate>
+<itunes:duration>1:06:08</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%B8%AD%E9%87%8E%E6%99%83%E4%B8%80%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%881%EF%BC%89%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB%E3%82%92%E5%A4%89%E8%B3%AA%E3%81%95%E3%81%9B%E3%81%9F%E8%B2%AC%E4%BB%BB%E3%82%92%E5%95%8F%E3%81%86-454996232.mp3" type="audio/mpeg" length="34856088" />
+</item>
+
+<item>
+<title>【Part1】三木由希子氏：安倍政権の検証（5） 公文書管理と情報公開のできない政権は歴史の審判に値しない-464484460.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%B8%89%E6%9C%A8%E7%94%B1%E5%B8%8C%E5%AD%90%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%885%EF%BC%89%20%E5%85%AC%E6%96%87%E6%9B%B8%E7%AE%A1%E7%90%86%E3%81%A8%E6%83%85%E5%A0%B1%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%94%BF%E6%A8%A9%E3%81%AF%E6%AD%B4%E5%8F%B2%E3%81%AE%E5%AF%A9%E5%88%A4%E3%81%AB%E5%80%A4%E3%81%97%E3%81%AA%E3%81%84-464484460.mp3</link>
+<description>【Part1】三木由希子氏：安倍政権の検証（5） 公文書管理と情報公開のできない政権は歴史の審判に値しない-464484460.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%B8%89%E6%9C%A8%E7%94%B1%E5%B8%8C%E5%AD%90%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%885%EF%BC%89%20%E5%85%AC%E6%96%87%E6%9B%B8%E7%AE%A1%E7%90%86%E3%81%A8%E6%83%85%E5%A0%B1%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%94%BF%E6%A8%A9%E3%81%AF%E6%AD%B4%E5%8F%B2%E3%81%AE%E5%AF%A9%E5%88%A4%E3%81%AB%E5%80%A4%E3%81%97%E3%81%AA%E3%81%84-464484460.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Oct 2020 12:42:03 +0900</pubDate>
+<itunes:duration>1:11:55</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E4%B8%89%E6%9C%A8%E7%94%B1%E5%B8%8C%E5%AD%90%E6%B0%8F%EF%BC%9A%E5%AE%89%E5%80%8D%E6%94%BF%E6%A8%A9%E3%81%AE%E6%A4%9C%E8%A8%BC%EF%BC%885%EF%BC%89%20%E5%85%AC%E6%96%87%E6%9B%B8%E7%AE%A1%E7%90%86%E3%81%A8%E6%83%85%E5%A0%B1%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%94%BF%E6%A8%A9%E3%81%AF%E6%AD%B4%E5%8F%B2%E3%81%AE%E5%AF%A9%E5%88%A4%E3%81%AB%E5%80%A4%E3%81%97%E3%81%AA%E3%81%84-464484460.mp3" type="audio/mpeg" length="37413192" />
+</item>
+
+</channel>
+</rss>
