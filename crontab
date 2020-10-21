@@ -23,10 +23,14 @@
 0 1 * * *  base=/home/pi/radio p=$base/mygame; cd $p; python3 /home/pi/radiocloud/radiocloud.py 39; $base/dircaster.sh $p > $p/feed.xml 
 0 18,19,20,21,22,23,7,8,9,10 * * *  base=/home/pi/radio p=$base/a_session22; cd $p; python3 /home/pi/radiocloud/radiocloud.py 672; $base/dircaster.sh $p > $p/feed.xml 
 
+# youtube
 0 1 * * *  base=/home/pi/radio p=$base/videonews; cd $p; python3 /home/pi/rss2x/rss2x.py; $base/dircaster.sh $p > $p/feed.xml 
 0 2 * * *  base=/home/pi/radio p=$base/yobiko_math; cd $p; python3 /home/pi/rss2x/rss2x.py; $base/dircaster.sh $p > $p/feed.xml 
 0 3 * * *  base=/home/pi/radio p=$base/konotaro; cd $p; python3 /home/pi/rss2x/rss2x.py; $base/dircaster.sh $p > $p/feed.xml 
+5 1 * * *  base=/home/pi/radio p=$base/darth; cd $p; python3 /home/pi/rss2x/rss2x.py; $base/dircaster.sh $p > $p/feed.xml 
 
+# rss
 0 5 * * *  base=/home/pi/radio p=$base/qiita_keyboard; cd $p; python3 /home/pi/rss2x/rss2x.py
 
+# videonews
 0 23 * * 6 base=/home/pi/radio p=$base/videonews_marugeki; cd $p; python3 /home/pi/videonews_marugeki/videonews_marugeki.py; $base/dircaster.sh $p > $p/feed.xml
