@@ -28,6 +28,7 @@
 0 2 * * *  base=/home/pi/radio p=$base/yobiko_math; cd $p; python3 /home/pi/rss2x/rss2x.py; $base/dircaster.sh $p > $p/feed.xml 
 0 3 * * *  base=/home/pi/radio p=$base/konotaro; cd $p; python3 /home/pi/rss2x/rss2x.py; $base/dircaster.sh $p > $p/feed.xml 
 5 1 * * *  base=/home/pi/radio p=$base/darth; cd $p; python3 /home/pi/rss2x/rss2x.py; $base/dircaster.sh $p > $p/feed.xml 
+5 2 * * *  base=/home/pi/radio p=$base/katsuma; cd $p; python3 /home/pi/rss2x/rss2x.py; $base/dircaster.sh $p > $p/feed.xml 
 
 # rss
 0 5 * * *  base=/home/pi/radio p=$base/qiita_keyboard; cd $p; python3 /home/pi/rss2x/rss2x.py
