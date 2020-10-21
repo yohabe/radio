@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 21 Oct 2020 10:05:17 +0900</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2020 15:42:36 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>a_session22_20201021水15.mp3</title>
+<link>http://192.168.11.3/a_session22/a_session22_20201021%E6%B0%B415.mp3</link>
+<description>a_session22_20201021水15.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/a_session22_20201021%E6%B0%B415.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 21 Oct 2020 15:36:50 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/a_session22_20201021%E6%B0%B415.mp3" type="audio/mpeg" length="1920824" />
+</item>
 
 <item>
 <title>【LQBTQ+への差別発言問題】足立区の白石区議が謝罪【ニュース】松中権×荻上チキ.96969.mp3</title>
