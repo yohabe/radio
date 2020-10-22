@@ -34,5 +34,5 @@
 0 5 * * *  base=/home/pi/radio p=$base/qiita_keyboard; cd $p; python3 /home/pi/rss2x/rss2x.py
 0 5 * * *  base=/home/pi/radio p=$base/cdixon; cd $p; python3 /home/pi/rss2x/rss2x.py
 
-# videonews
+# videonews_marugeki
 0 23 * * 6 base=/home/pi/radio p=$base/videonews_marugeki; cd $p; python3 /home/pi/videonews_marugeki/videonews_marugeki.py; $base/dircaster.sh $p > $p/feed.xml
