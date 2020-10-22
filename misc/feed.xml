@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/misc
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 22 Oct 2020 14:30:02 +0900</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2020 15:30:01 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/misc/icon.jpg" />
 
@@ -197,6 +197,19 @@ Audio files in /home/pi/radio/misc
 <pubDate>Thu, 23 Nov 2017 19:14:11 +0900</pubDate>
 <itunes:duration>52:03</itunes:duration>
 <enclosure url="http://192.168.11.3/misc/%E3%83%AD%E3%82%B7%E3%82%A2%E3%82%B2%E3%83%BC%E3%83%88%E3%81%AB%E6%8F%BA%E3%82%8C%E3%82%8B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E6%94%BF%E6%A8%A9%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E6%8C%81%E3%81%A4%E3%81%8B-mppRWSErpgM.mp3" type="audio/mpeg" length="29709644" />
+</item>
+
+<item>
+<title>最高裁裁判官国民審査のポイント-36f3sqnU7_Y.mp3</title>
+<link>http://192.168.11.3/misc/%E6%9C%80%E9%AB%98%E8%A3%81%E8%A3%81%E5%88%A4%E5%AE%98%E5%9B%BD%E6%B0%91%E5%AF%A9%E6%9F%BB%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-36f3sqnU7_Y.mp3</link>
+<description>最高裁裁判官国民審査のポイント-36f3sqnU7_Y.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/misc/%E6%9C%80%E9%AB%98%E8%A3%81%E8%A3%81%E5%88%A4%E5%AE%98%E5%9B%BD%E6%B0%91%E5%AF%A9%E6%9F%BB%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-36f3sqnU7_Y.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 24 Oct 2017 12:15:26 +0900</pubDate>
+<itunes:duration>1:13:55</itunes:duration>
+<enclosure url="http://192.168.11.3/misc/%E6%9C%80%E9%AB%98%E8%A3%81%E8%A3%81%E5%88%A4%E5%AE%98%E5%9B%BD%E6%B0%91%E5%AF%A9%E6%9F%BB%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-36f3sqnU7_Y.mp3" type="audio/mpeg" length="45096800" />
 </item>
 
 </channel>
