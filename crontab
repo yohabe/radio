@@ -20,6 +20,7 @@
 30 * * * *   base=/home/pi/radio p=$base/misc; $base/dircaster.sh $p > $p/feed.xml
 0 6,12,14,18 * * * cd /home/pi/tweetdiscord/; python3 /home/pi/tweetdiscord/tweetdiscord.py >> log.txt
 
+# radiocloud
 0 1 * * *  base=/home/pi/radio p=$base/mygame; cd $p; python3 /home/pi/radiocloud/radiocloud.py 39; $base/dircaster.sh $p > $p/feed.xml 
 0 18,19,20,21,22,23,7,8,9,10 * * *  base=/home/pi/radio p=$base/a_session22; cd $p; python3 /home/pi/radiocloud/radiocloud.py 672; $base/dircaster.sh $p > $p/feed.xml 
 
