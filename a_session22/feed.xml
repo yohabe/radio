@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 03 Nov 2020 10:04:17 +0900</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2020 15:41:04 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>a_session22_20201103火15.mp3</title>
+<link>http://192.168.11.3/a_session22/a_session22_20201103%E7%81%AB15.mp3</link>
+<description>a_session22_20201103火15.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/a_session22_20201103%E7%81%AB15.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 03 Nov 2020 15:36:57 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/a_session22_20201103%E7%81%AB15.mp3" type="audio/mpeg" length="1920824" />
+</item>
 
 <item>
 <title>特集「日本学術会議の元会長、大西隆氏に聞く。学術会議の新会員、任命拒否の問題点とは？」大西隆×荻上チキ.97912.mp3</title>
