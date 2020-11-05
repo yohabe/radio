@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 05 Nov 2020 20:05:36 +0900</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2020 21:07:00 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>2020年11月5日（木）ニュース.98193.mp3</title>
+<link>http://192.168.11.3/a_session22/2020%E5%B9%B411%E6%9C%885%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.98193.mp3</link>
+<description>2020年11月5日（木）ニュース.98193.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2020%E5%B9%B411%E6%9C%885%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.98193.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 05 Nov 2020 21:01:29 +0900</pubDate>
+<itunes:duration>06:52</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/2020%E5%B9%B411%E6%9C%885%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.98193.mp3" type="audio/mpeg" length="6599744" />
+</item>
 
 <item>
 <title>a_session22_20201105木17.mp3</title>
