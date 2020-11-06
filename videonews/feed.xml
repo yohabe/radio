@@ -13,9 +13,35 @@
 Audio files in /home/pi/radio/videonews
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 06 Nov 2020 11:22:35 +0900</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2020 12:20:40 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/videonews/icon.jpg" />
+
+<item>
+<title>アメリカ大統領決定の瞬間を神保が実況-QSj6ziERguQ.mp3</title>
+<link>http://192.168.11.3/videonews/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%A4%A7%E7%B5%B1%E9%A0%98%E6%B1%BA%E5%AE%9A%E3%81%AE%E7%9E%AC%E9%96%93%E3%82%92%E7%A5%9E%E4%BF%9D%E3%81%8C%E5%AE%9F%E6%B3%81-QSj6ziERguQ.mp3</link>
+<description>アメリカ大統領決定の瞬間を神保が実況-QSj6ziERguQ.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%A4%A7%E7%B5%B1%E9%A0%98%E6%B1%BA%E5%AE%9A%E3%81%AE%E7%9E%AC%E9%96%93%E3%82%92%E7%A5%9E%E4%BF%9D%E3%81%8C%E5%AE%9F%E6%B3%81-QSj6ziERguQ.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 06 Nov 2020 12:18:36 +0900</pubDate>
+<itunes:duration>4:51:08</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%A4%A7%E7%B5%B1%E9%A0%98%E6%B1%BA%E5%AE%9A%E3%81%AE%E7%9E%AC%E9%96%93%E3%82%92%E7%A5%9E%E4%BF%9D%E3%81%8C%E5%AE%9F%E6%B3%81-QSj6ziERguQ.mp3" type="audio/mpeg" length="142416145" />
+</item>
+
+<item>
+<title>【ビデオニュース×ニコニコ】2020米大統領選 開票実況生解説-fA7VcUDHXms.mp3</title>
+<link>http://192.168.11.3/videonews/%E3%80%90%E3%83%93%E3%83%87%E3%82%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%C3%97%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E3%80%912020%E7%B1%B3%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%20%E9%96%8B%E7%A5%A8%E5%AE%9F%E6%B3%81%E7%94%9F%E8%A7%A3%E8%AA%AC-fA7VcUDHXms.mp3</link>
+<description>【ビデオニュース×ニコニコ】2020米大統領選 開票実況生解説-fA7VcUDHXms.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews/%E3%80%90%E3%83%93%E3%83%87%E3%82%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%C3%97%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E3%80%912020%E7%B1%B3%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%20%E9%96%8B%E7%A5%A8%E5%AE%9F%E6%B3%81%E7%94%9F%E8%A7%A3%E8%AA%AC-fA7VcUDHXms.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 05 Nov 2020 20:11:36 +0900</pubDate>
+<itunes:duration>5:12:04</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews/%E3%80%90%E3%83%93%E3%83%87%E3%82%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%C3%97%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E3%80%912020%E7%B1%B3%E5%A4%A7%E7%B5%B1%E9%A0%98%E9%81%B8%20%E9%96%8B%E7%A5%A8%E5%AE%9F%E6%B3%81%E7%94%9F%E8%A7%A3%E8%AA%AC-fA7VcUDHXms.mp3" type="audio/mpeg" length="157523930" />
+</item>
 
 <item>
 <title>【５金スペシャル映画特集Part1】『鬼滅の刃』が突きつける人間の本来あるべき姿とは-dh16aNaz0i0.mp3</title>
