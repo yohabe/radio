@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 09 Nov 2020 18:06:50 +0900</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2020 19:08:14 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>首里城の火災から1年【N検Session】.98447.mp3</title>
+<link>http://192.168.11.3/a_session22/%E9%A6%96%E9%87%8C%E5%9F%8E%E3%81%AE%E7%81%AB%E7%81%BD%E3%81%8B%E3%82%891%E5%B9%B4%E3%80%90N%E6%A4%9CSession%E3%80%91.98447.mp3</link>
+<description>首里城の火災から1年【N検Session】.98447.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E9%A6%96%E9%87%8C%E5%9F%8E%E3%81%AE%E7%81%AB%E7%81%BD%E3%81%8B%E3%82%891%E5%B9%B4%E3%80%90N%E6%A4%9CSession%E3%80%91.98447.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 09 Nov 2020 19:01:31 +0900</pubDate>
+<itunes:duration>08:15</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/%E9%A6%96%E9%87%8C%E5%9F%8E%E3%81%AE%E7%81%AB%E7%81%BD%E3%81%8B%E3%82%891%E5%B9%B4%E3%80%90N%E6%A4%9CSession%E3%80%91.98447.mp3" type="audio/mpeg" length="7930304" />
+</item>
 
 <item>
 <title>a_session22_20201109月17.mp3</title>
