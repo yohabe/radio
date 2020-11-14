@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/videonews_marugeki
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 07 Nov 2020 23:03:06 +0900</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2020 23:02:38 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/videonews_marugeki/icon.jpg" />
+
+<item>
+<title>【ダイジェスト】渡辺靖氏：トランプ7300万票の意味を考える-vFrwU1gh4-I.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E6%B8%A1%E8%BE%BA%E9%9D%96%E6%B0%8F%EF%BC%9A%E3%83%88%E3%83%A9%E3%83%B3%E3%83%977300%E4%B8%87%E7%A5%A8%E3%81%AE%E6%84%8F%E5%91%B3%E3%82%92%E8%80%83%E3%81%88%E3%82%8B-vFrwU1gh4-I.mp3</link>
+<description>【ダイジェスト】渡辺靖氏：トランプ7300万票の意味を考える-vFrwU1gh4-I.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E6%B8%A1%E8%BE%BA%E9%9D%96%E6%B0%8F%EF%BC%9A%E3%83%88%E3%83%A9%E3%83%B3%E3%83%977300%E4%B8%87%E7%A5%A8%E3%81%AE%E6%84%8F%E5%91%B3%E3%82%92%E8%80%83%E3%81%88%E3%82%8B-vFrwU1gh4-I.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 14 Nov 2020 20:25:44 +0900</pubDate>
+<itunes:duration>13:34</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E6%B8%A1%E8%BE%BA%E9%9D%96%E6%B0%8F%EF%BC%9A%E3%83%88%E3%83%A9%E3%83%B3%E3%83%977300%E4%B8%87%E7%A5%A8%E3%81%AE%E6%84%8F%E5%91%B3%E3%82%92%E8%80%83%E3%81%88%E3%82%8B-vFrwU1gh4-I.mp3" type="audio/mpeg" length="7980218" />
+</item>
 
 <item>
 <title>【ダイジェスト】春名幹男氏：今、ロッキード事件の真相がとても重要な意味を持つ理由-5m2f0HFrwjE.mp3</title>
