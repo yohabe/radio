@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_tokyopodkyoka
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 10 Nov 2020 01:15:09 +0900</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2020 01:15:29 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_tokyopodkyoka/icon.jpg" />
+
+<item>
+<title>a_tokyopodkyoka_20201117火00.mp3</title>
+<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201117%E7%81%AB00.mp3</link>
+<description>a_tokyopodkyoka_20201117火00.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201117%E7%81%AB00.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 17 Nov 2020 01:15:28 +0900</pubDate>
+<itunes:duration>1:00:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201117%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
+</item>
 
 <item>
 <title>a_tokyopodkyoka_20201110火00.mp3</title>
