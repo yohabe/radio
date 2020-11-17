@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 16 Nov 2020 19:02:10 +0900</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2020 15:37:27 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>a_session22_20201117火15.mp3</title>
+<link>http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB15.mp3</link>
+<description>a_session22_20201117火15.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB15.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 17 Nov 2020 15:36:47 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB15.mp3" type="audio/mpeg" length="1920824" />
+</item>
 
 <item>
 <title>18歳、19歳の犯罪厳罰化を法制審議会が答申【N検Session】.99000.mp3</title>
