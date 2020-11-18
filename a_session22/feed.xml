@@ -13,138 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 18 Nov 2020 15:37:26 +0900</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2020 17:49:47 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
 
 <item>
-<title>a_session22_20201118水15.mp3</title>
-<link>http://192.168.11.3/a_session22/a_session22_20201118%E6%B0%B415.mp3</link>
-<description>a_session22_20201118水15.mp3</description>
+<title>a_session22_20201118水17.mp3</title>
+<link>http://192.168.11.3/a_session22/a_session22_20201118%E6%B0%B417.mp3</link>
+<description>a_session22_20201118水17.mp3</description>
 <itunes:author></itunes:author>
 <author></author>
-<guid>http://192.168.11.3/a_session22/a_session22_20201118%E6%B0%B415.mp3</guid>
+<guid>http://192.168.11.3/a_session22/a_session22_20201118%E6%B0%B417.mp3</guid>
 <dc:creator></dc:creator>
-<pubDate>Wed, 18 Nov 2020 15:36:47 +0900</pubDate>
+<pubDate>Wed, 18 Nov 2020 17:49:46 +0900</pubDate>
 <itunes:duration>04:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/a_session22_20201118%E6%B0%B415.mp3" type="audio/mpeg" length="1920824" />
-</item>
-
-<item>
-<title>a_session22_20201117火17.mp3</title>
-<link>http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB17.mp3</link>
-<description>a_session22_20201117火17.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB17.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 17 Nov 2020 17:49:47 +0900</pubDate>
-<itunes:duration>04:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB17.mp3" type="audio/mpeg" length="1920824" />
-</item>
-
-<item>
-<title>a_session22_20201117火15.mp3</title>
-<link>http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB15.mp3</link>
-<description>a_session22_20201117火15.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB15.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 17 Nov 2020 15:36:47 +0900</pubDate>
-<itunes:duration>04:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/a_session22_20201117%E7%81%AB15.mp3" type="audio/mpeg" length="1920824" />
-</item>
-
-<item>
-<title>18歳、19歳の犯罪厳罰化を法制審議会が答申【N検Session】.99000.mp3</title>
-<link>http://192.168.11.3/a_session22/18%E6%AD%B3%E3%80%8119%E6%AD%B3%E3%81%AE%E7%8A%AF%E7%BD%AA%E5%8E%B3%E7%BD%B0%E5%8C%96%E3%82%92%E6%B3%95%E5%88%B6%E5%AF%A9%E8%AD%B0%E4%BC%9A%E3%81%8C%E7%AD%94%E7%94%B3%E3%80%90N%E6%A4%9CSession%E3%80%91.99000.mp3</link>
-<description>18歳、19歳の犯罪厳罰化を法制審議会が答申【N検Session】.99000.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/18%E6%AD%B3%E3%80%8119%E6%AD%B3%E3%81%AE%E7%8A%AF%E7%BD%AA%E5%8E%B3%E7%BD%B0%E5%8C%96%E3%82%92%E6%B3%95%E5%88%B6%E5%AF%A9%E8%AD%B0%E4%BC%9A%E3%81%8C%E7%AD%94%E7%94%B3%E3%80%90N%E6%A4%9CSession%E3%80%91.99000.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 16 Nov 2020 19:01:31 +0900</pubDate>
-<itunes:duration>08:52</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/18%E6%AD%B3%E3%80%8119%E6%AD%B3%E3%81%AE%E7%8A%AF%E7%BD%AA%E5%8E%B3%E7%BD%B0%E5%8C%96%E3%82%92%E6%B3%95%E5%88%B6%E5%AF%A9%E8%AD%B0%E4%BC%9A%E3%81%8C%E7%AD%94%E7%94%B3%E3%80%90N%E6%A4%9CSession%E3%80%91.99000.mp3" type="audio/mpeg" length="8527040" />
-</item>
-
-<item>
-<title>a_session22_20201116月17.mp3</title>
-<link>http://192.168.11.3/a_session22/a_session22_20201116%E6%9C%8817.mp3</link>
-<description>a_session22_20201116月17.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/a_session22_20201116%E6%9C%8817.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 16 Nov 2020 17:49:46 +0900</pubDate>
-<itunes:duration>04:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/a_session22_20201116%E6%9C%8817.mp3" type="audio/mpeg" length="1920824" />
-</item>
-
-<item>
-<title>a_session22_20201116月15.mp3</title>
-<link>http://192.168.11.3/a_session22/a_session22_20201116%E6%9C%8815.mp3</link>
-<description>a_session22_20201116月15.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/a_session22_20201116%E6%9C%8815.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 16 Nov 2020 15:36:47 +0900</pubDate>
-<itunes:duration>04:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/a_session22_20201116%E6%9C%8815.mp3" type="audio/mpeg" length="1920824" />
-</item>
-
-<item>
-<title>【ScreenlessMediaLab.】”咳で新型コロナウイルスの診断が可能に？！”～「音声診断技術」の最前線.98840.mp3</title>
-<link>http://192.168.11.3/a_session22/%E3%80%90ScreenlessMediaLab.%E3%80%91%E2%80%9D%E5%92%B3%E3%81%A7%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AE%E8%A8%BA%E6%96%AD%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%EF%BC%9F%EF%BC%81%E2%80%9D%EF%BD%9E%E3%80%8C%E9%9F%B3%E5%A3%B0%E8%A8%BA%E6%96%AD%E6%8A%80%E8%A1%93%E3%80%8D%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A.98840.mp3</link>
-<description>【ScreenlessMediaLab.】”咳で新型コロナウイルスの診断が可能に？！”～「音声診断技術」の最前線.98840.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/%E3%80%90ScreenlessMediaLab.%E3%80%91%E2%80%9D%E5%92%B3%E3%81%A7%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AE%E8%A8%BA%E6%96%AD%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%EF%BC%9F%EF%BC%81%E2%80%9D%EF%BD%9E%E3%80%8C%E9%9F%B3%E5%A3%B0%E8%A8%BA%E6%96%AD%E6%8A%80%E8%A1%93%E3%80%8D%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A.98840.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 14 Nov 2020 00:58:51 +0900</pubDate>
-<itunes:duration>09:34</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/%E3%80%90ScreenlessMediaLab.%E3%80%91%E2%80%9D%E5%92%B3%E3%81%A7%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%81%AE%E8%A8%BA%E6%96%AD%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%EF%BC%9F%EF%BC%81%E2%80%9D%EF%BD%9E%E3%80%8C%E9%9F%B3%E5%A3%B0%E8%A8%BA%E6%96%AD%E6%8A%80%E8%A1%93%E3%80%8D%E3%81%AE%E6%9C%80%E5%89%8D%E7%B7%9A.98840.mp3" type="audio/mpeg" length="9186752" />
-</item>
-
-<item>
-<title>特集「国会論戦・珍プレー！好プレー！臨時国会2020開幕編」木村草太×荻上チキ.98839.mp3</title>
-<link>http://192.168.11.3/a_session22/%E7%89%B9%E9%9B%86%E3%80%8C%E5%9B%BD%E4%BC%9A%E8%AB%96%E6%88%A6%E3%83%BB%E7%8F%8D%E3%83%97%E3%83%AC%E3%83%BC%EF%BC%81%E5%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%EF%BC%81%E8%87%A8%E6%99%82%E5%9B%BD%E4%BC%9A2020%E9%96%8B%E5%B9%95%E7%B7%A8%E3%80%8D%E6%9C%A8%E6%9D%91%E8%8D%89%E5%A4%AA%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98839.mp3</link>
-<description>特集「国会論戦・珍プレー！好プレー！臨時国会2020開幕編」木村草太×荻上チキ.98839.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/%E7%89%B9%E9%9B%86%E3%80%8C%E5%9B%BD%E4%BC%9A%E8%AB%96%E6%88%A6%E3%83%BB%E7%8F%8D%E3%83%97%E3%83%AC%E3%83%BC%EF%BC%81%E5%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%EF%BC%81%E8%87%A8%E6%99%82%E5%9B%BD%E4%BC%9A2020%E9%96%8B%E5%B9%95%E7%B7%A8%E3%80%8D%E6%9C%A8%E6%9D%91%E8%8D%89%E5%A4%AA%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98839.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 14 Nov 2020 00:57:23 +0900</pubDate>
-<itunes:duration>46:31</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/%E7%89%B9%E9%9B%86%E3%80%8C%E5%9B%BD%E4%BC%9A%E8%AB%96%E6%88%A6%E3%83%BB%E7%8F%8D%E3%83%97%E3%83%AC%E3%83%BC%EF%BC%81%E5%A5%BD%E3%83%97%E3%83%AC%E3%83%BC%EF%BC%81%E8%87%A8%E6%99%82%E5%9B%BD%E4%BC%9A2020%E9%96%8B%E5%B9%95%E7%B7%A8%E3%80%8D%E6%9C%A8%E6%9D%91%E8%8D%89%E5%A4%AA%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98839.mp3" type="audio/mpeg" length="44657216" />
-</item>
-
-<item>
-<title>【新型コロナ】北海道での感染拡大の要因とは？【ニュース】塚本容子×荻上チキ.98838.mp3</title>
-<link>http://192.168.11.3/a_session22/%E3%80%90%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%80%91%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%A7%E3%81%AE%E6%84%9F%E6%9F%93%E6%8B%A1%E5%A4%A7%E3%81%AE%E8%A6%81%E5%9B%A0%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E5%A1%9A%E6%9C%AC%E5%AE%B9%E5%AD%90%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98838.mp3</link>
-<description>【新型コロナ】北海道での感染拡大の要因とは？【ニュース】塚本容子×荻上チキ.98838.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/%E3%80%90%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%80%91%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%A7%E3%81%AE%E6%84%9F%E6%9F%93%E6%8B%A1%E5%A4%A7%E3%81%AE%E8%A6%81%E5%9B%A0%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E5%A1%9A%E6%9C%AC%E5%AE%B9%E5%AD%90%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98838.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 14 Nov 2020 00:50:09 +0900</pubDate>
-<itunes:duration>08:05</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/%E3%80%90%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%80%91%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%A7%E3%81%AE%E6%84%9F%E6%9F%93%E6%8B%A1%E5%A4%A7%E3%81%AE%E8%A6%81%E5%9B%A0%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E5%A1%9A%E6%9C%AC%E5%AE%B9%E5%AD%90%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98838.mp3" type="audio/mpeg" length="7762496" />
-</item>
-
-<item>
-<title>ノーベル物理学賞・小柴昌俊さん死去。その功績とは？【ニュース】崎山敏也×荻上チキ.98837.mp3</title>
-<link>http://192.168.11.3/a_session22/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E7%89%A9%E7%90%86%E5%AD%A6%E8%B3%9E%E3%83%BB%E5%B0%8F%E6%9F%B4%E6%98%8C%E4%BF%8A%E3%81%95%E3%82%93%E6%AD%BB%E5%8E%BB%E3%80%82%E3%81%9D%E3%81%AE%E5%8A%9F%E7%B8%BE%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E5%B4%8E%E5%B1%B1%E6%95%8F%E4%B9%9F%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98837.mp3</link>
-<description>ノーベル物理学賞・小柴昌俊さん死去。その功績とは？【ニュース】崎山敏也×荻上チキ.98837.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E7%89%A9%E7%90%86%E5%AD%A6%E8%B3%9E%E3%83%BB%E5%B0%8F%E6%9F%B4%E6%98%8C%E4%BF%8A%E3%81%95%E3%82%93%E6%AD%BB%E5%8E%BB%E3%80%82%E3%81%9D%E3%81%AE%E5%8A%9F%E7%B8%BE%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E5%B4%8E%E5%B1%B1%E6%95%8F%E4%B9%9F%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98837.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 14 Nov 2020 00:48:46 +0900</pubDate>
-<itunes:duration>12:51</itunes:duration>
-<enclosure url="http://192.168.11.3/a_session22/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E7%89%A9%E7%90%86%E5%AD%A6%E8%B3%9E%E3%83%BB%E5%B0%8F%E6%9F%B4%E6%98%8C%E4%BF%8A%E3%81%95%E3%82%93%E6%AD%BB%E5%8E%BB%E3%80%82%E3%81%9D%E3%81%AE%E5%8A%9F%E7%B8%BE%E3%81%A8%E3%81%AF%EF%BC%9F%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E5%B4%8E%E5%B1%B1%E6%95%8F%E4%B9%9F%C3%97%E8%8D%BB%E4%B8%8A%E3%83%81%E3%82%AD.98837.mp3" type="audio/mpeg" length="12344768" />
+<enclosure url="http://192.168.11.3/a_session22/a_session22_20201118%E6%B0%B417.mp3" type="audio/mpeg" length="1920824" />
 </item>
 
 </channel>
