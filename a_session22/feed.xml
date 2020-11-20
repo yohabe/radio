@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 20 Nov 2020 10:02:42 +0900</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2020 15:39:20 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>a_session22_20201120金15.mp3</title>
+<link>http://192.168.11.3/a_session22/a_session22_20201120%E9%87%9115.mp3</link>
+<description>a_session22_20201120金15.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/a_session22_20201120%E9%87%9115.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 20 Nov 2020 15:36:47 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/a_session22_20201120%E9%87%9115.mp3" type="audio/mpeg" length="1920824" />
+</item>
 
 <item>
 <title>【FrontLineSession】2020年11月19日（木）【知的障がいのあるアーティストが描いたアート作品の販売やファブリック展開】ゲスト：松田祟弥.99251.mp3</title>
