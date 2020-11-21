@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/videonews_marugeki
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 14 Nov 2020 23:02:38 +0900</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2020 23:02:16 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/videonews_marugeki/icon.jpg" />
+
+<item>
+<title>【ダイジェスト】吉見俊哉氏：コロナが再定義する大学とグローバル化の行く末-NSD1fJSEewg.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E5%90%89%E8%A6%8B%E4%BF%8A%E5%93%89%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E5%A4%A7%E5%AD%A6%E3%81%A8%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E5%8C%96%E3%81%AE%E8%A1%8C%E3%81%8F%E6%9C%AB-NSD1fJSEewg.mp3</link>
+<description>【ダイジェスト】吉見俊哉氏：コロナが再定義する大学とグローバル化の行く末-NSD1fJSEewg.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E5%90%89%E8%A6%8B%E4%BF%8A%E5%93%89%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E5%A4%A7%E5%AD%A6%E3%81%A8%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E5%8C%96%E3%81%AE%E8%A1%8C%E3%81%8F%E6%9C%AB-NSD1fJSEewg.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 21 Nov 2020 18:46:08 +0900</pubDate>
+<itunes:duration>12:21</itunes:duration>
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E5%90%89%E8%A6%8B%E4%BF%8A%E5%93%89%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%8C%E5%86%8D%E5%AE%9A%E7%BE%A9%E3%81%99%E3%82%8B%E5%A4%A7%E5%AD%A6%E3%81%A8%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E5%8C%96%E3%81%AE%E8%A1%8C%E3%81%8F%E6%9C%AB-NSD1fJSEewg.mp3" type="audio/mpeg" length="7374865" />
+</item>
 
 <item>
 <title>【ダイジェスト】渡辺靖氏：トランプ7300万票の意味を考える-vFrwU1gh4-I.mp3</title>
