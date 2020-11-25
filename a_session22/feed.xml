@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 25 Nov 2020 20:04:52 +0900</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2020 21:06:17 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>2020年11月25日（水）ニュース.99658.mp3</title>
+<link>http://192.168.11.3/a_session22/2020%E5%B9%B411%E6%9C%8825%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.99658.mp3</link>
+<description>2020年11月25日（水）ニュース.99658.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2020%E5%B9%B411%E6%9C%8825%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.99658.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 25 Nov 2020 21:01:33 +0900</pubDate>
+<itunes:duration>08:23</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/2020%E5%B9%B411%E6%9C%8825%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.99658.mp3" type="audio/mpeg" length="8058944" />
+</item>
 
 <item>
 <title>【桜を見る会前夜祭】安倍前総理が領収書を廃棄か？【ニュース】荻上チキ.99653.mp3</title>
