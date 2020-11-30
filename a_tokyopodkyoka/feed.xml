@@ -13,151 +13,21 @@
 Audio files in /home/pi/radio/a_tokyopodkyoka
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 24 Nov 2020 01:15:06 +0900</lastBuildDate>
+<lastBuildDate>Tue, 01 Dec 2020 01:15:17 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_tokyopodkyoka/icon.jpg" />
 
 <item>
-<title>a_tokyopodkyoka_20201124火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201124%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20201124火00.mp3</description>
+<title>a_tokyopodkyoka_20201201火00.mp3</title>
+<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201201%E7%81%AB00.mp3</link>
+<description>a_tokyopodkyoka_20201201火00.mp3</description>
 <itunes:author></itunes:author>
 <author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201124%E7%81%AB00.mp3</guid>
+<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201201%E7%81%AB00.mp3</guid>
 <dc:creator></dc:creator>
-<pubDate>Tue, 24 Nov 2020 01:15:04 +0900</pubDate>
+<pubDate>Tue, 01 Dec 2020 01:15:16 +0900</pubDate>
 <itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201124%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20201117火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201117%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20201117火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201117%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 17 Nov 2020 01:15:28 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201117%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20201110火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201110%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20201110火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201110%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 10 Nov 2020 01:15:07 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201110%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20201103火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201103%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20201103火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201103%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 03 Nov 2020 01:15:34 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201103%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20201027火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201027%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20201027火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201027%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 27 Oct 2020 01:15:04 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201027%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20201020火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201020%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20201020火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201020%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 20 Oct 2020 01:15:16 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201020%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20201013火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201013%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20201013火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201013%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 13 Oct 2020 01:14:36 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201013%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20201006火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201006%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20201006火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201006%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 06 Oct 2020 01:15:18 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201006%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20200929火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200929%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20200929火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200929%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 29 Sep 2020 01:15:09 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200929%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20200922火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200922%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20200922火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200922%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 22 Sep 2020 01:15:49 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200922%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
-</item>
-
-<item>
-<title>a_tokyopodkyoka_20200915火00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200915%E7%81%AB00.mp3</link>
-<description>a_tokyopodkyoka_20200915火00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200915%E7%81%AB00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 15 Sep 2020 01:15:02 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20200915%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
+<enclosure url="http://192.168.11.3/a_tokyopodkyoka/a_tokyopodkyoka_20201201%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
 </item>
 
 </channel>
