@@ -64,7 +64,7 @@ fi
 #
 # access auth1_fms
 #
-wget -q \
+echo wget -q \
      --header="pragma: no-cache" \
      --header="X-Radiko-App: pc_ts" \
      --header="X-Radiko-App-Version: 4.0.0" \
@@ -75,7 +75,7 @@ wget -q \
      --save-headers \
      -O auth1_fms_${pid} \
      https://radiko.jp/v2/api/auth1_fms
-
+exit 1
 if [ $? -ne 0 ]; then
   echo "failed auth1 process"
   exit 1
