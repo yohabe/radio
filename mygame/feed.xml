@@ -13,9 +13,48 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 29 Nov 2020 01:02:23 +0900</lastBuildDate>
+<lastBuildDate>Sun, 13 Dec 2020 01:31:47 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/mygame/icon.jpg" />
+
+<item>
+<title>第193回：藤田ニコル後編.101896.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC193%E5%9B%9E%EF%BC%9A%E8%97%A4%E7%94%B0%E3%83%8B%E3%82%B3%E3%83%AB%E5%BE%8C%E7%B7%A8.101896.mp3</link>
+<description>第193回：藤田ニコル後編.101896.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC193%E5%9B%9E%EF%BC%9A%E8%97%A4%E7%94%B0%E3%83%8B%E3%82%B3%E3%83%AB%E5%BE%8C%E7%B7%A8.101896.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 13 Dec 2020 01:28:16 +0900</pubDate>
+<itunes:duration>49:27</itunes:duration>
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC193%E5%9B%9E%EF%BC%9A%E8%97%A4%E7%94%B0%E3%83%8B%E3%82%B3%E3%83%AB%E5%BE%8C%E7%B7%A8.101896.mp3" type="audio/mpeg" length="47472704" />
+</item>
+
+<item>
+<title>第192回：藤田ニコル「かつてポケモンを熱く語ったおかげで合格したオーディション.100743.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC192%E5%9B%9E%EF%BC%9A%E8%97%A4%E7%94%B0%E3%83%8B%E3%82%B3%E3%83%AB%E3%80%8C%E3%81%8B%E3%81%A4%E3%81%A6%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%92%E7%86%B1%E3%81%8F%E8%AA%9E%E3%81%A3%E3%81%9F%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E5%90%88%E6%A0%BC%E3%81%97%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3.100743.mp3</link>
+<description>第192回：藤田ニコル「かつてポケモンを熱く語ったおかげで合格したオーディション.100743.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC192%E5%9B%9E%EF%BC%9A%E8%97%A4%E7%94%B0%E3%83%8B%E3%82%B3%E3%83%AB%E3%80%8C%E3%81%8B%E3%81%A4%E3%81%A6%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%92%E7%86%B1%E3%81%8F%E8%AA%9E%E3%81%A3%E3%81%9F%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E5%90%88%E6%A0%BC%E3%81%97%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3.100743.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 13 Dec 2020 01:20:10 +0900</pubDate>
+<itunes:duration>1:07:19</itunes:duration>
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC192%E5%9B%9E%EF%BC%9A%E8%97%A4%E7%94%B0%E3%83%8B%E3%82%B3%E3%83%AB%E3%80%8C%E3%81%8B%E3%81%A4%E3%81%A6%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%92%E7%86%B1%E3%81%8F%E8%AA%9E%E3%81%A3%E3%81%9F%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E5%90%88%E6%A0%BC%E3%81%97%E3%81%9F%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3.100743.mp3" type="audio/mpeg" length="64632512" />
+</item>
+
+<item>
+<title>第191回：中村七之助「ゲームは坂東巳之助さんより先に進めておく中村七之助さん「.100338.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC191%E5%9B%9E%EF%BC%9A%E4%B8%AD%E6%9D%91%E4%B8%83%E4%B9%8B%E5%8A%A9%E3%80%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AF%E5%9D%82%E6%9D%B1%E5%B7%B3%E4%B9%8B%E5%8A%A9%E3%81%95%E3%82%93%E3%82%88%E3%82%8A%E5%85%88%E3%81%AB%E9%80%B2%E3%82%81%E3%81%A6%E3%81%8A%E3%81%8F%E4%B8%AD%E6%9D%91%E4%B8%83%E4%B9%8B%E5%8A%A9%E3%81%95%E3%82%93%E3%80%8C.100338.mp3</link>
+<description>第191回：中村七之助「ゲームは坂東巳之助さんより先に進めておく中村七之助さん「.100338.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC191%E5%9B%9E%EF%BC%9A%E4%B8%AD%E6%9D%91%E4%B8%83%E4%B9%8B%E5%8A%A9%E3%80%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AF%E5%9D%82%E6%9D%B1%E5%B7%B3%E4%B9%8B%E5%8A%A9%E3%81%95%E3%82%93%E3%82%88%E3%82%8A%E5%85%88%E3%81%AB%E9%80%B2%E3%82%81%E3%81%A6%E3%81%8A%E3%81%8F%E4%B8%AD%E6%9D%91%E4%B8%83%E4%B9%8B%E5%8A%A9%E3%81%95%E3%82%93%E3%80%8C.100338.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 13 Dec 2020 01:08:52 +0900</pubDate>
+<itunes:duration>51:08</itunes:duration>
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC191%E5%9B%9E%EF%BC%9A%E4%B8%AD%E6%9D%91%E4%B8%83%E4%B9%8B%E5%8A%A9%E3%80%8C%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AF%E5%9D%82%E6%9D%B1%E5%B7%B3%E4%B9%8B%E5%8A%A9%E3%81%95%E3%82%93%E3%82%88%E3%82%8A%E5%85%88%E3%81%AB%E9%80%B2%E3%82%81%E3%81%A6%E3%81%8A%E3%81%8F%E4%B8%AD%E6%9D%91%E4%B8%83%E4%B9%8B%E5%8A%A9%E3%81%95%E3%82%93%E3%80%8C.100338.mp3" type="audio/mpeg" length="49090496" />
+</item>
 
 <item>
 <title>第190回：中村七之助「子どもの頃に父の中村勘三郎さんをファミスタでボコボコにしたときに起こった事件について語る」.99669.mp3</title>
