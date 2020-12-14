@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 14 Dec 2020 18:07:37 +0900</lastBuildDate>
+<lastBuildDate>Mon, 14 Dec 2020 19:09:07 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>外国人の単純労働を認める在留資格「特定技能」【N検Session】.102015.mp3</title>
+<link>http://192.168.11.3/a_session22/%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%AE%E5%8D%98%E7%B4%94%E5%8A%B4%E5%83%8D%E3%82%92%E8%AA%8D%E3%82%81%E3%82%8B%E5%9C%A8%E7%95%99%E8%B3%87%E6%A0%BC%E3%80%8C%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E3%80%8D%E3%80%90N%E6%A4%9CSession%E3%80%91.102015.mp3</link>
+<description>外国人の単純労働を認める在留資格「特定技能」【N検Session】.102015.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%AE%E5%8D%98%E7%B4%94%E5%8A%B4%E5%83%8D%E3%82%92%E8%AA%8D%E3%82%81%E3%82%8B%E5%9C%A8%E7%95%99%E8%B3%87%E6%A0%BC%E3%80%8C%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E3%80%8D%E3%80%90N%E6%A4%9CSession%E3%80%91.102015.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 14 Dec 2020 19:01:41 +0900</pubDate>
+<itunes:duration>09:13</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%AE%E5%8D%98%E7%B4%94%E5%8A%B4%E5%83%8D%E3%82%92%E8%AA%8D%E3%82%81%E3%82%8B%E5%9C%A8%E7%95%99%E8%B3%87%E6%A0%BC%E3%80%8C%E7%89%B9%E5%AE%9A%E6%8A%80%E8%83%BD%E3%80%8D%E3%80%90N%E6%A4%9CSession%E3%80%91.102015.mp3" type="audio/mpeg" length="8859968" />
+</item>
 
 <item>
 <title>20201214174501-TBS.mp3</title>
