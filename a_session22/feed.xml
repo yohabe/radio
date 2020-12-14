@@ -13,9 +13,35 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 14 Dec 2020 10:07:38 +0900</lastBuildDate>
+<lastBuildDate>Mon, 14 Dec 2020 18:07:37 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>20201214174501-TBS.mp3</title>
+<link>http://192.168.11.3/a_session22/20201214174501-TBS.mp3</link>
+<description>20201214174501-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/20201214174501-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 14 Dec 2020 17:48:43 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/20201214174501-TBS.mp3" type="audio/mpeg" length="1920995" />
+</item>
+
+<item>
+<title>20201214153202-TBS.mp3</title>
+<link>http://192.168.11.3/a_session22/20201214153202-TBS.mp3</link>
+<description>20201214153202-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/20201214153202-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 14 Dec 2020 15:35:44 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/20201214153202-TBS.mp3" type="audio/mpeg" length="1920995" />
+</item>
 
 <item>
 <title>【ScreenlessMediaLab.】“演技しすぎない方が感情が伝わる～「A.101859.mp3</title>
