@@ -13,9 +13,35 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 17 Dec 2020 10:09:08 +0900</lastBuildDate>
+<lastBuildDate>Thu, 17 Dec 2020 18:09:03 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_session22/icon.jpg" />
+
+<item>
+<title>20201217174501-TBS.mp3</title>
+<link>http://192.168.11.3/a_session22/20201217174501-TBS.mp3</link>
+<description>20201217174501-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/20201217174501-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 17 Dec 2020 17:48:43 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/20201217174501-TBS.mp3" type="audio/mpeg" length="1920995" />
+</item>
+
+<item>
+<title>20201217153201-TBS.mp3</title>
+<link>http://192.168.11.3/a_session22/20201217153201-TBS.mp3</link>
+<description>20201217153201-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/20201217153201-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 17 Dec 2020 15:35:43 +0900</pubDate>
+<itunes:duration>04:00</itunes:duration>
+<enclosure url="http://192.168.11.3/a_session22/20201217153201-TBS.mp3" type="audio/mpeg" length="1920995" />
+</item>
 
 <item>
 <title>【夫婦別性】自民党、文言削除。反対派により大幅後退【ニュース】井出ようせい.102185.mp3</title>
