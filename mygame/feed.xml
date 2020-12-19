@@ -13,9 +13,22 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 19 Dec 2020 01:03:40 +0900</lastBuildDate>
+<lastBuildDate>Sun, 20 Dec 2020 01:11:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/mygame/icon.jpg" />
+
+<item>
+<title>第194回：天﨑滉平前編.102395.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC194%E5%9B%9E%EF%BC%9A%E5%A4%A9%EF%A8%91%E6%BB%89%E5%B9%B3%E5%89%8D%E7%B7%A8.102395.mp3</link>
+<description>第194回：天﨑滉平前編.102395.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC194%E5%9B%9E%EF%BC%9A%E5%A4%A9%EF%A8%91%E6%BB%89%E5%B9%B3%E5%89%8D%E7%B7%A8.102395.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 20 Dec 2020 01:07:24 +0900</pubDate>
+<itunes:duration>44:26</itunes:duration>
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC194%E5%9B%9E%EF%BC%9A%E5%A4%A9%EF%A8%91%E6%BB%89%E5%B9%B3%E5%89%8D%E7%B7%A8.102395.mp3" type="audio/mpeg" length="42670016" />
+</item>
 
 <item>
 <title>第193回：藤田ニコル後編.101896.mp3</title>
