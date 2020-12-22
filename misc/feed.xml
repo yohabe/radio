@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+11<?xml version="1.0" encoding="UTF-8"?>
 <rss
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/misc
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 22 Dec 2020 10:30:02 +0900</lastBuildDate>
+<lastBuildDate>Tue, 22 Dec 2020 11:30:02 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 <itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/misc/icon.jpg" />
 
