@@ -13,9 +13,23 @@
 Audio files in /home/pi/radio/E_jissen_business_eigo
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 18 Dec 2020 09:30:38 +0900</lastBuildDate>
+<lastBuildDate>Wed, 23 Dec 2020 09:30:35 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
-<itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/E_jissen_business_eigo/icon.jpg" />
+
+<item>
+<title>E_jissen_business_eigo_20201223.mp3</title>
+<link>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201223.mp3</link>
+<description>E_jissen_business_eigo_20201223.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201223.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 23 Dec 2020 09:30:29 +0900</pubDate>
+
+<itunes:duration>15:00</itunes:duration>
+
+<enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201223.mp3" type="audio/mpeg" length="14400416" />
+</item>
 
 <item>
 <title>E_jissen_business_eigo_20201218.mp3</title>
@@ -26,7 +40,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201218.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 18 Dec 2020 09:30:35 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201218.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -39,7 +55,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201217.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 17 Dec 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201217.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -52,7 +70,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201216.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 16 Dec 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201216.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -65,7 +85,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201210.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 10 Dec 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201210.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -78,7 +100,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201209.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 09 Dec 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201209.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -91,7 +115,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201204.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 04 Dec 2020 09:30:37 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201204.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -104,7 +130,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201203.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 03 Dec 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201203.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -117,7 +145,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201202.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 02 Dec 2020 09:30:32 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201202.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -130,7 +160,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201127.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 27 Nov 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201127.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -143,7 +175,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201126.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 26 Nov 2020 09:30:32 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201126.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -156,7 +190,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201125.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 25 Nov 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201125.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -169,7 +205,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201120.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 20 Nov 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201120.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -182,7 +220,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201119.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 19 Nov 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201119.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -195,7 +235,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201118.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 18 Nov 2020 09:30:32 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201118.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -208,7 +250,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201113.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 13 Nov 2020 09:30:40 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201113.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -221,7 +265,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201112.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 12 Nov 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201112.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -234,7 +280,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201111.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 11 Nov 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201111.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -247,7 +295,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201106.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 06 Nov 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201106.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -260,7 +310,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201105.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 05 Nov 2020 09:30:28 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201105.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -273,7 +325,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201104.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 04 Nov 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201104.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -286,7 +340,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201030.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 30 Oct 2020 09:30:39 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201030.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -299,7 +355,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201029.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 29 Oct 2020 09:30:32 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201029.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -312,7 +370,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201028.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 28 Oct 2020 09:30:28 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201028.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -325,7 +385,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201023.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 23 Oct 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201023.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -338,7 +400,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201022.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 22 Oct 2020 09:30:40 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201022.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -351,7 +415,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201021.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 21 Oct 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201021.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -364,7 +430,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201016.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 16 Oct 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201016.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -377,7 +445,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201015.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 15 Oct 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201015.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -390,7 +460,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201014.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 14 Oct 2020 09:30:39 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201014.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -403,7 +475,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201009.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 09 Oct 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201009.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -416,7 +490,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201008.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 08 Oct 2020 09:30:39 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201008.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -429,7 +505,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201007.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 07 Oct 2020 09:30:38 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201007.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -442,7 +520,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201002.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 02 Oct 2020 09:30:31 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201002.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -455,7 +535,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201001.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 01 Oct 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20201001.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -468,7 +550,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200930.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 30 Sep 2020 09:30:31 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200930.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -481,7 +565,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200925.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 25 Sep 2020 09:30:35 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200925.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -494,7 +580,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200924.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 24 Sep 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200924.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -507,7 +595,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200923.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 23 Sep 2020 09:30:35 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200923.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -520,7 +610,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200918.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 18 Sep 2020 09:30:41 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200918.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -533,7 +625,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200917.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 17 Sep 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200917.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -546,7 +640,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200916.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 16 Sep 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200916.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -559,7 +655,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200911.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 11 Sep 2020 09:30:35 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200911.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -572,7 +670,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200910.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 10 Sep 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200910.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -585,7 +685,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200909.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 09 Sep 2020 09:30:36 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200909.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -598,7 +700,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200904.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 04 Sep 2020 09:30:31 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200904.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -611,7 +715,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200903.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 03 Sep 2020 09:30:35 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200903.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -624,7 +730,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200902.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 02 Sep 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200902.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -637,7 +745,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200828.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 28 Aug 2020 09:30:39 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200828.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -650,7 +760,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200827.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 27 Aug 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200827.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -663,7 +775,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200826.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 26 Aug 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200826.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -676,7 +790,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200821.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 21 Aug 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200821.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -689,7 +805,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200820.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 20 Aug 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200820.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -702,7 +820,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200819.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 19 Aug 2020 09:28:41 +0900</pubDate>
+
 <itunes:duration>12:58</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200819.mp3" type="audio/mpeg" length="12452384" />
 </item>
 
@@ -715,7 +835,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200814.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 14 Aug 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200814.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -728,7 +850,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200813.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 13 Aug 2020 09:30:30 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200813.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -741,7 +865,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200812.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 12 Aug 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200812.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -754,7 +880,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200807.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 07 Aug 2020 09:30:40 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200807.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -767,7 +895,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200806.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 06 Aug 2020 09:30:39 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200806.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -780,7 +910,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200805.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 05 Aug 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200805.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -793,7 +925,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200731.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 31 Jul 2020 09:30:34 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200731.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -806,7 +940,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200730.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 30 Jul 2020 09:30:29 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200730.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -819,7 +955,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200729.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 29 Jul 2020 09:30:35 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200729.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -832,7 +970,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200723.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 23 Jul 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200723.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -845,7 +985,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200722.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 22 Jul 2020 09:30:28 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200722.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -858,7 +1000,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200717.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 17 Jul 2020 09:30:35 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200717.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -871,7 +1015,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200716.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 16 Jul 2020 09:30:28 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200716.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -884,7 +1030,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200715.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 15 Jul 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200715.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -897,7 +1045,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200710.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 10 Jul 2020 09:30:28 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200710.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -910,7 +1060,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200709.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 09 Jul 2020 09:30:32 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200709.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -923,7 +1075,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200708.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 08 Jul 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200708.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -936,7 +1090,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200703.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 03 Jul 2020 09:30:33 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200703.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -949,7 +1105,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200702.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 02 Jul 2020 09:30:38 +0900</pubDate>
+
 <itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20200702.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -962,7 +1120,9 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <guid>http://192.168.11.3/E_jissen_business_eigo/a_tokyopodkyoka_20200630%E7%81%AB00.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 01 Jul 2020 20:47:07 +0900</pubDate>
+
 <itunes:duration>1:00:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/a_tokyopodkyoka_20200630%E7%81%AB00.mp3" type="audio/mpeg" length="28800824" />
 </item>
 
