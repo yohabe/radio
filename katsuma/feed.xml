@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 25 Dec 2020 02:05:02 +0900</lastBuildDate>
+<lastBuildDate>Sat, 26 Dec 2020 02:05:03 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -25,8 +25,6 @@ Audio files in /home/pi/radio/katsuma
 <guid>http://192.168.11.3/katsuma/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BC%B1%E3%81%BF%E3%82%92%E4%BD%BF%E3%81%86%E6%99%82%E9%96%93%E3%82%92%E3%82%BC%E3%83%AD%E3%81%AB%E8%BF%91%E3%81%A5%E3%81%91%E3%82%8B%E3%81%BB%E3%81%A9%E3%80%81%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%BE%E3%81%99-9LERahzQHbQ.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 21 Oct 2020 19:37:50 +0900</pubDate>
-
-<itunes:duration>04:24</itunes:duration>
 
 <enclosure url="http://192.168.11.3/katsuma/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BC%B1%E3%81%BF%E3%82%92%E4%BD%BF%E3%81%86%E6%99%82%E9%96%93%E3%82%92%E3%82%BC%E3%83%AD%E3%81%AB%E8%BF%91%E3%81%A5%E3%81%91%E3%82%8B%E3%81%BB%E3%81%A9%E3%80%81%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%BE%E3%81%99-9LERahzQHbQ.mp3" type="audio/mpeg" length="2425668" />
 </item>
@@ -41,8 +39,6 @@ Audio files in /home/pi/radio/katsuma
 <dc:creator></dc:creator>
 <pubDate>Tue, 20 Oct 2020 20:08:30 +0900</pubDate>
 
-<itunes:duration>05:13</itunes:duration>
-
 <enclosure url="http://192.168.11.3/katsuma/%E4%BA%BA%E7%94%9F%E3%81%AF%E3%83%AA%E3%82%A2%E3%83%AB%E8%AA%B2%E9%87%91%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%99%E3%80%82%E3%81%8A%E9%87%91%E3%81%AF%E8%B1%8A%E5%AF%8C%E3%81%AA%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E4%BA%BA%E7%94%9F%E3%81%AB%E3%82%82%E3%81%9F%E3%82%89%E3%81%97%E3%81%BE%E3%81%99%E3%80%82-Y40581DyeGk.mp3" type="audio/mpeg" length="2976883" />
 </item>
 
@@ -55,8 +51,6 @@ Audio files in /home/pi/radio/katsuma
 <guid>http://192.168.11.3/katsuma/%E4%B8%80%E7%99%BA%E3%81%A7%E6%AD%A3%E8%A7%A3%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E7%94%98%E3%81%84%E8%80%83%E3%81%88%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%88%E3%81%86%E3%80%82%E6%AD%A3%E8%A7%A3%E3%81%AF%E5%B1%B1%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A9%A6%E8%A1%8C%E9%8C%AF%E8%AA%A4%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%A8%E3%81%97%E3%81%A6%E3%80%81%E5%81%B6%E7%84%B6%E3%82%84%E3%81%A3%E3%81%A6%E6%9D%A5%E3%82%8B%E3%80%82-n7JmNbmO-EQ.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Mon, 19 Oct 2020 19:44:10 +0900</pubDate>
-
-<itunes:duration>03:58</itunes:duration>
 
 <enclosure url="http://192.168.11.3/katsuma/%E4%B8%80%E7%99%BA%E3%81%A7%E6%AD%A3%E8%A7%A3%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E7%94%98%E3%81%84%E8%80%83%E3%81%88%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%88%E3%81%86%E3%80%82%E6%AD%A3%E8%A7%A3%E3%81%AF%E5%B1%B1%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E8%A9%A6%E8%A1%8C%E9%8C%AF%E8%AA%A4%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%A8%E3%81%97%E3%81%A6%E3%80%81%E5%81%B6%E7%84%B6%E3%82%84%E3%81%A3%E3%81%A6%E6%9D%A5%E3%82%8B%E3%80%82-n7JmNbmO-EQ.mp3" type="audio/mpeg" length="2228948" />
 </item>
@@ -71,8 +65,6 @@ Audio files in /home/pi/radio/katsuma
 <dc:creator></dc:creator>
 <pubDate>Sun, 18 Oct 2020 21:16:29 +0900</pubDate>
 
-<itunes:duration>07:38</itunes:duration>
-
 <enclosure url="http://192.168.11.3/katsuma/%E4%BD%95%E3%81%8B%E3%82%92%E7%BF%92%E3%81%86%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%AF%E3%80%81%E8%87%AA%E5%88%86%E3%81%A8%E4%BC%BC%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%81%E3%81%AB%E7%BF%92%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A8%E5%8A%B9%E7%8E%87%E3%81%8C%E6%82%AA%E3%81%84%E3%81%97%E3%80%81%E9%80%86%E5%8A%B9%E6%9E%9C%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%93%E3%81%A8%E3%81%99%E3%82%89%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99-KtoAwkYfEnc.mp3" type="audio/mpeg" length="4299250" />
 </item>
 
@@ -85,8 +77,6 @@ Audio files in /home/pi/radio/katsuma
 <guid>http://192.168.11.3/katsuma/%E3%80%90%E7%89%B9%E5%88%A5%E5%AF%BE%E8%AB%87%E3%80%91%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%81%B2%E3%81%8B%E3%82%8B%E3%81%95%E3%82%93%E3%81%AB%E3%80%81%E3%82%82%E3%81%AE%E3%81%BE%E3%81%AD%E3%81%AE%E7%A7%98%E8%A8%A3%E3%82%92%E8%81%9E%E3%81%84%E3%81%A1%E3%82%83%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F-yn0O-E6Y2c4.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 18 Oct 2020 04:24:39 +0900</pubDate>
-
-<itunes:duration>34:20</itunes:duration>
 
 <enclosure url="http://192.168.11.3/katsuma/%E3%80%90%E7%89%B9%E5%88%A5%E5%AF%BE%E8%AB%87%E3%80%91%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%81%B2%E3%81%8B%E3%82%8B%E3%81%95%E3%82%93%E3%81%AB%E3%80%81%E3%82%82%E3%81%AE%E3%81%BE%E3%81%AD%E3%81%AE%E7%A7%98%E8%A8%A3%E3%82%92%E8%81%9E%E3%81%84%E3%81%A1%E3%82%83%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F-yn0O-E6Y2c4.mp3" type="audio/mpeg" length="18569665" />
 </item>
@@ -101,8 +91,6 @@ Audio files in /home/pi/radio/katsuma
 <dc:creator></dc:creator>
 <pubDate>Sat, 17 Oct 2020 23:49:10 +0900</pubDate>
 
-<itunes:duration>05:23</itunes:duration>
-
 <enclosure url="http://192.168.11.3/katsuma/%E3%82%BB%E3%83%9F%E3%83%AD%E3%83%B3%E3%82%B0%E3%81%AF%E4%B8%83%E9%9B%A3%E9%9A%A0%E3%81%99%E3%80%82%E9%AB%AA%E3%81%AE%E6%AF%9B%E3%81%AF%E9%A1%94%E3%81%AE%E9%A1%8D%E7%B8%81%E3%81%AA%E3%81%AE%E3%81%A7%E3%80%81%E9%A1%8D%E7%B8%81%E3%81%8C%E7%AB%8B%E6%B4%BE%E3%81%AA%E3%82%89%E3%80%81%E4%B8%AD%E8%BA%AB%E3%81%8C%E3%82%88%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%BE%E3%81%99%E3%80%82-Vum7SvaaNE4.mp3" type="audio/mpeg" length="3036929" />
 </item>
 
@@ -115,8 +103,6 @@ Audio files in /home/pi/radio/katsuma
 <guid>http://192.168.11.3/katsuma/%E6%89%8B%E6%8A%9C%E3%81%8D%E3%81%AF%E6%AD%A3%E7%BE%A9%E3%80%82%E6%89%8B%E6%8A%9C%E3%81%8D%E3%81%AF%E5%8A%9B%E3%80%82%E6%88%90%E6%9E%9C%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%81%8B%E3%80%81%E3%82%88%E3%82%8A%E8%89%AF%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%97%E3%81%9F%E3%82%89%E3%80%81%E5%91%A8%E3%82%8A%E3%81%AE%E5%A3%B0%E3%82%92%E6%B0%97%E3%81%AB%E3%81%9B%E3%81%9A%E3%81%AB%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E6%89%8B%E6%8A%9C%E3%81%8D%E3%82%92%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82-NskxtiCz-f4.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 16 Oct 2020 03:11:57 +0900</pubDate>
-
-<itunes:duration>06:25</itunes:duration>
 
 <enclosure url="http://192.168.11.3/katsuma/%E6%89%8B%E6%8A%9C%E3%81%8D%E3%81%AF%E6%AD%A3%E7%BE%A9%E3%80%82%E6%89%8B%E6%8A%9C%E3%81%8D%E3%81%AF%E5%8A%9B%E3%80%82%E6%88%90%E6%9E%9C%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E3%81%8B%E3%80%81%E3%82%88%E3%82%8A%E8%89%AF%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%97%E3%81%9F%E3%82%89%E3%80%81%E5%91%A8%E3%82%8A%E3%81%AE%E5%A3%B0%E3%82%92%E6%B0%97%E3%81%AB%E3%81%9B%E3%81%9A%E3%81%AB%E3%81%A9%E3%82%93%E3%81%A9%E3%82%93%E6%89%8B%E6%8A%9C%E3%81%8D%E3%82%92%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%80%82-NskxtiCz-f4.mp3" type="audio/mpeg" length="3678948" />
 </item>
@@ -131,8 +117,6 @@ Audio files in /home/pi/radio/katsuma
 <dc:creator></dc:creator>
 <pubDate>Wed, 14 Oct 2020 22:14:52 +0900</pubDate>
 
-<itunes:duration>03:58</itunes:duration>
-
 <enclosure url="http://192.168.11.3/katsuma/%E6%AF%8E%E6%97%A5%E3%81%AE%E6%99%82%E9%96%93%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E6%96%B9%E6%B3%95%E3%82%92%E6%95%99%E3%81%88%E3%81%BE%E3%81%99%E3%80%82%E6%99%AE%E9%80%9A%E3%81%AE%E3%81%B2%E3%81%A8%E3%81%AF%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%81%A6%E3%80%81%E7%A7%81%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%EF%BC%93%E3%81%A4%E3%81%AE%E3%81%93%E3%81%A8%E3%80%82-tty0b9lYDr4.mp3" type="audio/mpeg" length="2244021" />
 </item>
 
@@ -145,8 +129,6 @@ Audio files in /home/pi/radio/katsuma
 <guid>http://192.168.11.3/katsuma/%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88%E3%80%82%E3%81%9D%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E8%A7%A3%E8%AA%AD%E3%81%97%E3%81%BE%E3%81%99%E3%80%82-f65XmcdDW4w.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Tue, 13 Oct 2020 19:50:58 +0900</pubDate>
-
-<itunes:duration>04:41</itunes:duration>
 
 <enclosure url="http://192.168.11.3/katsuma/%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88%E3%80%82%E3%81%9D%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E8%A7%A3%E8%AA%AD%E3%81%97%E3%81%BE%E3%81%99%E3%80%82-f65XmcdDW4w.mp3" type="audio/mpeg" length="2658060" />
 </item>
@@ -161,8 +143,6 @@ Audio files in /home/pi/radio/katsuma
 <dc:creator></dc:creator>
 <pubDate>Tue, 13 Oct 2020 11:57:19 +0900</pubDate>
 
-<itunes:duration>05:14</itunes:duration>
-
 <enclosure url="http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%AE%E3%80%81SNS%E3%81%AF%E7%9B%9B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E8%87%AA%E5%88%86%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E5%A4%B1%E6%95%97%E8%AB%87%E3%82%84%E6%89%8B%E6%8A%9C%E3%81%8D%E3%81%AE%E7%9F%A5%E6%81%B5%E3%82%82%E5%85%B1%E6%9C%89%E3%81%97%E3%82%88%E3%81%86-vZ329NBNkYw.mp3" type="audio/mpeg" length="2959924" />
 </item>
 
@@ -175,8 +155,6 @@ Audio files in /home/pi/radio/katsuma
 <guid>http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%AE%E3%80%81%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%92%E4%B8%A1%E6%89%8B%E3%81%AB%E4%BD%BF%E3%81%8A%E3%81%86%E3%80%82%E5%8F%B3%E6%89%8B%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%A6%E3%82%AA%E3%83%83%E3%83%81%E3%80%81%E5%B7%A6%E6%89%8B%E3%81%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4GT%E3%81%A4%E3%81%91%E3%82%8B%E3%81%A8%E3%81%BB%E3%82%93%E3%81%A8%E3%80%81%E4%BE%BF%E5%88%A9%E3%81%A7%E3%81%99%E3%80%82-ji-TkZh3P2c.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 11 Oct 2020 20:41:23 +0900</pubDate>
-
-<itunes:duration>04:37</itunes:duration>
 
 <enclosure url="http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%AE%E3%80%81%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%92%E4%B8%A1%E6%89%8B%E3%81%AB%E4%BD%BF%E3%81%8A%E3%81%86%E3%80%82%E5%8F%B3%E6%89%8B%E3%81%AB%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%82%A6%E3%82%AA%E3%83%83%E3%83%81%E3%80%81%E5%B7%A6%E6%89%8B%E3%81%AB%E3%83%95%E3%82%A1%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4GT%E3%81%A4%E3%81%91%E3%82%8B%E3%81%A8%E3%81%BB%E3%82%93%E3%81%A8%E3%80%81%E4%BE%BF%E5%88%A9%E3%81%A7%E3%81%99%E3%80%82-ji-TkZh3P2c.mp3" type="audio/mpeg" length="2620721" />
 </item>
@@ -191,8 +169,6 @@ Audio files in /home/pi/radio/katsuma
 <dc:creator></dc:creator>
 <pubDate>Sun, 11 Oct 2020 12:39:04 +0900</pubDate>
 
-<itunes:duration>06:38</itunes:duration>
-
 <enclosure url="http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%AE%E3%80%81%E3%83%9A%E3%83%83%E3%83%88%E3%82%92%E9%A3%BC%E3%81%84%E3%81%A8%E3%81%92%E3%82%88%E3%81%86%E3%80%82%E3%83%9A%E3%83%83%E3%83%88%E3%82%92%E3%81%8A%E8%BF%8E%E3%81%88%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AB%E3%81%AF%E9%A4%8A%E5%AD%90%E7%B8%81%E7%B5%84%E3%81%A8%E5%90%8C%E3%81%98%E8%A6%9A%E6%82%9F%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%A7%E3%81%99%E3%80%82-ODeaHERKdG4.mp3" type="audio/mpeg" length="3754627" />
 </item>
 
@@ -205,8 +181,6 @@ Audio files in /home/pi/radio/katsuma
 <guid>http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%AE%E3%80%81%E3%82%B4%E3%83%AB%E3%83%95%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%95%E3%82%92%E8%AA%9E%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82%E7%A7%81%E3%81%8C%E3%81%A1%E3%81%A3%E3%81%A8%E3%82%82%E3%81%86%E3%81%BE%E3%81%8F%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%82%B4%E3%83%AB%E3%83%95%E3%82%92%E7%B6%9A%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E7%90%86%E7%94%B1-k8f_AH2Utpk.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 10 Oct 2020 23:49:44 +0900</pubDate>
-
-<itunes:duration>10:57</itunes:duration>
 
 <enclosure url="http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%AE%E3%80%81%E3%82%B4%E3%83%AB%E3%83%95%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%95%E3%82%92%E8%AA%9E%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82%E7%A7%81%E3%81%8C%E3%81%A1%E3%81%A3%E3%81%A8%E3%82%82%E3%81%86%E3%81%BE%E3%81%8F%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%82%B4%E3%83%AB%E3%83%95%E3%82%92%E7%B6%9A%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E7%90%86%E7%94%B1-k8f_AH2Utpk.mp3" type="audio/mpeg" length="6163261" />
 </item>
@@ -221,8 +195,6 @@ Audio files in /home/pi/radio/katsuma
 <dc:creator></dc:creator>
 <pubDate>Thu, 08 Oct 2020 21:05:17 +0900</pubDate>
 
-<itunes:duration>04:21</itunes:duration>
-
 <enclosure url="http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%92%8C%E4%BB%A3%E3%81%AE%E3%80%81%E7%9D%A1%E7%9C%A0%E3%81%AF%E4%B8%87%E8%83%BD%E8%96%AC%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E3%81%84%E3%81%A4%E3%82%82%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9D%E3%81%86-RsETJpqbti4.mp3" type="audio/mpeg" length="2471691" />
 </item>
 
@@ -235,8 +207,6 @@ Audio files in /home/pi/radio/katsuma
 <guid>http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%BC%8F%E3%80%8C%E8%B6%85%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%80%8D%E8%87%AA%E7%94%B1%E3%82%82%E3%81%8A%E9%87%91%E3%82%82%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8B%E3%80%82%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%AE%E8%91%97%E8%80%85%E8%A7%A3%E8%AA%AC%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99%E3%80%82-r5YQUWiuhGw.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Wed, 07 Oct 2020 21:30:55 +0900</pubDate>
-
-<itunes:duration>03:56</itunes:duration>
 
 <enclosure url="http://192.168.11.3/katsuma/%E5%8B%9D%E9%96%93%E5%BC%8F%E3%80%8C%E8%B6%85%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%80%8D%E8%87%AA%E7%94%B1%E3%82%82%E3%81%8A%E9%87%91%E3%82%82%E6%89%8B%E3%81%AB%E5%85%A5%E3%82%8B%E3%80%82%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%AE%E8%91%97%E8%80%85%E8%A7%A3%E8%AA%AC%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99%E3%80%82-r5YQUWiuhGw.mp3" type="audio/mpeg" length="2258003" />
 </item>
