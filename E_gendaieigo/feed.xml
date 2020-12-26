@@ -13,9 +13,21 @@
 Audio files in /home/pi/radio/E_gendaieigo
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 20 Dec 2020 12:55:40 +0900</lastBuildDate>
+<lastBuildDate>Sat, 26 Dec 2020 12:55:34 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
-<itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/E_gendaieigo/icon.jpg" />
+
+<item>
+<title>E_gendaieigo_20201226.mp3</title>
+<link>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201226.mp3</link>
+<description>E_gendaieigo_20201226.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201226.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 26 Dec 2020 12:55:33 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201226.mp3" type="audio/mpeg" length="14400416" />
+</item>
 
 <item>
 <title>E_gendaieigo_20201220.mp3</title>
@@ -26,7 +38,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201220.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 20 Dec 2020 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201220.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -39,7 +51,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201219.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 19 Dec 2020 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201219.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -52,7 +64,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201213.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 13 Dec 2020 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201213.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -65,7 +77,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201212.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 12 Dec 2020 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201212.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -78,7 +90,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201206.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 06 Dec 2020 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201206.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -91,7 +103,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201205.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 05 Dec 2020 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201205.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -104,7 +116,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201129.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 29 Nov 2020 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201129.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -117,7 +129,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201128.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 28 Nov 2020 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201128.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -130,7 +142,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201122.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 22 Nov 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201122.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -143,7 +155,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 21 Nov 2020 12:55:43 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201121.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -156,7 +168,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201115.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 15 Nov 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201115.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -169,7 +181,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201114.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 14 Nov 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201114.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -182,7 +194,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201108.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 08 Nov 2020 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201108.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -195,7 +207,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201107.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 07 Nov 2020 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201107.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -208,7 +220,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201101.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 01 Nov 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201101.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -221,7 +233,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201031.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 31 Oct 2020 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201031.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -234,7 +246,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201025.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 25 Oct 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201025.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -247,7 +259,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201024.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 24 Oct 2020 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201024.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -260,7 +272,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201018.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 18 Oct 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201018.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -273,7 +285,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201017.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 17 Oct 2020 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201017.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -286,7 +298,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201011.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 11 Oct 2020 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201011.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -299,7 +311,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201010.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 10 Oct 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201010.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -312,7 +324,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201004.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 04 Oct 2020 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201004.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -325,7 +337,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201003.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 03 Oct 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201003.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -338,7 +350,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200927.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 27 Sep 2020 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200927.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -351,7 +363,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200926.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 26 Sep 2020 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200926.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -364,7 +376,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200920.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 20 Sep 2020 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200920.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -377,7 +389,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200919.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 19 Sep 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200919.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -390,7 +402,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200913.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 13 Sep 2020 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200913.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -403,7 +415,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200912.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 12 Sep 2020 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200912.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -416,7 +428,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200906.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 06 Sep 2020 12:55:29 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200906.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -429,7 +441,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200905.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 05 Sep 2020 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200905.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -442,7 +454,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200830.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 30 Aug 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200830.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -455,7 +467,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200829.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 29 Aug 2020 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200829.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -468,7 +480,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200823.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 23 Aug 2020 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200823.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -481,7 +493,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200822.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 22 Aug 2020 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200822.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -494,7 +506,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200816.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 16 Aug 2020 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200816.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -507,7 +519,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200815.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 15 Aug 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200815.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -520,7 +532,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200809.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 09 Aug 2020 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200809.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -533,7 +545,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200808.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 08 Aug 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200808.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -546,7 +558,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200802.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 02 Aug 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200802.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -559,7 +571,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200801.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 01 Aug 2020 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200801.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -572,7 +584,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200726.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 26 Jul 2020 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200726.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -585,7 +597,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200725.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 25 Jul 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200725.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -598,7 +610,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200719.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 19 Jul 2020 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200719.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -611,7 +623,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200718.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 18 Jul 2020 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200718.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -624,7 +636,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200712.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 12 Jul 2020 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200712.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -637,7 +649,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200711.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 11 Jul 2020 12:55:29 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200711.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -650,7 +662,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200705.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 05 Jul 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200705.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -663,7 +675,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200704.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 04 Jul 2020 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200704.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -676,7 +688,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200628.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 28 Jun 2020 12:56:15 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200628.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -689,7 +701,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200627.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 27 Jun 2020 12:56:03 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200627.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -702,7 +714,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200621.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 21 Jun 2020 12:56:05 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200621.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -715,7 +727,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200620.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 20 Jun 2020 12:56:03 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200620.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -728,7 +740,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200614.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 14 Jun 2020 12:56:09 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200614.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -741,7 +753,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200613.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 13 Jun 2020 12:56:03 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200613.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -754,7 +766,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200607.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 07 Jun 2020 12:56:03 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200607.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -767,7 +779,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200606.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 06 Jun 2020 12:56:03 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200606.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -780,7 +792,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200531.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 31 May 2020 12:56:08 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200531.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -793,7 +805,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200530.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 30 May 2020 12:56:03 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200530.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -806,7 +818,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200524.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 24 May 2020 12:55:57 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200524.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -819,7 +831,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200517.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 17 May 2020 12:56:05 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200517.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -832,7 +844,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200516.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 16 May 2020 12:56:00 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200516.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -845,7 +857,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200509.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 09 May 2020 12:56:11 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200509.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -858,7 +870,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200503.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 03 May 2020 12:56:09 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200503.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -871,7 +883,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200502.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 02 May 2020 12:56:00 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200502.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -884,7 +896,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200426.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 26 Apr 2020 12:56:03 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200426.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -897,7 +909,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200425.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 25 Apr 2020 12:56:07 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200425.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -910,7 +922,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200419.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 19 Apr 2020 12:56:07 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200419.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -923,7 +935,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200418.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 18 Apr 2020 12:56:05 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200418.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -936,7 +948,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200412.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 12 Apr 2020 12:56:08 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200412.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -949,7 +961,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200411.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 11 Apr 2020 12:56:06 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200411.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -962,7 +974,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200405.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 05 Apr 2020 12:56:06 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200405.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -975,7 +987,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200404.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 04 Apr 2020 12:56:05 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200404.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -988,7 +1000,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200329.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 29 Mar 2020 12:56:17 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200329.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1001,7 +1013,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200328.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 28 Mar 2020 12:56:06 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200328.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1014,7 +1026,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200322.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 22 Mar 2020 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200322.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1027,7 +1039,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200321.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 21 Mar 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200321.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1040,7 +1052,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200315.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 15 Mar 2020 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200315.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1053,7 +1065,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200314.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 14 Mar 2020 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200314.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1066,7 +1078,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200209.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 09 Feb 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200209.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1079,7 +1091,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200208.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 08 Feb 2020 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200208.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1092,7 +1104,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200202.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 02 Feb 2020 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200202.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1105,7 +1117,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200201.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 01 Feb 2020 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200201.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1118,7 +1130,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200126.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 26 Jan 2020 12:55:29 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200126.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1131,7 +1143,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200125.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 25 Jan 2020 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200125.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1144,7 +1156,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200119.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 19 Jan 2020 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200119.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1157,7 +1169,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200118.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 18 Jan 2020 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200118.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1170,7 +1182,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200112.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 12 Jan 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200112.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1183,7 +1195,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200111.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 11 Jan 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200111.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1196,7 +1208,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200105.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 05 Jan 2020 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200105.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1209,7 +1221,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200104.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 04 Jan 2020 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20200104.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1222,7 +1234,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191229.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 29 Dec 2019 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191229.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1235,7 +1247,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191228.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 28 Dec 2019 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191228.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1248,7 +1260,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191222.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 22 Dec 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191222.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1261,7 +1273,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191221.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 21 Dec 2019 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191221.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1274,7 +1286,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191215.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 15 Dec 2019 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191215.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1287,7 +1299,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191214.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 14 Dec 2019 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191214.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1300,7 +1312,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191208.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 08 Dec 2019 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191208.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1313,7 +1325,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191207.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 07 Dec 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191207.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1326,7 +1338,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191201.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 01 Dec 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191201.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1339,7 +1351,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191130.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 30 Nov 2019 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191130.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1352,7 +1364,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191124.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 24 Nov 2019 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191124.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1365,7 +1377,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191123.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 23 Nov 2019 12:55:29 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191123.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1378,7 +1390,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191117.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 17 Nov 2019 12:55:29 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191117.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1391,7 +1403,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191116.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 16 Nov 2019 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191116.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1404,7 +1416,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191110.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 10 Nov 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191110.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1417,7 +1429,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191109.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 09 Nov 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191109.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1430,7 +1442,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191103.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 03 Nov 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191103.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1443,7 +1455,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191027.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 27 Oct 2019 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191027.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1456,7 +1468,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191026.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 26 Oct 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191026.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1469,7 +1481,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191020.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 20 Oct 2019 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191020.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1482,7 +1494,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191013.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 13 Oct 2019 12:55:24 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191013.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1495,7 +1507,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191012.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 12 Oct 2019 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191012.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1508,7 +1520,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191006.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 06 Oct 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191006.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1521,7 +1533,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191005.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 05 Oct 2019 12:55:28 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20191005.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1534,7 +1546,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190922.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 22 Sep 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190922.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1547,7 +1559,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190921.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 21 Sep 2019 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190921.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1560,7 +1572,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190915.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 15 Sep 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190915.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1573,7 +1585,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190914.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 14 Sep 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190914.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1586,7 +1598,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190908.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 08 Sep 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190908.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1599,7 +1611,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190907.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 07 Sep 2019 12:55:28 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190907.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1612,7 +1624,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190901.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 01 Sep 2019 12:55:28 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190901.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1625,7 +1637,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190831.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 31 Aug 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190831.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1638,7 +1650,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190825.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 25 Aug 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190825.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1651,7 +1663,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190824.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 24 Aug 2019 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190824.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1664,7 +1676,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190818.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 18 Aug 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190818.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1677,7 +1689,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190817.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 17 Aug 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190817.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1690,7 +1702,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 11 Aug 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190811.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1703,7 +1715,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190810.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 10 Aug 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190810.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1716,7 +1728,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190804.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 04 Aug 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190804.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1729,7 +1741,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190803.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 03 Aug 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190803.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1742,7 +1754,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190728.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 28 Jul 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190728.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1755,7 +1767,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190727.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 27 Jul 2019 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190727.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1768,7 +1780,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190721.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 21 Jul 2019 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190721.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1781,7 +1793,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190720.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 20 Jul 2019 12:55:47 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190720.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1794,7 +1806,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190714.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 14 Jul 2019 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190714.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1807,7 +1819,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190713.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 13 Jul 2019 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190713.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1820,7 +1832,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190707.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 07 Jul 2019 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190707.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1833,7 +1845,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190706.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 06 Jul 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190706.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1846,7 +1858,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190630.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 30 Jun 2019 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190630.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1859,7 +1871,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190629.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 29 Jun 2019 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190629.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1872,7 +1884,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190623.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 23 Jun 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190623.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1885,7 +1897,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190622.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 22 Jun 2019 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190622.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1898,7 +1910,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190616.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 16 Jun 2019 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190616.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1911,7 +1923,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190615.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 15 Jun 2019 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190615.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1924,7 +1936,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190609.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 09 Jun 2019 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190609.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1937,7 +1949,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190608.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 08 Jun 2019 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190608.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1950,7 +1962,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190602.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 02 Jun 2019 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190602.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1963,7 +1975,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190601.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 01 Jun 2019 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190601.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1976,7 +1988,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190526.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 26 May 2019 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190526.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -1989,7 +2001,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190525.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 25 May 2019 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190525.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2002,7 +2014,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190519.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 19 May 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190519.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2015,7 +2027,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190518.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 18 May 2019 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190518.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2028,7 +2040,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190512.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 12 May 2019 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190512.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2041,7 +2053,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190511.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 11 May 2019 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190511.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2054,7 +2066,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190505.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 05 May 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190505.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2067,7 +2079,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190504.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 04 May 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190504.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2080,7 +2092,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190428.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 28 Apr 2019 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190428.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2093,7 +2105,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190427.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 27 Apr 2019 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190427.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2106,7 +2118,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190421.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 21 Apr 2019 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190421.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2119,7 +2131,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190420.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 20 Apr 2019 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190420.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2132,7 +2144,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190414.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 14 Apr 2019 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190414.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2145,7 +2157,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190413.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 13 Apr 2019 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190413.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2158,7 +2170,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190407.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 07 Apr 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190407.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2171,7 +2183,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190406.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 06 Apr 2019 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190406.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2184,7 +2196,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190331.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 31 Mar 2019 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190331.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2197,7 +2209,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190330.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 30 Mar 2019 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190330.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2210,7 +2222,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190324.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 24 Mar 2019 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190324.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2223,7 +2235,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190323.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 23 Mar 2019 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190323.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2236,7 +2248,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190317.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 17 Mar 2019 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190317.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2249,7 +2261,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190316.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 16 Mar 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190316.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2262,7 +2274,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190310.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 10 Mar 2019 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190310.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2275,7 +2287,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190303.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 03 Mar 2019 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190303.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2288,7 +2300,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190302.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 02 Mar 2019 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190302.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2301,7 +2313,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190224.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 24 Feb 2019 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190224.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2314,7 +2326,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190223.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 23 Feb 2019 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190223.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2327,7 +2339,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190217.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 17 Feb 2019 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190217.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2340,7 +2352,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190216.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 16 Feb 2019 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190216.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2353,7 +2365,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190210.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 10 Feb 2019 12:55:49 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190210.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2366,7 +2378,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190209.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 09 Feb 2019 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190209.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2379,7 +2391,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190203.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 03 Feb 2019 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190203.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2392,7 +2404,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190202.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 02 Feb 2019 12:55:43 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190202.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2405,7 +2417,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190127.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 27 Jan 2019 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190127.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2418,7 +2430,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190126.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 26 Jan 2019 12:55:43 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190126.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2431,7 +2443,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190120.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 20 Jan 2019 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190120.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2444,7 +2456,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190119.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 19 Jan 2019 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190119.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2457,7 +2469,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190113.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 13 Jan 2019 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190113.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2470,7 +2482,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190112.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 12 Jan 2019 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190112.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2483,7 +2495,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190106.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 06 Jan 2019 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190106.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2496,7 +2508,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190105.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 05 Jan 2019 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20190105.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2509,7 +2521,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181230.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 30 Dec 2018 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181230.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2522,7 +2534,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181229.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 29 Dec 2018 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181229.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2535,7 +2547,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181223.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 23 Dec 2018 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181223.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2548,7 +2560,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181222.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 22 Dec 2018 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181222.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2561,7 +2573,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181209.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 09 Dec 2018 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181209.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2574,7 +2586,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181208.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 08 Dec 2018 12:55:41 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181208.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2587,7 +2599,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181202.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 02 Dec 2018 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181202.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2600,7 +2612,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181201.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 01 Dec 2018 12:55:38 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181201.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2613,7 +2625,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181125.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 25 Nov 2018 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181125.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2626,7 +2638,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181124.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 24 Nov 2018 12:55:30 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181124.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2639,7 +2651,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181118.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 18 Nov 2018 12:55:27 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181118.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2652,7 +2664,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181117.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 17 Nov 2018 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181117.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2665,7 +2677,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181111.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 11 Nov 2018 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181111.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2678,7 +2690,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181110.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 10 Nov 2018 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181110.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2691,7 +2703,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181104.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 04 Nov 2018 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181104.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2704,7 +2716,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181103.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 03 Nov 2018 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181103.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2717,7 +2729,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181028.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 28 Oct 2018 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181028.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2730,7 +2742,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181027.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 27 Oct 2018 12:55:27 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181027.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2743,7 +2755,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181021.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 21 Oct 2018 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181021.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2756,7 +2768,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181020.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 20 Oct 2018 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181020.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2769,7 +2781,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181014.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 14 Oct 2018 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181014.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2782,7 +2794,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181013.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 13 Oct 2018 12:55:28 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181013.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2795,7 +2807,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181007.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 07 Oct 2018 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181007.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2808,7 +2820,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181006.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 06 Oct 2018 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20181006.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2821,7 +2833,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180929.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 29 Sep 2018 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180929.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2834,7 +2846,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180923.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 23 Sep 2018 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180923.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2847,7 +2859,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180922.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 22 Sep 2018 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180922.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2860,7 +2872,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180916.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 16 Sep 2018 12:48:15 +0900</pubDate>
-<itunes:duration>07:30</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180916.mp3" type="audio/mpeg" length="7209632" />
 </item>
 
@@ -2873,7 +2885,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180915.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 15 Sep 2018 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180915.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2886,7 +2898,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180909.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 09 Sep 2018 12:55:31 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180909.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2899,7 +2911,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180908.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 08 Sep 2018 12:55:42 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180908.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2912,7 +2924,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180902.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 02 Sep 2018 12:55:39 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180902.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2925,7 +2937,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180901.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 01 Sep 2018 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180901.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2938,7 +2950,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180826.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 26 Aug 2018 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180826.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2951,7 +2963,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180825.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 25 Aug 2018 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180825.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2964,7 +2976,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180819.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 19 Aug 2018 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180819.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2977,7 +2989,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180818.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 18 Aug 2018 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180818.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -2990,7 +3002,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180812.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 12 Aug 2018 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180812.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3003,7 +3015,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 11 Aug 2018 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180811.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3016,7 +3028,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180805.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 05 Aug 2018 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180805.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3029,7 +3041,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180804.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 04 Aug 2018 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180804.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3042,7 +3054,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180729.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 29 Jul 2018 12:54:39 +0900</pubDate>
-<itunes:duration>13:28</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180729.mp3" type="audio/mpeg" length="12943904" />
 </item>
 
@@ -3055,7 +3067,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180728.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 28 Jul 2018 12:55:50 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180728.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3068,7 +3080,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180722.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 22 Jul 2018 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180722.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3081,7 +3093,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180721.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 21 Jul 2018 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180721.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3094,7 +3106,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180715.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 15 Jul 2018 12:55:36 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180715.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3107,7 +3119,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180714.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 14 Jul 2018 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180714.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3120,7 +3132,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180708.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 08 Jul 2018 12:55:34 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180708.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3133,7 +3145,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180707.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 07 Jul 2018 12:55:37 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180707.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3146,7 +3158,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180701.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 01 Jul 2018 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180701.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3159,7 +3171,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180630.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 30 Jun 2018 12:55:33 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180630.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3172,7 +3184,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180623.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 23 Jun 2018 12:55:40 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180623.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3185,7 +3197,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180617.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 17 Jun 2018 12:55:32 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180617.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3198,7 +3210,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180616.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 16 Jun 2018 12:55:35 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180616.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
@@ -3211,7 +3223,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180610.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 10 Jun 2018 12:50:36 +0900</pubDate>
-<itunes:duration>10:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180610.mp3" type="audio/mpeg" length="9600416" />
 </item>
 
@@ -3224,7 +3236,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180609.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 09 Jun 2018 12:50:36 +0900</pubDate>
-<itunes:duration>10:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20180609.mp3" type="audio/mpeg" length="9600416" />
 </item>
 
@@ -3237,7 +3249,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180520Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 20 May 2018 13:56:26 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180520Sun.mp3" type="audio/mpeg" length="28800824" />
 </item>
 
@@ -3250,7 +3262,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180519Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 19 May 2018 13:55:57 +0900</pubDate>
-<itunes:duration>1:00:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180519Sat.mp3" type="audio/mpeg" length="28800824" />
 </item>
 
@@ -3263,7 +3275,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180513.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 13 May 2018 12:54:37 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180513.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3276,7 +3288,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180512.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 12 May 2018 12:54:48 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180512.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3289,7 +3301,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180506.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 06 May 2018 12:54:42 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180506.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3302,7 +3314,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180505.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 05 May 2018 12:54:41 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180505.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3315,7 +3327,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180429.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 29 Apr 2018 12:54:41 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180429.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3328,7 +3340,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180428.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 28 Apr 2018 12:54:46 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180428.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3341,7 +3353,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180422.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 22 Apr 2018 12:41:33 +0900</pubDate>
-<itunes:duration>00:55</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180422.mp3" type="audio/mpeg" length="888832" />
 </item>
 
@@ -3354,7 +3366,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180421.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 21 Apr 2018 12:54:43 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180421.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3367,7 +3379,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180415.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 15 Apr 2018 12:54:44 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180415.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3380,7 +3392,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180414.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 14 Apr 2018 12:54:34 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180414.mp3" type="audio/mpeg" length="13440416" />
 </item>
 
@@ -3393,7 +3405,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180325Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 25 Mar 2018 12:57:36 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180325Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3406,7 +3418,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180324Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 24 Mar 2018 12:57:40 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180324Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3419,7 +3431,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180318Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 18 Mar 2018 12:57:36 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180318Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3432,7 +3444,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180317Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 17 Mar 2018 12:58:01 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180317Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3445,7 +3457,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180311Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 11 Mar 2018 12:57:37 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180311Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3458,7 +3470,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180310Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 10 Mar 2018 12:57:40 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180310Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3471,7 +3483,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180304Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 04 Mar 2018 12:57:36 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180304Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3484,7 +3496,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180303Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 03 Mar 2018 12:57:38 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180303Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3497,7 +3509,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180225Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 25 Feb 2018 12:57:37 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180225Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3510,7 +3522,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180224Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 24 Feb 2018 12:57:40 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180224Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3523,7 +3535,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180218Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 18 Feb 2018 12:57:40 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180218Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3536,7 +3548,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180217Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 17 Feb 2018 12:57:44 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180217Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3549,7 +3561,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180211Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 11 Feb 2018 12:57:41 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180211Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3562,7 +3574,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180210Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 10 Feb 2018 12:57:40 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180210Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3575,7 +3587,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180204Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 04 Feb 2018 12:57:44 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180204Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3588,7 +3600,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180203Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 03 Feb 2018 12:57:46 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180203Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3601,7 +3613,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180128Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 28 Jan 2018 12:57:39 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180128Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3614,7 +3626,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180127Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 27 Jan 2018 12:57:37 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180127Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3627,7 +3639,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180121Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 21 Jan 2018 12:57:42 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180121Sun.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3640,7 +3652,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180120Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 20 Jan 2018 12:57:41 +0900</pubDate>
-<itunes:duration>14:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180120Sat.mp3" type="audio/mpeg" length="6721016" />
 </item>
 
@@ -3653,7 +3665,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180114Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 14 Jan 2018 12:58:47 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180114Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3666,7 +3678,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180113Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 13 Jan 2018 12:58:52 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180113Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3679,7 +3691,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180107Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 07 Jan 2018 12:58:48 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180107Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3692,7 +3704,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20180106Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 06 Jan 2018 12:58:54 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20180106Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3705,7 +3717,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171231Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 31 Dec 2017 12:58:53 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171231Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3718,7 +3730,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171230Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 30 Dec 2017 12:58:51 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171230Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3731,7 +3743,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171224Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 24 Dec 2017 12:58:46 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171224Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3744,7 +3756,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171223Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 23 Dec 2017 12:58:51 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171223Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3757,7 +3769,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171217Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 17 Dec 2017 12:59:03 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171217Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3770,7 +3782,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171216Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 16 Dec 2017 12:58:48 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171216Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3783,7 +3795,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171210Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 10 Dec 2017 12:58:49 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171210Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3796,7 +3808,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171209Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 09 Dec 2017 12:58:49 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171209Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3809,7 +3821,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171203Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 03 Dec 2017 12:58:49 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171203Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3822,7 +3834,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171202Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 02 Dec 2017 12:58:53 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171202Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3835,7 +3847,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171126Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 26 Nov 2017 12:58:48 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171126Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3848,7 +3860,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171125Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 25 Nov 2017 12:58:57 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171125Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3861,7 +3873,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171119Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 19 Nov 2017 12:57:53 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171119Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3874,7 +3886,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171118Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 18 Nov 2017 12:57:51 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171118Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3887,7 +3899,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171112Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 12 Nov 2017 12:57:59 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171112Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3900,7 +3912,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171111Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 11 Nov 2017 12:57:51 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171111Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3913,7 +3925,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171105Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 05 Nov 2017 12:57:48 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171105Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3926,7 +3938,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171104Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 04 Nov 2017 12:57:50 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171104Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3939,7 +3951,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171029Sun.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sun, 29 Oct 2017 12:57:57 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171029Sun.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
@@ -3952,7 +3964,7 @@ Audio files in /home/pi/radio/E_gendaieigo
 <guid>http://192.168.11.3/E_gendaieigo/gendaieigo_20171028Sat.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Sat, 28 Oct 2017 12:57:50 +0900</pubDate>
-<itunes:duration>15:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/E_gendaieigo/gendaieigo_20171028Sat.mp3" type="audio/mpeg" length="7201016" />
 </item>
 
