@@ -10,10 +10,10 @@
 <title>videonews_marugeki Podcast</title>
 <link>http://192.168.11.3/videonews_marugeki</link>
 <description>
-Audio files in /home/pi/radio/videonews_marugeki/
+Audio files in /home/pi/radio/videonews_marugeki
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 27 Dec 2020 12:27:43 +0900</lastBuildDate>
+<lastBuildDate>Sun, 27 Dec 2020 13:10:13 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
