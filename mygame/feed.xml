@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 01 Jan 2021 01:00:14 +0900</lastBuildDate>
+<lastBuildDate>Sat, 02 Jan 2021 01:07:27 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>第196回：MAHさん前編.103465.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC196%E5%9B%9E%EF%BC%9AMAH%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.103465.mp3</link>
+<description>第196回：MAHさん前編.103465.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC196%E5%9B%9E%EF%BC%9AMAH%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.103465.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 02 Jan 2021 01:07:26 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC196%E5%9B%9E%EF%BC%9AMAH%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.103465.mp3" type="audio/mpeg" length="41892032" />
+</item>
 
 <item>
 <title>第195回：天﨑滉平「天崎滉平さんが編み出したPSVR『デッドオアアライブエクス.103289.mp3</title>
