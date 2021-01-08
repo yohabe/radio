@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 08 Jan 2021 10:00:18 +0900</lastBuildDate>
+<lastBuildDate>Fri, 08 Jan 2021 18:00:18 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>20210108174501-TBS.mp3</title>
+<link>http://192.168.11.3/a_session22/20210108174501-TBS.mp3</link>
+<description>20210108174501-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/20210108174501-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 08 Jan 2021 17:48:43 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/20210108174501-TBS.mp3" type="audio/mpeg" length="1920995" />
+</item>
+
+<item>
+<title>20210108153201-TBS.mp3</title>
+<link>http://192.168.11.3/a_session22/20210108153201-TBS.mp3</link>
+<description>20210108153201-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/20210108153201-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 08 Jan 2021 15:35:43 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/20210108153201-TBS.mp3" type="audio/mpeg" length="1920995" />
+</item>
 
 <item>
 <title>特集「コロナ以後、社会をどう設計するか？～改めて、障害者雇用を考える」眞保智子×.103881.mp3</title>
