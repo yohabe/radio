@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 11 Jan 2021 10:00:19 +0900</lastBuildDate>
+<lastBuildDate>Mon, 11 Jan 2021 18:00:18 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>20210111174501-TBS.mp3</title>
+<link>http://192.168.11.3/a_session22/20210111174501-TBS.mp3</link>
+<description>20210111174501-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/20210111174501-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 11 Jan 2021 17:48:42 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/20210111174501-TBS.mp3" type="audio/mpeg" length="1920995" />
+</item>
+
+<item>
+<title>20210111153201-TBS.mp3</title>
+<link>http://192.168.11.3/a_session22/20210111153201-TBS.mp3</link>
+<description>20210111153201-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/20210111153201-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 11 Jan 2021 15:35:43 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/20210111153201-TBS.mp3" type="audio/mpeg" length="1920995" />
+</item>
 
 <item>
 <title>【元慰安婦訴訟】韓国地裁が日本政府に賠償命じる。判決のポイント【ニュース】木村幹.103996.mp3</title>
