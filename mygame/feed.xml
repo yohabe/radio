@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 15 Jan 2021 01:00:14 +0900</lastBuildDate>
+<lastBuildDate>Sat, 16 Jan 2021 01:07:54 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>第198回：ヤマサキセイヤさん前編.104458.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC198%E5%9B%9E%EF%BC%9A%E3%83%A4%E3%83%9E%E3%82%B5%E3%82%AD%E3%82%BB%E3%82%A4%E3%83%A4%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.104458.mp3</link>
+<description>第198回：ヤマサキセイヤさん前編.104458.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC198%E5%9B%9E%EF%BC%9A%E3%83%A4%E3%83%9E%E3%82%B5%E3%82%AD%E3%82%BB%E3%82%A4%E3%83%A4%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.104458.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 16 Jan 2021 01:07:53 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC198%E5%9B%9E%EF%BC%9A%E3%83%A4%E3%83%9E%E3%82%B5%E3%82%AD%E3%82%BB%E3%82%A4%E3%83%A4%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.104458.mp3" type="audio/mpeg" length="44799296" />
+</item>
 
 <item>
 <title>第197回：MAH「プレステを持ち歩きたいから……一泊でもスーツケースを持って行.104081.mp3</title>
