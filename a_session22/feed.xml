@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 22 Jan 2021 20:00:20 +0900</lastBuildDate>
+<lastBuildDate>Fri, 22 Jan 2021 21:01:50 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>2021年1月22日（金）ニュース.105052.mp3</title>
+<link>http://192.168.11.3/a_session22/2021%E5%B9%B41%E6%9C%8822%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.105052.mp3</link>
+<description>2021年1月22日（金）ニュース.105052.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2021%E5%B9%B41%E6%9C%8822%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.105052.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 22 Jan 2021 21:01:49 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2021%E5%B9%B41%E6%9C%8822%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.105052.mp3" type="audio/mpeg" length="9115712" />
+</item>
 
 <item>
 <title>【FrontLineSession】2021年1月21日（木）【WIRED】ゲス.104964.mp3</title>
