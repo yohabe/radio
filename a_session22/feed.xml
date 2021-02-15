@@ -13,21 +13,8 @@
 Audio files in /home/pi/radio/a_session22/
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 15 Feb 2021 11:10:03 +0900</lastBuildDate>
+<lastBuildDate>Mon, 15 Feb 2021 15:32:03 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
-
-<item>
-<title>session_2021-02-15-11-08.mp3</title>
-<link>http://192.168.11.3/a_session22/session_2021-02-15-11-08.mp3</link>
-<description>session_2021-02-15-11-08.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_session22/session_2021-02-15-11-08.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 15 Feb 2021 11:10:02 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/a_session22/session_2021-02-15-11-08.mp3" type="audio/mpeg" length="961667" />
-</item>
 
 </channel>
 </rss>
