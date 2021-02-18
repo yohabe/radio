@@ -10,11 +10,24 @@
 <title>a_session22 Podcast</title>
 <link>http://192.168.11.3/a_session22</link>
 <description>
-Audio files in /home/pi/radio/a_session22
+Audio files in /home/pi/radio/a_session22/
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 18 Feb 2021 10:00:25 +0900</lastBuildDate>
+<lastBuildDate>Thu, 18 Feb 2021 15:39:23 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-02-18-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-02-18-15-32.mp3</link>
+<description>radiko_2021-02-18-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-02-18-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 18 Feb 2021 15:39:22 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-02-18-15-32.mp3" type="audio/mpeg" length="2880707" />
+</item>
 
 <item>
 <title>【FrontLineSession】2021年2月17日（水）【名前のない家事問.107316.mp3</title>
