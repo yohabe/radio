@@ -10,12 +10,50 @@
 <title>a_nikkei_yonde Podcast</title>
 <link>http://192.168.11.3/a_nikkei_yonde</link>
 <description>
-Audio files in /home/pi/radio/a_nikkei_yonde
+Audio files in /home/pi/radio/a_nikkei_yonde/
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 10 Dec 2020 11:36:03 +0900</lastBuildDate>
+<lastBuildDate>Thu, 18 Feb 2021 12:06:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
-<itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_nikkei_yonde/icon.jpg" />
+
+<item>
+<title>radiko_2021-02-18-11-36.mp3</title>
+<link>http://192.168.11.3/a_nikkei_yonde/radiko_2021-02-18-11-36.mp3</link>
+<description>radiko_2021-02-18-11-36.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_nikkei_yonde/radiko_2021-02-18-11-36.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 18 Feb 2021 12:06:09 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_nikkei_yonde/radiko_2021-02-18-11-36.mp3" type="audio/mpeg" length="11520515" />
+</item>
+
+<item>
+<title>20201224113601-RN1.mp3</title>
+<link>http://192.168.11.3/a_nikkei_yonde/20201224113601-RN1.mp3</link>
+<description>20201224113601-RN1.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_nikkei_yonde/20201224113601-RN1.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 24 Dec 2020 11:49:47 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_nikkei_yonde/20201224113601-RN1.mp3" type="audio/mpeg" length="6748215" />
+</item>
+
+<item>
+<title>20201217113602-RN1.mp3</title>
+<link>http://192.168.11.3/a_nikkei_yonde/20201217113602-RN1.mp3</link>
+<description>20201217113602-RN1.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_nikkei_yonde/20201217113602-RN1.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 17 Dec 2020 11:49:38 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_nikkei_yonde/20201217113602-RN1.mp3" type="audio/mpeg" length="6663787" />
+</item>
 
 <item>
 <title>a_nikkei_yonde_20201126木11.mp3</title>
@@ -26,7 +64,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201126%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 26 Nov 2020 12:06:31 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201126%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -39,7 +77,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201119%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 19 Nov 2020 12:06:18 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201119%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -52,7 +90,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201112%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 12 Nov 2020 12:06:30 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201112%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -65,7 +103,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201105%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 05 Nov 2020 12:06:18 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201105%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -78,7 +116,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201029%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 29 Oct 2020 12:06:22 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201029%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -91,7 +129,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201022%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 22 Oct 2020 12:06:34 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201022%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -104,7 +142,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201015%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 15 Oct 2020 12:06:42 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201015%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -117,7 +155,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201008%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 08 Oct 2020 12:06:22 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201008%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -130,7 +168,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201001%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 01 Oct 2020 12:06:28 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20201001%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -143,7 +181,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20200924%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 24 Sep 2020 12:06:24 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20200924%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
@@ -156,7 +194,7 @@ Audio files in /home/pi/radio/a_nikkei_yonde
 <guid>http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20200917%E6%9C%A811.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Thu, 17 Sep 2020 12:06:24 +0900</pubDate>
-<itunes:duration>25:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_nikkei_yonde/a_nikkei_yonde_20200917%E6%9C%A811.mp3" type="audio/mpeg" length="12001208" />
 </item>
 
