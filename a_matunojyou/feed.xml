@@ -10,12 +10,50 @@
 <title>a_matunojyou Podcast</title>
 <link>http://192.168.11.3/a_matunojyou</link>
 <description>
-Audio files in /home/pi/radio/a_matunojyou
+Audio files in /home/pi/radio/a_matunojyou/
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 11 Dec 2020 21:30:04 +0900</lastBuildDate>
+<lastBuildDate>Fri, 19 Feb 2021 22:06:32 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
-<itunes:image href="https://raw.githubusercontent.com/yohabe/radio/master/a_matunojyou/icon.jpg" />
+
+<item>
+<title>radiko_2021-02-19-21-30.mp3</title>
+<link>http://192.168.11.3/a_matunojyou/radiko_2021-02-19-21-30.mp3</link>
+<description>radiko_2021-02-19-21-30.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_matunojyou/radiko_2021-02-19-21-30.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 19 Feb 2021 22:06:31 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_matunojyou/radiko_2021-02-19-21-30.mp3" type="audio/mpeg" length="14400707" />
+</item>
+
+<item>
+<title>20201225213002-TBS.mp3</title>
+<link>http://192.168.11.3/a_matunojyou/20201225213002-TBS.mp3</link>
+<description>20201225213002-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_matunojyou/20201225213002-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 25 Dec 2020 21:43:40 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_matunojyou/20201225213002-TBS.mp3" type="audio/mpeg" length="6690536" />
+</item>
+
+<item>
+<title>20201218213001-TBS.mp3</title>
+<link>http://192.168.11.3/a_matunojyou/20201218213001-TBS.mp3</link>
+<description>20201218213001-TBS.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_matunojyou/20201218213001-TBS.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 18 Dec 2020 21:43:34 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_matunojyou/20201218213001-TBS.mp3" type="audio/mpeg" length="6638291" />
+</item>
 
 <item>
 <title>a_matunojyou_20201127金21.mp3</title>
@@ -26,7 +64,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201127%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 27 Nov 2020 22:06:22 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201127%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -39,7 +77,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201120%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 20 Nov 2020 22:06:28 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201120%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -52,7 +90,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201113%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 13 Nov 2020 22:06:56 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201113%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -65,7 +103,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201106%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 06 Nov 2020 22:06:51 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201106%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -78,7 +116,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201030%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 30 Oct 2020 22:06:47 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201030%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -91,7 +129,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201023%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 23 Oct 2020 22:06:36 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201023%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -104,7 +142,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201016%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 16 Oct 2020 22:06:35 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201016%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -117,7 +155,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201009%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 09 Oct 2020 22:06:32 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201009%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -130,7 +168,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201002%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 02 Oct 2020 22:06:16 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201002%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -143,7 +181,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20200925%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 25 Sep 2020 22:06:18 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20200925%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
@@ -156,7 +194,7 @@ Audio files in /home/pi/radio/a_matunojyou
 <guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20200918%E9%87%9121.mp3</guid>
 <dc:creator></dc:creator>
 <pubDate>Fri, 18 Sep 2020 22:06:18 +0900</pubDate>
-<itunes:duration>30:00</itunes:duration>
+
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20200918%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
