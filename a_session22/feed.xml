@@ -10,11 +10,24 @@
 <title>a_session22 Podcast</title>
 <link>http://192.168.11.3/a_session22</link>
 <description>
-Audio files in /home/pi/radio/a_session22
+Audio files in /home/pi/radio/a_session22/
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 02 Mar 2021 10:00:27 +0900</lastBuildDate>
+<lastBuildDate>Tue, 02 Mar 2021 15:39:28 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-03-02-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-03-02-15-32.mp3</link>
+<description>radiko_2021-03-02-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-03-02-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 02 Mar 2021 15:39:27 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-03-02-15-32.mp3" type="audio/mpeg" length="2880707" />
+</item>
 
 <item>
 <title>東日本大震災から10年。復興の現状は【N検Session】.108318.mp3</title>
