@@ -10,11 +10,24 @@
 <title>a_session22 Podcast</title>
 <link>http://192.168.11.3/a_session22</link>
 <description>
-Audio files in /home/pi/radio/a_session22
+Audio files in /home/pi/radio/a_session22/
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 03 Mar 2021 10:00:26 +0900</lastBuildDate>
+<lastBuildDate>Wed, 03 Mar 2021 15:39:28 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-03-03-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-03-03-15-32.mp3</link>
+<description>radiko_2021-03-03-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-03-03-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 03 Mar 2021 15:39:27 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-03-03-15-32.mp3" type="audio/mpeg" length="2880707" />
+</item>
 
 <item>
 <title>ゲスト：岡村詩野さん（音楽ライター）～おすすめの楽曲【FrontLineSess.108408.mp3</title>
