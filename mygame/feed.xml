@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 05 Mar 2021 01:00:14 +0900</lastBuildDate>
+<lastBuildDate>Sat, 06 Mar 2021 01:07:40 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>第205回.108510.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC205%E5%9B%9E.108510.mp3</link>
+<description>第205回.108510.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC205%E5%9B%9E.108510.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 06 Mar 2021 01:07:39 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC205%E5%9B%9E.108510.mp3" type="audio/mpeg" length="42840896" />
+</item>
 
 <item>
 <title>第204回：内田敦子さん後編.108087.mp3</title>
