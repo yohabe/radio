@@ -10,11 +10,24 @@
 <title>a_session22 Podcast</title>
 <link>http://192.168.11.3/a_session22</link>
 <description>
-Audio files in /home/pi/radio/a_session22
+Audio files in /home/pi/radio/a_session22/
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 08 Mar 2021 10:00:27 +0900</lastBuildDate>
+<lastBuildDate>Mon, 08 Mar 2021 15:39:18 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-03-08-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-03-08-15-32.mp3</link>
+<description>radiko_2021-03-08-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-03-08-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 08 Mar 2021 15:39:18 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-03-08-15-32.mp3" type="audio/mpeg" length="2880707" />
+</item>
 
 <item>
 <title>【国会】戦後75年、空襲被害者への補償は【ニュース】毎日新聞・栗原俊雄記者×荻上.108690.mp3</title>
