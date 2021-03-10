@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 10 Mar 2021 18:00:27 +0900</lastBuildDate>
+<lastBuildDate>Wed, 10 Mar 2021 19:04:02 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>【国会】衆議院・厚生労働委員会【ニュース】澤田大樹.109317.mp3</title>
+<link>http://192.168.11.3/a_session22/%E3%80%90%E5%9B%BD%E4%BC%9A%E3%80%91%E8%A1%86%E8%AD%B0%E9%99%A2%E3%83%BB%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E5%A7%94%E5%93%A1%E4%BC%9A%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E6%BE%A4%E7%94%B0%E5%A4%A7%E6%A8%B9.109317.mp3</link>
+<description>【国会】衆議院・厚生労働委員会【ニュース】澤田大樹.109317.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E3%80%90%E5%9B%BD%E4%BC%9A%E3%80%91%E8%A1%86%E8%AD%B0%E9%99%A2%E3%83%BB%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E5%A7%94%E5%93%A1%E4%BC%9A%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E6%BE%A4%E7%94%B0%E5%A4%A7%E6%A8%B9.109317.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 10 Mar 2021 19:04:01 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E3%80%90%E5%9B%BD%E4%BC%9A%E3%80%91%E8%A1%86%E8%AD%B0%E9%99%A2%E3%83%BB%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E5%A7%94%E5%93%A1%E4%BC%9A%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91%E6%BE%A4%E7%94%B0%E5%A4%A7%E6%A8%B9.109317.mp3" type="audio/mpeg" length="11823296" />
+</item>
+
+<item>
+<title>2021年3月10日（水）ニュース.109316.mp3</title>
+<link>http://192.168.11.3/a_session22/2021%E5%B9%B43%E6%9C%8810%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.109316.mp3</link>
+<description>2021年3月10日（水）ニュース.109316.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2021%E5%B9%B43%E6%9C%8810%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.109316.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 10 Mar 2021 19:01:53 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2021%E5%B9%B43%E6%9C%8810%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.109316.mp3" type="audio/mpeg" length="8453696" />
+</item>
 
 <item>
 <title>radiko_2021-03-10-17-45.mp3</title>
