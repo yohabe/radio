@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_nikkei_yonde/
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 04 Mar 2021 12:05:44 +0900</lastBuildDate>
+<lastBuildDate>Thu, 11 Mar 2021 12:05:59 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-03-11-11-36.mp3</title>
+<link>http://192.168.11.3/a_nikkei_yonde/radiko_2021-03-11-11-36.mp3</link>
+<description>radiko_2021-03-11-11-36.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_nikkei_yonde/radiko_2021-03-11-11-36.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 11 Mar 2021 12:05:58 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_nikkei_yonde/radiko_2021-03-11-11-36.mp3" type="audio/mpeg" length="11520515" />
+</item>
 
 <item>
 <title>radiko_2021-03-04-11-36.mp3</title>
