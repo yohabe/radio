@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/videonews_marugeki
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 13 Mar 2021 23:29:53 +0900</lastBuildDate>
+<lastBuildDate>Sat, 20 Mar 2021 23:30:30 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>marugeki_1041-2-450k-526519273.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/marugeki_1041-2-450k-526519273.mp3</link>
+<description>marugeki_1041-2-450k-526519273.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/marugeki_1041-2-450k-526519273.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 20 Mar 2021 23:20:55 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/videonews_marugeki/marugeki_1041-2-450k-526519273.mp3" type="audio/mpeg" length="31951955" />
+</item>
+
+<item>
+<title>marugeki_1041-1-450k-526515649.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/marugeki_1041-1-450k-526515649.mp3</link>
+<description>marugeki_1041-1-450k-526515649.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/marugeki_1041-1-450k-526515649.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 20 Mar 2021 23:06:19 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/videonews_marugeki/marugeki_1041-1-450k-526515649.mp3" type="audio/mpeg" length="31125899" />
+</item>
 
 <item>
 <title>【Part2】柴山哲也氏：総務省接待スキャンダルの根底にある、政府による放送免許の許認可という大問題-523134102.mp3</title>
