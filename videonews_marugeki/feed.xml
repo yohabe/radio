@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/videonews_marugeki
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 20 Mar 2021 23:30:30 +0900</lastBuildDate>
+<lastBuildDate>Sat, 27 Mar 2021 23:01:59 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>【ダイジェスト】西川伸一氏：コロナワクチン徹底解説-bwlLMXFB8Ns.mp3</title>
+<link>http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E8%A5%BF%E5%B7%9D%E4%BC%B8%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-bwlLMXFB8Ns.mp3</link>
+<description>【ダイジェスト】西川伸一氏：コロナワクチン徹底解説-bwlLMXFB8Ns.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E8%A5%BF%E5%B7%9D%E4%BC%B8%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-bwlLMXFB8Ns.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 27 Mar 2021 20:28:02 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91%E8%A5%BF%E5%B7%9D%E4%BC%B8%E4%B8%80%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC-bwlLMXFB8Ns.mp3" type="audio/mpeg" length="6202584" />
+</item>
 
 <item>
 <title>marugeki_1041-2-450k-526519273.mp3</title>
