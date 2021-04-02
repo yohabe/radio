@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 02 Apr 2021 01:00:15 +0900</lastBuildDate>
+<lastBuildDate>Sat, 03 Apr 2021 01:09:23 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>第209回：chelmicoのRachelさん前編.111412.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC209%E5%9B%9E%EF%BC%9Achelmico%E3%81%AERachel%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.111412.mp3</link>
+<description>第209回：chelmicoのRachelさん前編.111412.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC209%E5%9B%9E%EF%BC%9Achelmico%E3%81%AERachel%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.111412.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 03 Apr 2021 01:09:22 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC209%E5%9B%9E%EF%BC%9Achelmico%E3%81%AERachel%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.111412.mp3" type="audio/mpeg" length="53581376" />
+</item>
 
 <item>
 <title>第208回：ビッケブランカさん後編.110776.mp3</title>
