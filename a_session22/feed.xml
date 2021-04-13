@@ -10,11 +10,24 @@
 <title>a_session22 Podcast</title>
 <link>http://192.168.11.3/a_session22</link>
 <description>
-Audio files in /home/pi/radio/a_session22
+Audio files in /home/pi/radio/a_session22/
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 13 Apr 2021 10:00:33 +0900</lastBuildDate>
+<lastBuildDate>Tue, 13 Apr 2021 15:39:32 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-04-13-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-04-13-15-32.mp3</link>
+<description>radiko_2021-04-13-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-04-13-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 13 Apr 2021 15:39:31 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-04-13-15-32.mp3" type="audio/mpeg" length="2880707" />
+</item>
 
 <item>
 <title>消費税込みの「総額表示」を義務化【N検Session】.112370.mp3</title>
