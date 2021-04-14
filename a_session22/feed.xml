@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 14 Apr 2021 18:00:34 +0900</lastBuildDate>
+<lastBuildDate>Wed, 14 Apr 2021 19:03:59 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>2021年4月14日（水）ニュース.112560.mp3</title>
+<link>http://192.168.11.3/a_session22/2021%E5%B9%B44%E6%9C%8814%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.112560.mp3</link>
+<description>2021年4月14日（水）ニュース.112560.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2021%E5%B9%B44%E6%9C%8814%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.112560.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 14 Apr 2021 19:03:58 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2021%E5%B9%B44%E6%9C%8814%E6%97%A5%EF%BC%88%E6%B0%B4%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.112560.mp3" type="audio/mpeg" length="8923712" />
+</item>
+
+<item>
+<title>【コロナ】衆参両院でコロナ関連の質疑応答【ニュース】.112559.mp3</title>
+<link>http://192.168.11.3/a_session22/%E3%80%90%E3%82%B3%E3%83%AD%E3%83%8A%E3%80%91%E8%A1%86%E5%8F%82%E4%B8%A1%E9%99%A2%E3%81%A7%E3%82%B3%E3%83%AD%E3%83%8A%E9%96%A2%E9%80%A3%E3%81%AE%E8%B3%AA%E7%96%91%E5%BF%9C%E7%AD%94%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91.112559.mp3</link>
+<description>【コロナ】衆参両院でコロナ関連の質疑応答【ニュース】.112559.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E3%80%90%E3%82%B3%E3%83%AD%E3%83%8A%E3%80%91%E8%A1%86%E5%8F%82%E4%B8%A1%E9%99%A2%E3%81%A7%E3%82%B3%E3%83%AD%E3%83%8A%E9%96%A2%E9%80%A3%E3%81%AE%E8%B3%AA%E7%96%91%E5%BF%9C%E7%AD%94%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91.112559.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 14 Apr 2021 19:02:26 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E3%80%90%E3%82%B3%E3%83%AD%E3%83%8A%E3%80%91%E8%A1%86%E5%8F%82%E4%B8%A1%E9%99%A2%E3%81%A7%E3%82%B3%E3%83%AD%E3%83%8A%E9%96%A2%E9%80%A3%E3%81%AE%E8%B3%AA%E7%96%91%E5%BF%9C%E7%AD%94%E3%80%90%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%80%91.112559.mp3" type="audio/mpeg" length="11191232" />
+</item>
 
 <item>
 <title>radiko_2021-04-14-17-45.mp3</title>
