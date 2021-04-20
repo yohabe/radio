@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/darth
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 20 Apr 2021 01:05:26 +0900</lastBuildDate>
+<lastBuildDate>Wed, 21 Apr 2021 01:25:14 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>深夜の片目ライブ配信〜DMX、Black Robを再生する-0LHFhLuOM1k.mp3</title>
+<link>http://192.168.11.3/darth/%E6%B7%B1%E5%A4%9C%E3%81%AE%E7%89%87%E7%9B%AE%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1%E3%80%9CDMX%E3%80%81Black%20Rob%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B-0LHFhLuOM1k.mp3</link>
+<description>深夜の片目ライブ配信〜DMX、Black Robを再生する-0LHFhLuOM1k.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/darth/%E6%B7%B1%E5%A4%9C%E3%81%AE%E7%89%87%E7%9B%AE%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1%E3%80%9CDMX%E3%80%81Black%20Rob%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B-0LHFhLuOM1k.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 20 Apr 2021 08:52:59 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/darth/%E6%B7%B1%E5%A4%9C%E3%81%AE%E7%89%87%E7%9B%AE%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1%E3%80%9CDMX%E3%80%81Black%20Rob%E3%82%92%E5%86%8D%E7%94%9F%E3%81%99%E3%82%8B-0LHFhLuOM1k.mp3" type="audio/mpeg" length="57550880" />
+</item>
 
 <item>
 <title>ダースレイダー x てらさわホーク 今、MCUドラマで何が起きているのか？-CE__mFDpFHQ.mp3</title>
