@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 03 May 2021 18:00:36 +0900</lastBuildDate>
+<lastBuildDate>Mon, 03 May 2021 19:02:05 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>日本国憲法の改正を巡る政治の議論【N検Session】.114671.mp3</title>
+<link>http://192.168.11.3/a_session22/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95%E3%81%AE%E6%94%B9%E6%AD%A3%E3%82%92%E5%B7%A1%E3%82%8B%E6%94%BF%E6%B2%BB%E3%81%AE%E8%AD%B0%E8%AB%96%E3%80%90N%E6%A4%9CSession%E3%80%91.114671.mp3</link>
+<description>日本国憲法の改正を巡る政治の議論【N検Session】.114671.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95%E3%81%AE%E6%94%B9%E6%AD%A3%E3%82%92%E5%B7%A1%E3%82%8B%E6%94%BF%E6%B2%BB%E3%81%AE%E8%AD%B0%E8%AB%96%E3%80%90N%E6%A4%9CSession%E3%80%91.114671.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 03 May 2021 19:02:04 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95%E3%81%AE%E6%94%B9%E6%AD%A3%E3%82%92%E5%B7%A1%E3%82%8B%E6%94%BF%E6%B2%BB%E3%81%AE%E8%AD%B0%E8%AB%96%E3%80%90N%E6%A4%9CSession%E3%80%91.114671.mp3" type="audio/mpeg" length="8968256" />
+</item>
 
 <item>
 <title>radiko_2021-05-03-17-45.mp3</title>
