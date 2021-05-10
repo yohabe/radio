@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 10 May 2021 20:14:14 +0900</lastBuildDate>
+<lastBuildDate>Mon, 10 May 2021 21:01:43 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>2021年5月10日（月）ニュース.115371.mp3</title>
+<link>http://192.168.11.3/a_session22/2021%E5%B9%B45%E6%9C%8810%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.115371.mp3</link>
+<description>2021年5月10日（月）ニュース.115371.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2021%E5%B9%B45%E6%9C%8810%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.115371.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 10 May 2021 21:01:42 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2021%E5%B9%B45%E6%9C%8810%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.115371.mp3" type="audio/mpeg" length="6615104" />
+</item>
 
 <item>
 <title>地方自治体の担い手不足。相次ぐ「無投票当選」【N検Session】.115369.mp3</title>
