@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 25 Jun 2021 01:00:15 +0900</lastBuildDate>
+<lastBuildDate>Sat, 26 Jun 2021 01:08:54 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>第221回：豊崎愛生さん前編.119928.mp3</title>
+<link>http://192.168.11.3/mygame/%E7%AC%AC221%E5%9B%9E%EF%BC%9A%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.119928.mp3</link>
+<description>第221回：豊崎愛生さん前編.119928.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/mygame/%E7%AC%AC221%E5%9B%9E%EF%BC%9A%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.119928.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 26 Jun 2021 01:08:53 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC221%E5%9B%9E%EF%BC%9A%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.119928.mp3" type="audio/mpeg" length="52566080" />
+</item>
 
 <item>
 <title>第220回：酒井健太さん後編（アルコ&amp;ピース）.119158.mp3</title>
