@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 06 Jul 2021 18:00:45 +0900</lastBuildDate>
+<lastBuildDate>Tue, 06 Jul 2021 19:02:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ゲスト：森脇健人【FrontLineSession】2021年7月6日（火）.120931.mp3</title>
+<link>http://192.168.11.3/a_session22/%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E6%A3%AE%E8%84%87%E5%81%A5%E4%BA%BA%E3%80%90FrontLineSession%E3%80%912021%E5%B9%B47%E6%9C%886%E6%97%A5%EF%BC%88%E7%81%AB%EF%BC%89.120931.mp3</link>
+<description>ゲスト：森脇健人【FrontLineSession】2021年7月6日（火）.120931.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E6%A3%AE%E8%84%87%E5%81%A5%E4%BA%BA%E3%80%90FrontLineSession%E3%80%912021%E5%B9%B47%E6%9C%886%E6%97%A5%EF%BC%88%E7%81%AB%EF%BC%89.120931.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 06 Jul 2021 19:02:10 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E6%A3%AE%E8%84%87%E5%81%A5%E4%BA%BA%E3%80%90FrontLineSession%E3%80%912021%E5%B9%B47%E6%9C%886%E6%97%A5%EF%BC%88%E7%81%AB%EF%BC%89.120931.mp3" type="audio/mpeg" length="8543936" />
+</item>
 
 <item>
 <title>radiko_2021-07-06-17-45.mp3</title>
