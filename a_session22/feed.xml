@@ -10,11 +10,24 @@
 <title>a_session22 Podcast</title>
 <link>http://192.168.11.3/a_session22</link>
 <description>
-Audio files in /home/pi/radio/a_session22
+Audio files in /home/pi/radio/a_session22/
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 09 Jul 2021 10:00:47 +0900</lastBuildDate>
+<lastBuildDate>Fri, 09 Jul 2021 15:35:38 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-07-09-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-07-09-15-32.mp3</link>
+<description>radiko_2021-07-09-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-07-09-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 09 Jul 2021 15:35:38 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-07-09-15-32.mp3" type="audio/mpeg" length="1440707" />
+</item>
 
 <item>
 <title>広島、大雨で『緊急安全確保』／土砂災害が起きた熱海市から加藤奈央ディレクターがリ.121221.mp3</title>
