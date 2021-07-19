@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 19 Jul 2021 20:16:59 +0900</lastBuildDate>
+<lastBuildDate>Mon, 19 Jul 2021 21:02:41 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>2021年7月19日（月）ニュース.122279.mp3</title>
+<link>http://192.168.11.3/a_session22/2021%E5%B9%B47%E6%9C%8819%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.122279.mp3</link>
+<description>2021年7月19日（月）ニュース.122279.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2021%E5%B9%B47%E6%9C%8819%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.122279.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 19 Jul 2021 21:02:40 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2021%E5%B9%B47%E6%9C%8819%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.122279.mp3" type="audio/mpeg" length="7876544" />
+</item>
 
 <item>
 <title>特集「新型コロナ、女性政治家、格差問題、、、。ブレイディみかこさんと考える」ブレ.122270.mp3</title>
