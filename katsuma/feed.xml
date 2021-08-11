@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 11 Aug 2021 02:07:43 +0900</lastBuildDate>
+<lastBuildDate>Thu, 12 Aug 2021 02:07:18 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>なんでも2割の余裕を持とう-wHaqQhvXO4k.mp3</title>
+<link>http://192.168.11.3/katsuma/%E3%81%AA%E3%82%93%E3%81%A7%E3%82%822%E5%89%B2%E3%81%AE%E4%BD%99%E8%A3%95%E3%82%92%E6%8C%81%E3%81%A8%E3%81%86-wHaqQhvXO4k.mp3</link>
+<description>なんでも2割の余裕を持とう-wHaqQhvXO4k.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/katsuma/%E3%81%AA%E3%82%93%E3%81%A7%E3%82%822%E5%89%B2%E3%81%AE%E4%BD%99%E8%A3%95%E3%82%92%E6%8C%81%E3%81%A8%E3%81%86-wHaqQhvXO4k.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 11 Aug 2021 21:38:34 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/katsuma/%E3%81%AA%E3%82%93%E3%81%A7%E3%82%822%E5%89%B2%E3%81%AE%E4%BD%99%E8%A3%95%E3%82%92%E6%8C%81%E3%81%A8%E3%81%86-wHaqQhvXO4k.mp3" type="audio/mpeg" length="4502203" />
+</item>
+
+<item>
+<title>ゆるく助けを求めよう-bYiRBm-dDsg.mp3</title>
+<link>http://192.168.11.3/katsuma/%E3%82%86%E3%82%8B%E3%81%8F%E5%8A%A9%E3%81%91%E3%82%92%E6%B1%82%E3%82%81%E3%82%88%E3%81%86-bYiRBm-dDsg.mp3</link>
+<description>ゆるく助けを求めよう-bYiRBm-dDsg.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/katsuma/%E3%82%86%E3%82%8B%E3%81%8F%E5%8A%A9%E3%81%91%E3%82%92%E6%B1%82%E3%82%81%E3%82%88%E3%81%86-bYiRBm-dDsg.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 11 Aug 2021 20:45:47 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/katsuma/%E3%82%86%E3%82%8B%E3%81%8F%E5%8A%A9%E3%81%91%E3%82%92%E6%B1%82%E3%82%81%E3%82%88%E3%81%86-bYiRBm-dDsg.mp3" type="audio/mpeg" length="2196737" />
+</item>
 
 <item>
 <title>片付けと体型の深い関係。やせたかったら、家を片付けよう。-3AegSJf8FLU.mp3</title>
