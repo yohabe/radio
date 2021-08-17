@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 17 Aug 2021 18:00:52 +0900</lastBuildDate>
+<lastBuildDate>Tue, 17 Aug 2021 19:08:15 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>特集「タリバンが政権を奪取。アフガニスタンの20年」ゲスト：田中浩一郎さん.125324.mp3</title>
+<link>http://192.168.11.3/a_session22/%E7%89%B9%E9%9B%86%E3%80%8C%E3%82%BF%E3%83%AA%E3%83%90%E3%83%B3%E3%81%8C%E6%94%BF%E6%A8%A9%E3%82%92%E5%A5%AA%E5%8F%96%E3%80%82%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AE20%E5%B9%B4%E3%80%8D%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E7%94%B0%E4%B8%AD%E6%B5%A9%E4%B8%80%E9%83%8E%E3%81%95%E3%82%93.125324.mp3</link>
+<description>特集「タリバンが政権を奪取。アフガニスタンの20年」ゲスト：田中浩一郎さん.125324.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E7%89%B9%E9%9B%86%E3%80%8C%E3%82%BF%E3%83%AA%E3%83%90%E3%83%B3%E3%81%8C%E6%94%BF%E6%A8%A9%E3%82%92%E5%A5%AA%E5%8F%96%E3%80%82%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AE20%E5%B9%B4%E3%80%8D%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E7%94%B0%E4%B8%AD%E6%B5%A9%E4%B8%80%E9%83%8E%E3%81%95%E3%82%93.125324.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 17 Aug 2021 19:08:14 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E7%89%B9%E9%9B%86%E3%80%8C%E3%82%BF%E3%83%AA%E3%83%90%E3%83%B3%E3%81%8C%E6%94%BF%E6%A8%A9%E3%82%92%E5%A5%AA%E5%8F%96%E3%80%82%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3%E3%81%AE20%E5%B9%B4%E3%80%8D%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E7%94%B0%E4%B8%AD%E6%B5%A9%E4%B8%80%E9%83%8E%E3%81%95%E3%82%93.125324.mp3" type="audio/mpeg" length="42195392" />
+</item>
 
 <item>
 <title>radiko_2021-08-17-17-45.mp3</title>
