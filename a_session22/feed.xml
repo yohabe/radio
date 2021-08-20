@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 20 Aug 2021 19:00:54 +0900</lastBuildDate>
+<lastBuildDate>Fri, 20 Aug 2021 20:02:28 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>2021年8月20日（金）ニュース.125682.mp3</title>
+<link>http://192.168.11.3/a_session22/2021%E5%B9%B48%E6%9C%8820%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.125682.mp3</link>
+<description>2021年8月20日（金）ニュース.125682.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2021%E5%B9%B48%E6%9C%8820%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.125682.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 20 Aug 2021 20:02:27 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2021%E5%B9%B48%E6%9C%8820%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.125682.mp3" type="audio/mpeg" length="9267008" />
+</item>
 
 <item>
 <title>radiko_2021-08-20-17-45.mp3</title>
