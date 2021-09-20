@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/ijuin_shinya_bakajikara/
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 14 Sep 2021 03:29:32 +0900</lastBuildDate>
+<lastBuildDate>Tue, 21 Sep 2021 03:30:09 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-09-21-01-00.mp3</title>
+<link>http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-09-21-01-00.mp3</link>
+<description>radiko_2021-09-21-01-00.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-09-21-01-00.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 21 Sep 2021 03:30:08 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-09-21-01-00.mp3" type="audio/mpeg" length="115200908" />
+</item>
 
 <item>
 <title>radiko_2021-09-14-01-00.mp3</title>
@@ -394,19 +407,6 @@ Audio files in /home/pi/radio/ijuin_shinya_bakajikara/
 </item>
 
 <item>
-<title>radiko_2021-02-16-01-00.mp3</title>
-<link>http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-02-16-01-00.mp3</link>
-<description>radiko_2021-02-16-01-00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-02-16-01-00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 16 Feb 2021 03:27:04 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-02-16-01-00.mp3" type="audio/mpeg" length="115200899" />
-</item>
-
-<item>
 <title>20201229010002-TBS.mp3</title>
 <link>http://192.168.11.3/ijuin_shinya_bakajikara/20201229010002-TBS.mp3</link>
 <description>20201229010002-TBS.mp3</description>
@@ -586,19 +586,6 @@ Audio files in /home/pi/radio/ijuin_shinya_bakajikara/
 <pubDate>Tue, 22 Sep 2020 03:28:26 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20200922%E7%81%AB01.mp3" type="audio/mpeg" length="57600824" />
-</item>
-
-<item>
-<title>ijuin_shinya_bakajikara_20200915火01.mp3</title>
-<link>http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20200915%E7%81%AB01.mp3</link>
-<description>ijuin_shinya_bakajikara_20200915火01.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20200915%E7%81%AB01.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 15 Sep 2020 03:27:42 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20200915%E7%81%AB01.mp3" type="audio/mpeg" length="57600824" />
 </item>
 
 </channel>
