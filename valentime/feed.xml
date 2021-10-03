@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+ xmlns:media="http://search.yahoo.com/mrss"
+ version="2.0">
+<channel>
+<ttl>60</ttl>
+<title>valentime Podcast</title>
+<link>http://192.168.11.3/valentime</link>
+<description>
+Audio files in /home/pi/radio/valentime
+</description>
+<language>ja</language>
+<lastBuildDate>Sat, 02 Oct 2021 15:22:41 +0900</lastBuildDate>
+<generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>田中恒成 復帰戦決定!! 相手は激強！石田匠選手!-UfIWEYJHQkM.mp3</title>
+<link>http://192.168.11.3/valentime/%E7%94%B0%E4%B8%AD%E6%81%92%E6%88%90%20%E5%BE%A9%E5%B8%B0%E6%88%A6%E6%B1%BA%E5%AE%9A!!%20%E7%9B%B8%E6%89%8B%E3%81%AF%E6%BF%80%E5%BC%B7%EF%BC%81%E7%9F%B3%E7%94%B0%E5%8C%A0%E9%81%B8%E6%89%8B!-UfIWEYJHQkM.mp3</link>
+<description>田中恒成 復帰戦決定!! 相手は激強！石田匠選手!-UfIWEYJHQkM.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E7%94%B0%E4%B8%AD%E6%81%92%E6%88%90%20%E5%BE%A9%E5%B8%B0%E6%88%A6%E6%B1%BA%E5%AE%9A!!%20%E7%9B%B8%E6%89%8B%E3%81%AF%E6%BF%80%E5%BC%B7%EF%BC%81%E7%9F%B3%E7%94%B0%E5%8C%A0%E9%81%B8%E6%89%8B!-UfIWEYJHQkM.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 01 Oct 2021 15:50:14 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E7%94%B0%E4%B8%AD%E6%81%92%E6%88%90%20%E5%BE%A9%E5%B8%B0%E6%88%A6%E6%B1%BA%E5%AE%9A!!%20%E7%9B%B8%E6%89%8B%E3%81%AF%E6%BF%80%E5%BC%B7%EF%BC%81%E7%9F%B3%E7%94%B0%E5%8C%A0%E9%81%B8%E6%89%8B!-UfIWEYJHQkM.mp3" type="audio/mpeg" length="6732537" />
+</item>
+
+<item>
+<title>「質か？量か？」最初は圧倒的に「質」が大切です。-saJhIk5KQMs.mp3</title>
+<link>http://192.168.11.3/valentime/%E3%80%8C%E8%B3%AA%E3%81%8B%EF%BC%9F%E9%87%8F%E3%81%8B%EF%BC%9F%E3%80%8D%E6%9C%80%E5%88%9D%E3%81%AF%E5%9C%A7%E5%80%92%E7%9A%84%E3%81%AB%E3%80%8C%E8%B3%AA%E3%80%8D%E3%81%8C%E5%A4%A7%E5%88%87%E3%81%A7%E3%81%99%E3%80%82-saJhIk5KQMs.mp3</link>
+<description>「質か？量か？」最初は圧倒的に「質」が大切です。-saJhIk5KQMs.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E3%80%8C%E8%B3%AA%E3%81%8B%EF%BC%9F%E9%87%8F%E3%81%8B%EF%BC%9F%E3%80%8D%E6%9C%80%E5%88%9D%E3%81%AF%E5%9C%A7%E5%80%92%E7%9A%84%E3%81%AB%E3%80%8C%E8%B3%AA%E3%80%8D%E3%81%8C%E5%A4%A7%E5%88%87%E3%81%A7%E3%81%99%E3%80%82-saJhIk5KQMs.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 30 Sep 2021 18:54:43 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E3%80%8C%E8%B3%AA%E3%81%8B%EF%BC%9F%E9%87%8F%E3%81%8B%EF%BC%9F%E3%80%8D%E6%9C%80%E5%88%9D%E3%81%AF%E5%9C%A7%E5%80%92%E7%9A%84%E3%81%AB%E3%80%8C%E8%B3%AA%E3%80%8D%E3%81%8C%E5%A4%A7%E5%88%87%E3%81%A7%E3%81%99%E3%80%82-saJhIk5KQMs.mp3" type="audio/mpeg" length="7833211" />
+</item>
+
+<item>
+<title>前向き教室 LIVE 22-xg70-41bv7c.mp3</title>
+<link>http://192.168.11.3/valentime/%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2022-xg70-41bv7c.mp3</link>
+<description>前向き教室 LIVE 22-xg70-41bv7c.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2022-xg70-41bv7c.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 29 Sep 2021 05:08:14 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2022-xg70-41bv7c.mp3" type="audio/mpeg" length="95676919" />
+</item>
+
+<item>
+<title>【現代版ロッキーvsアポロ】 矢吹正道 vs 寺地拳四朗!! 興奮の死闘を徹底解説!!-DJHQj4-rK2I.mp3</title>
+<link>http://192.168.11.3/valentime/%E3%80%90%E7%8F%BE%E4%BB%A3%E7%89%88%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BCvs%E3%82%A2%E3%83%9D%E3%83%AD%E3%80%91%20%E7%9F%A2%E5%90%B9%E6%AD%A3%E9%81%93%20vs%20%E5%AF%BA%E5%9C%B0%E6%8B%B3%E5%9B%9B%E6%9C%97!!%20%E8%88%88%E5%A5%AE%E3%81%AE%E6%AD%BB%E9%97%98%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC!!-DJHQj4-rK2I.mp3</link>
+<description>【現代版ロッキーvsアポロ】 矢吹正道 vs 寺地拳四朗!! 興奮の死闘を徹底解説!!-DJHQj4-rK2I.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E3%80%90%E7%8F%BE%E4%BB%A3%E7%89%88%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BCvs%E3%82%A2%E3%83%9D%E3%83%AD%E3%80%91%20%E7%9F%A2%E5%90%B9%E6%AD%A3%E9%81%93%20vs%20%E5%AF%BA%E5%9C%B0%E6%8B%B3%E5%9B%9B%E6%9C%97!!%20%E8%88%88%E5%A5%AE%E3%81%AE%E6%AD%BB%E9%97%98%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC!!-DJHQj4-rK2I.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 28 Sep 2021 09:56:25 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E3%80%90%E7%8F%BE%E4%BB%A3%E7%89%88%E3%83%AD%E3%83%83%E3%82%AD%E3%83%BCvs%E3%82%A2%E3%83%9D%E3%83%AD%E3%80%91%20%E7%9F%A2%E5%90%B9%E6%AD%A3%E9%81%93%20vs%20%E5%AF%BA%E5%9C%B0%E6%8B%B3%E5%9B%9B%E6%9C%97!!%20%E8%88%88%E5%A5%AE%E3%81%AE%E6%AD%BB%E9%97%98%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC!!-DJHQj4-rK2I.mp3" type="audio/mpeg" length="14300721" />
+</item>
+
+<item>
+<title>【ネタバレ速報】オレクサンドル・ウシク VS アンソニー・ジョシュア 世界戦徹底解説！Anthony Joshua vs Oleksandr Usyk-xEpXxE_XI-M.mp3</title>
+<link>http://192.168.11.3/valentime/%E3%80%90%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E9%80%9F%E5%A0%B1%E3%80%91%E3%82%AA%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%B7%E3%82%AF%20VS%20%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%82%A2%20%E4%B8%96%E7%95%8C%E6%88%A6%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81Anthony%20Joshua%20vs%20Oleksandr%20Usyk-xEpXxE_XI-M.mp3</link>
+<description>【ネタバレ速報】オレクサンドル・ウシク VS アンソニー・ジョシュア 世界戦徹底解説！Anthony Joshua vs Oleksandr Usyk-xEpXxE_XI-M.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E3%80%90%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E9%80%9F%E5%A0%B1%E3%80%91%E3%82%AA%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%B7%E3%82%AF%20VS%20%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%82%A2%20%E4%B8%96%E7%95%8C%E6%88%A6%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81Anthony%20Joshua%20vs%20Oleksandr%20Usyk-xEpXxE_XI-M.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 28 Sep 2021 01:13:56 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E3%80%90%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E9%80%9F%E5%A0%B1%E3%80%91%E3%82%AA%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%B7%E3%82%AF%20VS%20%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%82%A2%20%E4%B8%96%E7%95%8C%E6%88%A6%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81Anthony%20Joshua%20vs%20Oleksandr%20Usyk-xEpXxE_XI-M.mp3" type="audio/mpeg" length="10644334" />
+</item>
+
+<item>
+<title>【保護猫】可愛すぎる前向き教室の新メンバー２人をご紹介！犬、猫を保護する！と言う事の意味。-PzecfRk4TgU.mp3</title>
+<link>http://192.168.11.3/valentime/%E3%80%90%E4%BF%9D%E8%AD%B7%E7%8C%AB%E3%80%91%E5%8F%AF%E6%84%9B%E3%81%99%E3%81%8E%E3%82%8B%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%E3%81%AE%E6%96%B0%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%EF%BC%92%E4%BA%BA%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%EF%BC%81%E7%8A%AC%E3%80%81%E7%8C%AB%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%EF%BC%81%E3%81%A8%E8%A8%80%E3%81%86%E4%BA%8B%E3%81%AE%E6%84%8F%E5%91%B3%E3%80%82-PzecfRk4TgU.mp3</link>
+<description>【保護猫】可愛すぎる前向き教室の新メンバー２人をご紹介！犬、猫を保護する！と言う事の意味。-PzecfRk4TgU.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E3%80%90%E4%BF%9D%E8%AD%B7%E7%8C%AB%E3%80%91%E5%8F%AF%E6%84%9B%E3%81%99%E3%81%8E%E3%82%8B%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%E3%81%AE%E6%96%B0%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%EF%BC%92%E4%BA%BA%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%EF%BC%81%E7%8A%AC%E3%80%81%E7%8C%AB%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%EF%BC%81%E3%81%A8%E8%A8%80%E3%81%86%E4%BA%8B%E3%81%AE%E6%84%8F%E5%91%B3%E3%80%82-PzecfRk4TgU.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 25 Sep 2021 20:28:02 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E3%80%90%E4%BF%9D%E8%AD%B7%E7%8C%AB%E3%80%91%E5%8F%AF%E6%84%9B%E3%81%99%E3%81%8E%E3%82%8B%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%E3%81%AE%E6%96%B0%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%EF%BC%92%E4%BA%BA%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%EF%BC%81%E7%8A%AC%E3%80%81%E7%8C%AB%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%EF%BC%81%E3%81%A8%E8%A8%80%E3%81%86%E4%BA%8B%E3%81%AE%E6%84%8F%E5%91%B3%E3%80%82-PzecfRk4TgU.mp3" type="audio/mpeg" length="7593124" />
+</item>
+
+<item>
+<title>井上拓真vs和氣慎吾　日本ボクシングに火をつける  S・バンタム級ウォーズ、開幕か！？-k8T9YLwDH4c.mp3</title>
+<link>http://192.168.11.3/valentime/%E4%BA%95%E4%B8%8A%E6%8B%93%E7%9C%9Fvs%E5%92%8C%E6%B0%A3%E6%85%8E%E5%90%BE%E3%80%80%E6%97%A5%E6%9C%AC%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AB%E7%81%AB%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%20%20S%E3%83%BB%E3%83%90%E3%83%B3%E3%82%BF%E3%83%A0%E7%B4%9A%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA%E3%80%81%E9%96%8B%E5%B9%95%E3%81%8B%EF%BC%81%EF%BC%9F-k8T9YLwDH4c.mp3</link>
+<description>井上拓真vs和氣慎吾　日本ボクシングに火をつける  S・バンタム級ウォーズ、開幕か！？-k8T9YLwDH4c.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E4%BA%95%E4%B8%8A%E6%8B%93%E7%9C%9Fvs%E5%92%8C%E6%B0%A3%E6%85%8E%E5%90%BE%E3%80%80%E6%97%A5%E6%9C%AC%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AB%E7%81%AB%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%20%20S%E3%83%BB%E3%83%90%E3%83%B3%E3%82%BF%E3%83%A0%E7%B4%9A%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA%E3%80%81%E9%96%8B%E5%B9%95%E3%81%8B%EF%BC%81%EF%BC%9F-k8T9YLwDH4c.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 24 Sep 2021 21:17:40 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E4%BA%95%E4%B8%8A%E6%8B%93%E7%9C%9Fvs%E5%92%8C%E6%B0%A3%E6%85%8E%E5%90%BE%E3%80%80%E6%97%A5%E6%9C%AC%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AB%E7%81%AB%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%20%20S%E3%83%BB%E3%83%90%E3%83%B3%E3%82%BF%E3%83%A0%E7%B4%9A%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA%E3%80%81%E9%96%8B%E5%B9%95%E3%81%8B%EF%BC%81%EF%BC%9F-k8T9YLwDH4c.mp3" type="audio/mpeg" length="5123984" />
+</item>
+
+<item>
+<title>野杁正明の進化。K-1最強の一角-DT6nA_ojRL0.mp3</title>
+<link>http://192.168.11.3/valentime/%E9%87%8E%E6%9D%81%E6%AD%A3%E6%98%8E%E3%81%AE%E9%80%B2%E5%8C%96%E3%80%82K-1%E6%9C%80%E5%BC%B7%E3%81%AE%E4%B8%80%E8%A7%92-DT6nA_ojRL0.mp3</link>
+<description>野杁正明の進化。K-1最強の一角-DT6nA_ojRL0.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E9%87%8E%E6%9D%81%E6%AD%A3%E6%98%8E%E3%81%AE%E9%80%B2%E5%8C%96%E3%80%82K-1%E6%9C%80%E5%BC%B7%E3%81%AE%E4%B8%80%E8%A7%92-DT6nA_ojRL0.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 24 Sep 2021 04:23:37 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E9%87%8E%E6%9D%81%E6%AD%A3%E6%98%8E%E3%81%AE%E9%80%B2%E5%8C%96%E3%80%82K-1%E6%9C%80%E5%BC%B7%E3%81%AE%E4%B8%80%E8%A7%92-DT6nA_ojRL0.mp3" type="audio/mpeg" length="5661378" />
+</item>
+
+<item>
+<title>カネロvsプラント！ フェイスオフ乱闘でも見えた、カネロの超絶スキル！-UlpenGdxMxY.mp3</title>
+<link>http://192.168.11.3/valentime/%E3%82%AB%E3%83%8D%E3%83%ADvs%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%EF%BC%81%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AA%E3%83%95%E4%B9%B1%E9%97%98%E3%81%A7%E3%82%82%E8%A6%8B%E3%81%88%E3%81%9F%E3%80%81%E3%82%AB%E3%83%8D%E3%83%AD%E3%81%AE%E8%B6%85%E7%B5%B6%E3%82%B9%E3%82%AD%E3%83%AB%EF%BC%81-UlpenGdxMxY.mp3</link>
+<description>カネロvsプラント！ フェイスオフ乱闘でも見えた、カネロの超絶スキル！-UlpenGdxMxY.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E3%82%AB%E3%83%8D%E3%83%ADvs%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%EF%BC%81%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AA%E3%83%95%E4%B9%B1%E9%97%98%E3%81%A7%E3%82%82%E8%A6%8B%E3%81%88%E3%81%9F%E3%80%81%E3%82%AB%E3%83%8D%E3%83%AD%E3%81%AE%E8%B6%85%E7%B5%B6%E3%82%B9%E3%82%AD%E3%83%AB%EF%BC%81-UlpenGdxMxY.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 23 Sep 2021 19:03:43 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E3%82%AB%E3%83%8D%E3%83%ADvs%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88%EF%BC%81%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AA%E3%83%95%E4%B9%B1%E9%97%98%E3%81%A7%E3%82%82%E8%A6%8B%E3%81%88%E3%81%9F%E3%80%81%E3%82%AB%E3%83%8D%E3%83%AD%E3%81%AE%E8%B6%85%E7%B5%B6%E3%82%B9%E3%82%AD%E3%83%AB%EF%BC%81-UlpenGdxMxY.mp3" type="audio/mpeg" length="6935178" />
+</item>
+
+<item>
+<title>前向き教室 LIVE 21-Q06QSGkjoHA.mp3</title>
+<link>http://192.168.11.3/valentime/%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2021-Q06QSGkjoHA.mp3</link>
+<description>前向き教室 LIVE 21-Q06QSGkjoHA.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2021-Q06QSGkjoHA.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 23 Sep 2021 06:13:13 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2021-Q06QSGkjoHA.mp3" type="audio/mpeg" length="97679178" />
+</item>
+
+<item>
+<title>井上直樹 距離を支配するヒット&amp;アウェイの完成度。-VptNP7z2W2o.mp3</title>
+<link>http://192.168.11.3/valentime/%E4%BA%95%E4%B8%8A%E7%9B%B4%E6%A8%B9%20%E8%B7%9D%E9%9B%A2%E3%82%92%E6%94%AF%E9%85%8D%E3%81%99%E3%82%8B%E3%83%92%E3%83%83%E3%83%88&amp;%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E5%AE%8C%E6%88%90%E5%BA%A6%E3%80%82-VptNP7z2W2o.mp3</link>
+<description>井上直樹 距離を支配するヒット&amp;アウェイの完成度。-VptNP7z2W2o.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E4%BA%95%E4%B8%8A%E7%9B%B4%E6%A8%B9%20%E8%B7%9D%E9%9B%A2%E3%82%92%E6%94%AF%E9%85%8D%E3%81%99%E3%82%8B%E3%83%92%E3%83%83%E3%83%88&%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E5%AE%8C%E6%88%90%E5%BA%A6%E3%80%82-VptNP7z2W2o.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 22 Sep 2021 21:23:33 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E4%BA%95%E4%B8%8A%E7%9B%B4%E6%A8%B9%20%E8%B7%9D%E9%9B%A2%E3%82%92%E6%94%AF%E9%85%8D%E3%81%99%E3%82%8B%E3%83%92%E3%83%83%E3%83%88&amp;%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E5%AE%8C%E6%88%90%E5%BA%A6%E3%80%82-VptNP7z2W2o.mp3" type="audio/mpeg" length="7820277" />
+</item>
+
+<item>
+<title>【ボクシングビート】激動の日本ライト級最強は誰か？？細川バレンタインが語る日本ボクシングのこれまでと、これから。-5ckrFfSE2Mo.mp3</title>
+<link>http://192.168.11.3/valentime/%E3%80%90%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%93%E3%83%BC%E3%83%88%E3%80%91%E6%BF%80%E5%8B%95%E3%81%AE%E6%97%A5%E6%9C%AC%E3%83%A9%E3%82%A4%E3%83%88%E7%B4%9A%E6%9C%80%E5%BC%B7%E3%81%AF%E8%AA%B0%E3%81%8B%EF%BC%9F%EF%BC%9F%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%81%8C%E8%AA%9E%E3%82%8B%E6%97%A5%E6%9C%AC%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%A8%E3%80%81%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%80%82-5ckrFfSE2Mo.mp3</link>
+<description>【ボクシングビート】激動の日本ライト級最強は誰か？？細川バレンタインが語る日本ボクシングのこれまでと、これから。-5ckrFfSE2Mo.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E3%80%90%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%93%E3%83%BC%E3%83%88%E3%80%91%E6%BF%80%E5%8B%95%E3%81%AE%E6%97%A5%E6%9C%AC%E3%83%A9%E3%82%A4%E3%83%88%E7%B4%9A%E6%9C%80%E5%BC%B7%E3%81%AF%E8%AA%B0%E3%81%8B%EF%BC%9F%EF%BC%9F%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%81%8C%E8%AA%9E%E3%82%8B%E6%97%A5%E6%9C%AC%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%A8%E3%80%81%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%80%82-5ckrFfSE2Mo.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 20 Sep 2021 12:21:48 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E3%80%90%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%93%E3%83%BC%E3%83%88%E3%80%91%E6%BF%80%E5%8B%95%E3%81%AE%E6%97%A5%E6%9C%AC%E3%83%A9%E3%82%A4%E3%83%88%E7%B4%9A%E6%9C%80%E5%BC%B7%E3%81%AF%E8%AA%B0%E3%81%8B%EF%BC%9F%EF%BC%9F%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E3%81%8C%E8%AA%9E%E3%82%8B%E6%97%A5%E6%9C%AC%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%A8%E3%80%81%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%80%82-5ckrFfSE2Mo.mp3" type="audio/mpeg" length="96438886" />
+</item>
+
+<item>
+<title>こんな伝説は嫌だ！心が痛むボクシングファン続出。ホリフィールド復帰戦-KrA3rrbeQmA.mp3</title>
+<link>http://192.168.11.3/valentime/%E3%81%93%E3%82%93%E3%81%AA%E4%BC%9D%E8%AA%AC%E3%81%AF%E5%AB%8C%E3%81%A0%EF%BC%81%E5%BF%83%E3%81%8C%E7%97%9B%E3%82%80%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A1%E3%83%B3%E7%B6%9A%E5%87%BA%E3%80%82%E3%83%9B%E3%83%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E5%BE%A9%E5%B8%B0%E6%88%A6-KrA3rrbeQmA.mp3</link>
+<description>こんな伝説は嫌だ！心が痛むボクシングファン続出。ホリフィールド復帰戦-KrA3rrbeQmA.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E3%81%93%E3%82%93%E3%81%AA%E4%BC%9D%E8%AA%AC%E3%81%AF%E5%AB%8C%E3%81%A0%EF%BC%81%E5%BF%83%E3%81%8C%E7%97%9B%E3%82%80%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A1%E3%83%B3%E7%B6%9A%E5%87%BA%E3%80%82%E3%83%9B%E3%83%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E5%BE%A9%E5%B8%B0%E6%88%A6-KrA3rrbeQmA.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 17 Sep 2021 20:57:23 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E3%81%93%E3%82%93%E3%81%AA%E4%BC%9D%E8%AA%AC%E3%81%AF%E5%AB%8C%E3%81%A0%EF%BC%81%E5%BF%83%E3%81%8C%E7%97%9B%E3%82%80%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A1%E3%83%B3%E7%B6%9A%E5%87%BA%E3%80%82%E3%83%9B%E3%83%AA%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E5%BE%A9%E5%B8%B0%E6%88%A6-KrA3rrbeQmA.mp3" type="audio/mpeg" length="8656600" />
+</item>
+
+</channel>
+</rss>
