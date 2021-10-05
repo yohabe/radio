@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 05 Oct 2021 19:33:21 +0900</lastBuildDate>
+<lastBuildDate>Tue, 05 Oct 2021 20:33:20 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>毎日睡眠8時間あれば大体幸せになれます.mp3</title>
+<link>http://192.168.11.3/katsuma/%E6%AF%8E%E6%97%A5%E7%9D%A1%E7%9C%A08%E6%99%82%E9%96%93%E3%81%82%E3%82%8C%E3%81%B0%E5%A4%A7%E4%BD%93%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%BE%E3%81%99.mp3</link>
+<description>毎日睡眠8時間あれば大体幸せになれます.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/katsuma/%E6%AF%8E%E6%97%A5%E7%9D%A1%E7%9C%A08%E6%99%82%E9%96%93%E3%81%82%E3%82%8C%E3%81%B0%E5%A4%A7%E4%BD%93%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%BE%E3%81%99.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 05 Oct 2021 19:28:16 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/katsuma/%E6%AF%8E%E6%97%A5%E7%9D%A1%E7%9C%A08%E6%99%82%E9%96%93%E3%81%82%E3%82%8C%E3%81%B0%E5%A4%A7%E4%BD%93%E5%B9%B8%E3%81%9B%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%BE%E3%81%99.mp3" type="audio/mpeg" length="1841152" />
+</item>
+
+<item>
+<title>何かをやりたくてもやれない理由。それは、やらないことに本人に.mp3</title>
+<link>http://192.168.11.3/katsuma/%E4%BD%95%E3%81%8B%E3%82%92%E3%82%84%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%E3%82%82%E3%82%84%E3%82%8C%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%80%82%E3%81%9D%E3%82%8C%E3%81%AF%E3%80%81%E3%82%84%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AB%E6%9C%AC%E4%BA%BA%E3%81%AB.mp3</link>
+<description>何かをやりたくてもやれない理由。それは、やらないことに本人に.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/katsuma/%E4%BD%95%E3%81%8B%E3%82%92%E3%82%84%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%E3%82%82%E3%82%84%E3%82%8C%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%80%82%E3%81%9D%E3%82%8C%E3%81%AF%E3%80%81%E3%82%84%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AB%E6%9C%AC%E4%BA%BA%E3%81%AB.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 05 Oct 2021 13:25:36 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/katsuma/%E4%BD%95%E3%81%8B%E3%82%92%E3%82%84%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%A6%E3%82%82%E3%82%84%E3%82%8C%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%80%82%E3%81%9D%E3%82%8C%E3%81%AF%E3%80%81%E3%82%84%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AB%E6%9C%AC%E4%BA%BA%E3%81%AB.mp3" type="audio/mpeg" length="1423687" />
+</item>
 
 <item>
 <title>片付けもがんばりすぎない.mp3</title>
