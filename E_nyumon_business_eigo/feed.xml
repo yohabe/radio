@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/E_nyumon_business_eigo
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 07 Oct 2021 08:33:06 +0900</lastBuildDate>
+<lastBuildDate>Thu, 07 Oct 2021 09:33:06 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -1288,19 +1288,6 @@ Audio files in /home/pi/radio/E_nyumon_business_eigo
 <pubDate>Tue, 06 Oct 2020 09:30:31 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20201006.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_nyumon_business_eigo_20201005.mp3</title>
-<link>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20201005.mp3</link>
-<description>E_nyumon_business_eigo_20201005.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20201005.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 05 Oct 2020 09:30:32 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20201005.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
 </channel>
