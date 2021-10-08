@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/MMAgengo2
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 09 Oct 2021 01:50:11 +0900</lastBuildDate>
+<lastBuildDate>Sat, 09 Oct 2021 02:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>NA最近の動画の質問答えます.mp3</title>
+<link>http://192.168.11.3/MMAgengo2/NA%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%AE%E8%B3%AA%E5%95%8F%E7%AD%94%E3%81%88%E3%81%BE%E3%81%99.mp3</link>
+<description>NA最近の動画の質問答えます.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/MMAgengo2/NA%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%AE%E8%B3%AA%E5%95%8F%E7%AD%94%E3%81%88%E3%81%BE%E3%81%99.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 08 Oct 2021 13:00:04 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/MMAgengo2/NA%E6%9C%80%E8%BF%91%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%AE%E8%B3%AA%E5%95%8F%E7%AD%94%E3%81%88%E3%81%BE%E3%81%99.mp3" type="audio/mpeg" length="17583196" />
+</item>
 
 <item>
 <title>アレキサンダー・ボルカノフスキーvsブライアイ・オルテガ　バ.mp3</title>
