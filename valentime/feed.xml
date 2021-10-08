@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/valentime
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 09 Oct 2021 00:50:30 +0900</lastBuildDate>
+<lastBuildDate>Sat, 09 Oct 2021 01:50:36 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>NA前向き教室 LIVE 24.mp3</title>
+<link>http://192.168.11.3/valentime/NA%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2024.mp3</link>
+<description>NA前向き教室 LIVE 24.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/NA%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2024.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 09 Oct 2021 01:50:32 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/NA%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2024.mp3" type="audio/mpeg" length="52428800" />
+</item>
+
+<item>
+<title>NAバッティング被害の抗議 寺地陣営.mp3</title>
+<link>http://192.168.11.3/valentime/NA%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E8%A2%AB%E5%AE%B3%E3%81%AE%E6%8A%97%E8%AD%B0%20%E5%AF%BA%E5%9C%B0%E9%99%A3%E5%96%B6.mp3</link>
+<description>NAバッティング被害の抗議 寺地陣営.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/NA%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E8%A2%AB%E5%AE%B3%E3%81%AE%E6%8A%97%E8%AD%B0%20%E5%AF%BA%E5%9C%B0%E9%99%A3%E5%96%B6.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 08 Oct 2021 02:59:43 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/NA%E3%83%90%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E8%A2%AB%E5%AE%B3%E3%81%AE%E6%8A%97%E8%AD%B0%20%E5%AF%BA%E5%9C%B0%E9%99%A3%E5%96%B6.mp3" type="audio/mpeg" length="8728655" />
+</item>
 
 <item>
 <title>NA【ボクシング】オーソドックス、サウスポー、スイッチボクサー。.mp3</title>
