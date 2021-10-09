@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/valentime
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 09 Oct 2021 17:50:29 +0900</lastBuildDate>
+<lastBuildDate>Sat, 09 Oct 2021 18:50:29 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>20211009_薬師寺vs辰吉 _ 畑山vs坂本 _ 井上vsドネア ボクシ.mp3</title>
+<link>http://192.168.11.3/valentime/20211009_%E8%96%AC%E5%B8%AB%E5%AF%BAvs%E8%BE%B0%E5%90%89%20_%20%E7%95%91%E5%B1%B1vs%E5%9D%82%E6%9C%AC%20_%20%E4%BA%95%E4%B8%8Avs%E3%83%89%E3%83%8D%E3%82%A2%20%E3%83%9C%E3%82%AF%E3%82%B7.mp3</link>
+<description>20211009_薬師寺vs辰吉 _ 畑山vs坂本 _ 井上vsドネア ボクシ.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/20211009_%E8%96%AC%E5%B8%AB%E5%AF%BAvs%E8%BE%B0%E5%90%89%20_%20%E7%95%91%E5%B1%B1vs%E5%9D%82%E6%9C%AC%20_%20%E4%BA%95%E4%B8%8Avs%E3%83%89%E3%83%8D%E3%82%A2%20%E3%83%9C%E3%82%AF%E3%82%B7.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 09 Oct 2021 15:43:40 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/20211009_%E8%96%AC%E5%B8%AB%E5%AF%BAvs%E8%BE%B0%E5%90%89%20_%20%E7%95%91%E5%B1%B1vs%E5%9D%82%E6%9C%AC%20_%20%E4%BA%95%E4%B8%8Avs%E3%83%89%E3%83%8D%E3%82%A2%20%E3%83%9C%E3%82%AF%E3%82%B7.mp3" type="audio/mpeg" length="6862851" />
+</item>
 
 <item>
 <title>NA前向き教室 LIVE 24.mp3</title>
