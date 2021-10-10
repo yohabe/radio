@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 10 Oct 2021 18:50:20 +0900</lastBuildDate>
+<lastBuildDate>Sun, 10 Oct 2021 19:50:20 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>20211010_賢く持ち物を減らす方法。それは、目的から考えて必要なものだけ.mp3</title>
+<link>http://192.168.11.3/katsuma/20211010_%E8%B3%A2%E3%81%8F%E6%8C%81%E3%81%A1%E7%89%A9%E3%82%92%E6%B8%9B%E3%82%89%E3%81%99%E6%96%B9%E6%B3%95%E3%80%82%E3%81%9D%E3%82%8C%E3%81%AF%E3%80%81%E7%9B%AE%E7%9A%84%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%81%A6%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AE%E3%81%A0%E3%81%91.mp3</link>
+<description>20211010_賢く持ち物を減らす方法。それは、目的から考えて必要なものだけ.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/katsuma/20211010_%E8%B3%A2%E3%81%8F%E6%8C%81%E3%81%A1%E7%89%A9%E3%82%92%E6%B8%9B%E3%82%89%E3%81%99%E6%96%B9%E6%B3%95%E3%80%82%E3%81%9D%E3%82%8C%E3%81%AF%E3%80%81%E7%9B%AE%E7%9A%84%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%81%A6%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AE%E3%81%A0%E3%81%91.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 09 Oct 2021 20:24:50 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/katsuma/20211010_%E8%B3%A2%E3%81%8F%E6%8C%81%E3%81%A1%E7%89%A9%E3%82%92%E6%B8%9B%E3%82%89%E3%81%99%E6%96%B9%E6%B3%95%E3%80%82%E3%81%9D%E3%82%8C%E3%81%AF%E3%80%81%E7%9B%AE%E7%9A%84%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%81%A6%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AE%E3%81%A0%E3%81%91.mp3" type="audio/mpeg" length="3730377" />
+</item>
 
 <item>
 <title>20211009_人的資産もお金以上にガンガン積み立てよう。金融資産も複利で増.mp3</title>
