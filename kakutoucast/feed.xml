@@ -13,20 +13,33 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 11 Oct 2021 14:50:21 +0900</lastBuildDate>
+<lastBuildDate>Mon, 11 Oct 2021 15:50:19 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
-<title>格闘キャスト_20211002_今年最高試合！「ヴォルカノフスキーVSオルテガ」｜UFC26.mp3</title>
-<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211002_%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%AB%98%E8%A9%A6%E5%90%88%EF%BC%81%E3%80%8C%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%AB%E3%83%8E%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BCVS%E3%82%AA%E3%83%AB%E3%83%86%E3%82%AC%E3%80%8D%EF%BD%9CUFC26.mp3</link>
-<description>格闘キャスト_20211002_今年最高試合！「ヴォルカノフスキーVSオルテガ」｜UFC26.mp3</description>
+<title>格闘キャスト_20211008_RIZIN Landmark vol.1 を終えて EP.1.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211008_RIZIN%20Landmark%20vol.1%20%E3%82%92%E7%B5%82%E3%81%88%E3%81%A6%20EP.1.mp3</link>
+<description>格闘キャスト_20211008_RIZIN Landmark vol.1 を終えて EP.1.mp3</description>
 <itunes:author></itunes:author>
 <author></author>
-<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211002_%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%AB%98%E8%A9%A6%E5%90%88%EF%BC%81%E3%80%8C%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%AB%E3%83%8E%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BCVS%E3%82%AA%E3%83%AB%E3%83%86%E3%82%AC%E3%80%8D%EF%BD%9CUFC26.mp3</guid>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211008_RIZIN%20Landmark%20vol.1%20%E3%82%92%E7%B5%82%E3%81%88%E3%81%A6%20EP.1.mp3</guid>
 <dc:creator></dc:creator>
-<pubDate>Mon, 11 Oct 2021 14:50:17 +0900</pubDate>
+<pubDate>Sat, 09 Oct 2021 18:17:57 +0900</pubDate>
 
-<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211002_%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%AB%98%E8%A9%A6%E5%90%88%EF%BC%81%E3%80%8C%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%AB%E3%83%8E%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BCVS%E3%82%AA%E3%83%AB%E3%83%86%E3%82%AC%E3%80%8D%EF%BD%9CUFC26.mp3" type="audio/mpeg" length="93847552" />
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211008_RIZIN%20Landmark%20vol.1%20%E3%82%92%E7%B5%82%E3%81%88%E3%81%A6%20EP.1.mp3" type="audio/mpeg" length="25347381" />
+</item>
+
+<item>
+<title>格闘キャスト_20211007_扇久保博正選手とMMAトーク！アメリカで毎週減量と試合、TU.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211007_%E6%89%87%E4%B9%85%E4%BF%9D%E5%8D%9A%E6%AD%A3%E9%81%B8%E6%89%8B%E3%81%A8MMA%E3%83%88%E3%83%BC%E3%82%AF%EF%BC%81%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%A7%E6%AF%8E%E9%80%B1%E6%B8%9B%E9%87%8F%E3%81%A8%E8%A9%A6%E5%90%88%E3%80%81TU.mp3</link>
+<description>格闘キャスト_20211007_扇久保博正選手とMMAトーク！アメリカで毎週減量と試合、TU.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211007_%E6%89%87%E4%B9%85%E4%BF%9D%E5%8D%9A%E6%AD%A3%E9%81%B8%E6%89%8B%E3%81%A8MMA%E3%83%88%E3%83%BC%E3%82%AF%EF%BC%81%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%A7%E6%AF%8E%E9%80%B1%E6%B8%9B%E9%87%8F%E3%81%A8%E8%A9%A6%E5%90%88%E3%80%81TU.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 09 Oct 2021 07:10:19 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211007_%E6%89%87%E4%B9%85%E4%BF%9D%E5%8D%9A%E6%AD%A3%E9%81%B8%E6%89%8B%E3%81%A8MMA%E3%83%88%E3%83%BC%E3%82%AF%EF%BC%81%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%A7%E6%AF%8E%E9%80%B1%E6%B8%9B%E9%87%8F%E3%81%A8%E8%A9%A6%E5%90%88%E3%80%81TU.mp3" type="audio/mpeg" length="64775299" />
 </item>
 
 <item>
@@ -40,6 +53,19 @@ Audio files in /home/pi/radio/kakutoucast
 <pubDate>Sun, 03 Oct 2021 09:04:44 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211001_RIZIN.30%E3%82%92%E7%B5%82%E3%81%88%E3%81%A6%E3%80%82%E3%80%82%E3%80%82EP.124.mp3" type="audio/mpeg" length="34468102" />
+</item>
+
+<item>
+<title>格闘キャスト_20211002_今年最高試合！「ヴォルカノフスキーVSオルテガ」｜UFC26.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211002_%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%AB%98%E8%A9%A6%E5%90%88%EF%BC%81%E3%80%8C%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%AB%E3%83%8E%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BCVS%E3%82%AA%E3%83%AB%E3%83%86%E3%82%AC%E3%80%8D%EF%BD%9CUFC26.mp3</link>
+<description>格闘キャスト_20211002_今年最高試合！「ヴォルカノフスキーVSオルテガ」｜UFC26.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211002_%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%AB%98%E8%A9%A6%E5%90%88%EF%BC%81%E3%80%8C%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%AB%E3%83%8E%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BCVS%E3%82%AA%E3%83%AB%E3%83%86%E3%82%AC%E3%80%8D%EF%BD%9CUFC26.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 01 Oct 2021 17:31:16 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211002_%E4%BB%8A%E5%B9%B4%E6%9C%80%E9%AB%98%E8%A9%A6%E5%90%88%EF%BC%81%E3%80%8C%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%AB%E3%83%8E%E3%83%95%E3%82%B9%E3%82%AD%E3%83%BCVS%E3%82%AA%E3%83%AB%E3%83%86%E3%82%AC%E3%80%8D%EF%BD%9CUFC26.mp3" type="audio/mpeg" length="111128153" />
 </item>
 
 <item>
