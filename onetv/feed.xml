@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+ xmlns:media="http://search.yahoo.com/mrss"
+ version="2.0">
+<channel>
+<ttl>60</ttl>
+<title>onetv Podcast</title>
+<link>http://192.168.11.3/onetv</link>
+<description>
+Audio files in /home/pi/radio/onetv
+</description>
+<language>ja</language>
+<lastBuildDate>Sat, 06 Nov 2021 12:58:53 +0900</lastBuildDate>
+<generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ザ・ワンTV_20211103_【密着】THE 1 STORY〜ストラッサー 起一〜元UFC.qoYHaHnxN6o.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211103_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%B5%E3%83%BC%20%E8%B5%B7%E4%B8%80%E3%80%9C%E5%85%83UFC.qoYHaHnxN6o.mp3</link>
+<description>ザ・ワンTV_20211103_【密着】THE 1 STORY〜ストラッサー 起一〜元UFC.qoYHaHnxN6o.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211103_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%B5%E3%83%BC%20%E8%B5%B7%E4%B8%80%E3%80%9C%E5%85%83UFC.qoYHaHnxN6o.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 06 Nov 2021 12:58:51 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211103_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%82%B5%E3%83%BC%20%E8%B5%B7%E4%B8%80%E3%80%9C%E5%85%83UFC.qoYHaHnxN6o.mp3" type="audio/mpeg" length="2359296" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210618_【密着】THE 1 STORY〜神田コウヤ～DEEP TOK.gyOaBzosljw.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210618_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E7%A5%9E%E7%94%B0%E3%82%B3%E3%82%A6%E3%83%A4%EF%BD%9EDEEP%20TOK.gyOaBzosljw.mp3</link>
+<description>ザ・ワンTV_20210618_【密着】THE 1 STORY〜神田コウヤ～DEEP TOK.gyOaBzosljw.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210618_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E7%A5%9E%E7%94%B0%E3%82%B3%E3%82%A6%E3%83%A4%EF%BD%9EDEEP%20TOK.gyOaBzosljw.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 06 Nov 2021 10:23:59 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210618_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E7%A5%9E%E7%94%B0%E3%82%B3%E3%82%A6%E3%83%A4%EF%BD%9EDEEP%20TOK.gyOaBzosljw.mp3" type="audio/mpeg" length="13001470" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20211105_【対談】THE 1 MEET〜石渡 伸太郎〜RIZIN漢塾 .mBbYRIsfD6c.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211105_%E3%80%90%E5%AF%BE%E8%AB%87%E3%80%91THE%201%20MEET%E3%80%9C%E7%9F%B3%E6%B8%A1%20%E4%BC%B8%E5%A4%AA%E9%83%8E%E3%80%9CRIZIN%E6%BC%A2%E5%A1%BE%20.mBbYRIsfD6c.mp3</link>
+<description>ザ・ワンTV_20211105_【対談】THE 1 MEET〜石渡 伸太郎〜RIZIN漢塾 .mBbYRIsfD6c.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211105_%E3%80%90%E5%AF%BE%E8%AB%87%E3%80%91THE%201%20MEET%E3%80%9C%E7%9F%B3%E6%B8%A1%20%E4%BC%B8%E5%A4%AA%E9%83%8E%E3%80%9CRIZIN%E6%BC%A2%E5%A1%BE%20.mBbYRIsfD6c.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 06 Nov 2021 01:30:46 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211105_%E3%80%90%E5%AF%BE%E8%AB%87%E3%80%91THE%201%20MEET%E3%80%9C%E7%9F%B3%E6%B8%A1%20%E4%BC%B8%E5%A4%AA%E9%83%8E%E3%80%9CRIZIN%E6%BC%A2%E5%A1%BE%20.mBbYRIsfD6c.mp3" type="audio/mpeg" length="14907452" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20211005_ザ・ワンTV チャンネル.cf3w8-iMM-o.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211005_%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV%20%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB.cf3w8-iMM-o.mp3</link>
+<description>ザ・ワンTV_20211005_ザ・ワンTV チャンネル.cf3w8-iMM-o.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211005_%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV%20%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB.cf3w8-iMM-o.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 06 Oct 2021 07:34:57 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211005_%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV%20%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB.cf3w8-iMM-o.mp3" type="audio/mpeg" length="52916192" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20211011_【密着】THE 1 STORY〜北岡 悟〜第8代DEEPライ.0Fk35hXHsNU.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211011_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%8C%97%E5%B2%A1%20%E6%82%9F%E3%80%9C%E7%AC%AC8%E4%BB%A3DEEP%E3%83%A9%E3%82%A4.0Fk35hXHsNU.mp3</link>
+<description>ザ・ワンTV_20211011_【密着】THE 1 STORY〜北岡 悟〜第8代DEEPライ.0Fk35hXHsNU.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211011_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%8C%97%E5%B2%A1%20%E6%82%9F%E3%80%9C%E7%AC%AC8%E4%BB%A3DEEP%E3%83%A9%E3%82%A4.0Fk35hXHsNU.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 29 Sep 2021 10:10:51 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211011_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%8C%97%E5%B2%A1%20%E6%82%9F%E3%80%9C%E7%AC%AC8%E4%BB%A3DEEP%E3%83%A9%E3%82%A4.0Fk35hXHsNU.mp3" type="audio/mpeg" length="14339341" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210917_【密着】THE 1 STORY〜西川 大和〜修斗第14代世界.Ctep8QC2sDM.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210917_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E8%A5%BF%E5%B7%9D%20%E5%A4%A7%E5%92%8C%E3%80%9C%E4%BF%AE%E6%96%97%E7%AC%AC14%E4%BB%A3%E4%B8%96%E7%95%8C.Ctep8QC2sDM.mp3</link>
+<description>ザ・ワンTV_20210917_【密着】THE 1 STORY〜西川 大和〜修斗第14代世界.Ctep8QC2sDM.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210917_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E8%A5%BF%E5%B7%9D%20%E5%A4%A7%E5%92%8C%E3%80%9C%E4%BF%AE%E6%96%97%E7%AC%AC14%E4%BB%A3%E4%B8%96%E7%95%8C.Ctep8QC2sDM.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 16 Sep 2021 14:15:53 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210917_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E8%A5%BF%E5%B7%9D%20%E5%A4%A7%E5%92%8C%E3%80%9C%E4%BF%AE%E6%96%97%E7%AC%AC14%E4%BB%A3%E4%B8%96%E7%95%8C.Ctep8QC2sDM.mp3" type="audio/mpeg" length="18646516" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210903_【密着】THE 1 STORY〜川名 TENCHO 雄生〜第.3UQLmu8ou_c.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210903_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%B7%9D%E5%90%8D%20TENCHO%20%E9%9B%84%E7%94%9F%E3%80%9C%E7%AC%AC.3UQLmu8ou_c.mp3</link>
+<description>ザ・ワンTV_20210903_【密着】THE 1 STORY〜川名 TENCHO 雄生〜第.3UQLmu8ou_c.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210903_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%B7%9D%E5%90%8D%20TENCHO%20%E9%9B%84%E7%94%9F%E3%80%9C%E7%AC%AC.3UQLmu8ou_c.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 02 Sep 2021 00:12:59 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210903_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%B7%9D%E5%90%8D%20TENCHO%20%E9%9B%84%E7%94%9F%E3%80%9C%E7%AC%AC.3UQLmu8ou_c.mp3" type="audio/mpeg" length="11645088" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210723_【密着】THE 1 STORY〜SASUKE〜修斗環太平洋フ.lgS97i-wYCM.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210723_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9CSASUKE%E3%80%9C%E4%BF%AE%E6%96%97%E7%92%B0%E5%A4%AA%E5%B9%B3%E6%B4%8B%E3%83%95.lgS97i-wYCM.mp3</link>
+<description>ザ・ワンTV_20210723_【密着】THE 1 STORY〜SASUKE〜修斗環太平洋フ.lgS97i-wYCM.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210723_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9CSASUKE%E3%80%9C%E4%BF%AE%E6%96%97%E7%92%B0%E5%A4%AA%E5%B9%B3%E6%B4%8B%E3%83%95.lgS97i-wYCM.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 24 Jul 2021 00:13:31 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210723_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9CSASUKE%E3%80%9C%E4%BF%AE%E6%96%97%E7%92%B0%E5%A4%AA%E5%B9%B3%E6%B4%8B%E3%83%95.lgS97i-wYCM.mp3" type="audio/mpeg" length="15196509" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210712_【藤田大和】DEEPフライ級暫定王者 ザ・ワンMVP受賞イン.cu232qT1dRY.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210712_%E3%80%90%E8%97%A4%E7%94%B0%E5%A4%A7%E5%92%8C%E3%80%91DEEP%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E6%9A%AB%E5%AE%9A%E7%8E%8B%E8%80%85%20%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3MVP%E5%8F%97%E8%B3%9E%E3%82%A4%E3%83%B3.cu232qT1dRY.mp3</link>
+<description>ザ・ワンTV_20210712_【藤田大和】DEEPフライ級暫定王者 ザ・ワンMVP受賞イン.cu232qT1dRY.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210712_%E3%80%90%E8%97%A4%E7%94%B0%E5%A4%A7%E5%92%8C%E3%80%91DEEP%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E6%9A%AB%E5%AE%9A%E7%8E%8B%E8%80%85%20%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3MVP%E5%8F%97%E8%B3%9E%E3%82%A4%E3%83%B3.cu232qT1dRY.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 12 Jul 2021 11:26:59 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210712_%E3%80%90%E8%97%A4%E7%94%B0%E5%A4%A7%E5%92%8C%E3%80%91DEEP%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E6%9A%AB%E5%AE%9A%E7%8E%8B%E8%80%85%20%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3MVP%E5%8F%97%E8%B3%9E%E3%82%A4%E3%83%B3.cu232qT1dRY.mp3" type="audio/mpeg" length="2553552" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210702_【密着】THE 1 STORY〜平良 達郎〜修斗第8代世界フ.ygMmfOrdDj4.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210702_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%B9%B3%E8%89%AF%20%E9%81%94%E9%83%8E%E3%80%9C%E4%BF%AE%E6%96%97%E7%AC%AC8%E4%BB%A3%E4%B8%96%E7%95%8C%E3%83%95.ygMmfOrdDj4.mp3</link>
+<description>ザ・ワンTV_20210702_【密着】THE 1 STORY〜平良 達郎〜修斗第8代世界フ.ygMmfOrdDj4.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210702_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%B9%B3%E8%89%AF%20%E9%81%94%E9%83%8E%E3%80%9C%E4%BF%AE%E6%96%97%E7%AC%AC8%E4%BB%A3%E4%B8%96%E7%95%8C%E3%83%95.ygMmfOrdDj4.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 07 Jul 2021 05:46:37 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210702_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E5%B9%B3%E8%89%AF%20%E9%81%94%E9%83%8E%E3%80%9C%E4%BF%AE%E6%96%97%E7%AC%AC8%E4%BB%A3%E4%B8%96%E7%95%8C%E3%83%95.ygMmfOrdDj4.mp3" type="audio/mpeg" length="18927157" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210707_【平良達郎】修斗第８代世界フライ級チャンピオン  ザ・ワンM.NJiT-ZpXNVM.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210707_%E3%80%90%E5%B9%B3%E8%89%AF%E9%81%94%E9%83%8E%E3%80%91%E4%BF%AE%E6%96%97%E7%AC%AC%EF%BC%98%E4%BB%A3%E4%B8%96%E7%95%8C%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%20%20%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3M.NJiT-ZpXNVM.mp3</link>
+<description>ザ・ワンTV_20210707_【平良達郎】修斗第８代世界フライ級チャンピオン  ザ・ワンM.NJiT-ZpXNVM.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210707_%E3%80%90%E5%B9%B3%E8%89%AF%E9%81%94%E9%83%8E%E3%80%91%E4%BF%AE%E6%96%97%E7%AC%AC%EF%BC%98%E4%BB%A3%E4%B8%96%E7%95%8C%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%20%20%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3M.NJiT-ZpXNVM.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 06 Jul 2021 22:59:56 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210707_%E3%80%90%E5%B9%B3%E8%89%AF%E9%81%94%E9%83%8E%E3%80%91%E4%BF%AE%E6%96%97%E7%AC%AC%EF%BC%98%E4%BB%A3%E4%B8%96%E7%95%8C%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%20%20%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3M.NJiT-ZpXNVM.mp3" type="audio/mpeg" length="2866893" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210703_【密着】THE 1 STORY〜藤田大和〜DEEPフライ級暫.FF0dtijrm60.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210703_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E8%97%A4%E7%94%B0%E5%A4%A7%E5%92%8C%E3%80%9CDEEP%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E6%9A%AB.FF0dtijrm60.mp3</link>
+<description>ザ・ワンTV_20210703_【密着】THE 1 STORY〜藤田大和〜DEEPフライ級暫.FF0dtijrm60.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210703_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E8%97%A4%E7%94%B0%E5%A4%A7%E5%92%8C%E3%80%9CDEEP%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E6%9A%AB.FF0dtijrm60.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 03 Jul 2021 15:33:01 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210703_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E8%97%A4%E7%94%B0%E5%A4%A7%E5%92%8C%E3%80%9CDEEP%E3%83%95%E3%83%A9%E3%82%A4%E7%B4%9A%E6%9A%AB.FF0dtijrm60.mp3" type="audio/mpeg" length="8166051" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20210618_【密着】THE 1 STORY〜福田 龍彌〜修斗2020年世.ugVQDkk13s4.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210618_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E7%A6%8F%E7%94%B0%20%E9%BE%8D%E5%BD%8C%E3%80%9C%E4%BF%AE%E6%96%972020%E5%B9%B4%E4%B8%96.ugVQDkk13s4.mp3</link>
+<description>ザ・ワンTV_20210618_【密着】THE 1 STORY〜福田 龍彌〜修斗2020年世.ugVQDkk13s4.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210618_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E7%A6%8F%E7%94%B0%20%E9%BE%8D%E5%BD%8C%E3%80%9C%E4%BF%AE%E6%96%972020%E5%B9%B4%E4%B8%96.ugVQDkk13s4.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 17 Jun 2021 14:03:57 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20210618_%E3%80%90%E5%AF%86%E7%9D%80%E3%80%91THE%201%20STORY%E3%80%9C%E7%A6%8F%E7%94%B0%20%E9%BE%8D%E5%BD%8C%E3%80%9C%E4%BF%AE%E6%96%972020%E5%B9%B4%E4%B8%96.ugVQDkk13s4.mp3" type="audio/mpeg" length="15212805" />
+</item>
+
+</channel>
+</rss>
