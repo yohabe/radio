@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/E_eikaiwa_timetrial
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 07 Nov 2021 08:50:02 +0900</lastBuildDate>
+<lastBuildDate>Sun, 07 Nov 2021 09:50:03 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -2874,19 +2874,6 @@ Audio files in /home/pi/radio/E_eikaiwa_timetrial
 <pubDate>Mon, 09 Nov 2020 08:40:37 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20201109.mp3" type="audio/mpeg" length="9600416" />
-</item>
-
-<item>
-<title>E_eikaiwa_timetrial_20201106.mp3</title>
-<link>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20201106.mp3</link>
-<description>E_eikaiwa_timetrial_20201106.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20201106.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 06 Nov 2020 08:40:32 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_eikaiwa_timetrial/E_eikaiwa_timetrial_20201106.mp3" type="audio/mpeg" length="9600416" />
 </item>
 
 </channel>
