@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/a_matunojyou
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 08 Nov 2021 08:50:10 +0900</lastBuildDate>
+<lastBuildDate>Mon, 08 Nov 2021 09:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -573,19 +573,6 @@ Audio files in /home/pi/radio/a_matunojyou
 <pubDate>Fri, 13 Nov 2020 22:06:56 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201113%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
-</item>
-
-<item>
-<title>a_matunojyou_20201106金21.mp3</title>
-<link>http://192.168.11.3/a_matunojyou/a_matunojyou_20201106%E9%87%9121.mp3</link>
-<description>a_matunojyou_20201106金21.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_matunojyou/a_matunojyou_20201106%E9%87%9121.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 06 Nov 2020 22:06:51 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/a_matunojyou/a_matunojyou_20201106%E9%87%9121.mp3" type="audio/mpeg" length="14401016" />
 </item>
 
 </channel>
