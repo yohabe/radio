@@ -13,21 +13,8 @@
 Audio files in /home/pi/radio/valentime
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 13 Nov 2021 04:50:38 +0900</lastBuildDate>
+<lastBuildDate>Sat, 13 Nov 2021 05:50:33 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
-
-<item>
-<title>細川バレンタイン _ 前向き教室_20211027_前向き教室 LIVE 28.kY1c-FCDURY.mp3</title>
-<link>http://192.168.11.3/valentime/%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20_%20%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4_20211027_%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2028.kY1c-FCDURY.mp3</link>
-<description>細川バレンタイン _ 前向き教室_20211027_前向き教室 LIVE 28.kY1c-FCDURY.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/valentime/%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20_%20%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4_20211027_%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2028.kY1c-FCDURY.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 13 Nov 2021 04:50:35 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/valentime/%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20_%20%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4_20211027_%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2028.kY1c-FCDURY.mp3" type="audio/mpeg" length="55050240" />
-</item>
 
 <item>
 <title>細川バレンタイン _ 前向き教室_20211109_前向き教室 LIVE 31 2021-11-12 21_35.Bqn8FCadVao.mp3</title>
@@ -300,6 +287,19 @@ Audio files in /home/pi/radio/valentime
 <pubDate>Fri, 29 Oct 2021 13:43:21 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/valentime/%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20_%20%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4_20211028_%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC%E3%81%8C%E9%80%9F%E3%81%84%E3%83%91%E3%83%B3%E3%83%81%E3%82%92%E8%BA%B1%E3%81%9B%E3%82%8B%E7%90%86%E7%94%B1%E3%81%AF%E3%83%91%E3%83%B3%E3%83%81%E3%82%92%E8%A6%8B%E3%82%8B%E5%89%8D%E3%81%AB%E2%97%8B%E2%97%8B%E3%81%8C%E3%81%A7%E3%81%8D.ZaPdWlzepHo.mp3" type="audio/mpeg" length="7625439" />
+</item>
+
+<item>
+<title>細川バレンタイン _ 前向き教室_20211027_前向き教室 LIVE 28.kY1c-FCDURY.mp3</title>
+<link>http://192.168.11.3/valentime/%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20_%20%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4_20211027_%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2028.kY1c-FCDURY.mp3</link>
+<description>細川バレンタイン _ 前向き教室_20211027_前向き教室 LIVE 28.kY1c-FCDURY.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/valentime/%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20_%20%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4_20211027_%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2028.kY1c-FCDURY.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 29 Oct 2021 02:23:12 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/valentime/%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%20_%20%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4_20211027_%E5%89%8D%E5%90%91%E3%81%8D%E6%95%99%E5%AE%A4%20LIVE%2028.kY1c-FCDURY.mp3" type="audio/mpeg" length="99275416" />
 </item>
 
 <item>
