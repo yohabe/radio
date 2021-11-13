@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/onetv
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 13 Nov 2021 19:50:30 +0900</lastBuildDate>
+<lastBuildDate>Sat, 13 Nov 2021 20:50:30 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -40,6 +40,19 @@ Audio files in /home/pi/radio/onetv
 <pubDate>Tue, 09 Nov 2021 12:42:27 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211111_%E7%8C%BF%E4%B8%B8%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%B8%20%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3MVP%E5%8F%97%E8%B3%9E%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%90PROFESS.slazrjjcu9E.mp3" type="audio/mpeg" length="2071989" />
+</item>
+
+<item>
+<title>ザ・ワンTV_20211113_原口央 勝利者インタビュー【VTJ2021】.VKM6X463M0M.mp3</title>
+<link>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211113_%E5%8E%9F%E5%8F%A3%E5%A4%AE%20%E5%8B%9D%E5%88%A9%E8%80%85%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%90VTJ2021%E3%80%91.VKM6X463M0M.mp3</link>
+<description>ザ・ワンTV_20211113_原口央 勝利者インタビュー【VTJ2021】.VKM6X463M0M.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211113_%E5%8E%9F%E5%8F%A3%E5%A4%AE%20%E5%8B%9D%E5%88%A9%E8%80%85%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%90VTJ2021%E3%80%91.VKM6X463M0M.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 09 Nov 2021 12:37:16 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/onetv/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%B3TV_20211113_%E5%8E%9F%E5%8F%A3%E5%A4%AE%20%E5%8B%9D%E5%88%A9%E8%80%85%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%80%90VTJ2021%E3%80%91.VKM6X463M0M.mp3" type="audio/mpeg" length="2036541" />
 </item>
 
 <item>
