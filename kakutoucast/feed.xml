@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 19 Nov 2021 17:50:20 +0900</lastBuildDate>
+<lastBuildDate>Fri, 19 Nov 2021 18:50:22 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>格闘キャスト_20211119_RIZIN.32 勝敗予測 EP.137.ofEloGVb1Mo.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211119_RIZIN.32%20%E5%8B%9D%E6%95%97%E4%BA%88%E6%B8%AC%20EP.137.ofEloGVb1Mo.mp3</link>
+<description>格闘キャスト_20211119_RIZIN.32 勝敗予測 EP.137.ofEloGVb1Mo.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211119_RIZIN.32%20%E5%8B%9D%E6%95%97%E4%BA%88%E6%B8%AC%20EP.137.ofEloGVb1Mo.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 19 Nov 2021 18:50:18 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211119_RIZIN.32%20%E5%8B%9D%E6%95%97%E4%BA%88%E6%B8%AC%20EP.137.ofEloGVb1Mo.mp3" type="audio/mpeg" length="1310720" />
+</item>
 
 <item>
 <title>格闘キャスト_20211114_「朝倉未来にストリートファイトで勝ったら1000万円」につい.igBlPAYSxgE.mp3</title>
