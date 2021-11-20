@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 20 Nov 2021 12:50:20 +0900</lastBuildDate>
+<lastBuildDate>Sat, 20 Nov 2021 13:50:19 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -27,6 +27,19 @@ Audio files in /home/pi/radio/kakutoucast
 <pubDate>Fri, 19 Nov 2021 11:55:52 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211119_RIZIN.32%20%E5%8B%9D%E6%95%97%E4%BA%88%E6%B8%AC%20EP.137.ofEloGVb1Mo.mp3" type="audio/mpeg" length="31367740" />
+</item>
+
+<item>
+<title>格闘キャスト_20211119_【パート2】「朝倉未来にストリートファイトで勝ったら1000.WH8A4lMrotg.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211119_%E3%80%90%E3%83%91%E3%83%BC%E3%83%882%E3%80%91%E3%80%8C%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%81%A7%E5%8B%9D%E3%81%A3%E3%81%9F%E3%82%891000.WH8A4lMrotg.mp3</link>
+<description>格闘キャスト_20211119_【パート2】「朝倉未来にストリートファイトで勝ったら1000.WH8A4lMrotg.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211119_%E3%80%90%E3%83%91%E3%83%BC%E3%83%882%E3%80%91%E3%80%8C%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%81%A7%E5%8B%9D%E3%81%A3%E3%81%9F%E3%82%891000.WH8A4lMrotg.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 19 Nov 2021 11:14:54 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211119_%E3%80%90%E3%83%91%E3%83%BC%E3%83%882%E3%80%91%E3%80%8C%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%81%A7%E5%8B%9D%E3%81%A3%E3%81%9F%E3%82%891000.WH8A4lMrotg.mp3" type="audio/mpeg" length="21825361" />
 </item>
 
 <item>
