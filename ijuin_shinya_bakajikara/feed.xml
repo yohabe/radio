@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/ijuin_shinya_bakajikara
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 25 Nov 2021 08:50:18 +0900</lastBuildDate>
+<lastBuildDate>Thu, 25 Nov 2021 09:50:19 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -443,19 +443,6 @@ Audio files in /home/pi/radio/ijuin_shinya_bakajikara
 <pubDate>Tue, 01 Dec 2020 03:27:37 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20201201%E7%81%AB01.mp3" type="audio/mpeg" length="57600824" />
-</item>
-
-<item>
-<title>ijuin_shinya_bakajikara_20201124火01.mp3</title>
-<link>http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20201124%E7%81%AB01.mp3</link>
-<description>ijuin_shinya_bakajikara_20201124火01.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20201124%E7%81%AB01.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 24 Nov 2020 03:27:57 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/ijuin_shinya_bakajikara_20201124%E7%81%AB01.mp3" type="audio/mpeg" length="57600824" />
 </item>
 
 </channel>
