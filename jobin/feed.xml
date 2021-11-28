@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+ xmlns:media="http://search.yahoo.com/mrss"
+ version="2.0">
+<channel>
+<ttl>60</ttl>
+<title>jobin Podcast</title>
+<link>http://192.168.11.3/jobin</link>
+<description>
+Audio files in /home/pi/radio/jobin
+</description>
+<language>ja</language>
+<lastBuildDate>Sun, 28 Nov 2021 20:50:23 +0900</lastBuildDate>
+<generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ジョビンチャンネル_20211126_【RIZIN TRIGGER 1st】朝倉未来1000万円企._p5nV_tSz0w.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211126_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A51000%E4%B8%87%E5%86%86%E4%BC%81._p5nV_tSz0w.mp3</link>
+<description>ジョビンチャンネル_20211126_【RIZIN TRIGGER 1st】朝倉未来1000万円企._p5nV_tSz0w.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211126_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A51000%E4%B8%87%E5%86%86%E4%BC%81._p5nV_tSz0w.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 26 Nov 2021 22:37:21 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211126_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A51000%E4%B8%87%E5%86%86%E4%BC%81._p5nV_tSz0w.mp3" type="audio/mpeg" length="18670485" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20211118_【RIZIN32】元DEEP王者松本晃市郎ことジョビンによる.b-3CuflEmm8.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211118_%E3%80%90RIZIN32%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.b-3CuflEmm8.mp3</link>
+<description>ジョビンチャンネル_20211118_【RIZIN32】元DEEP王者松本晃市郎ことジョビンによる.b-3CuflEmm8.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211118_%E3%80%90RIZIN32%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.b-3CuflEmm8.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 25 Nov 2021 07:20:04 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211118_%E3%80%90RIZIN32%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.b-3CuflEmm8.mp3" type="audio/mpeg" length="21785565" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20211120_【RIZIN32】RENAvs山本美優！皇治vs祖根寿麻！他.ryHXWoUo-lc.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211120_%E3%80%90RIZIN32%E3%80%91RENAvs%E5%B1%B1%E6%9C%AC%E7%BE%8E%E5%84%AA%EF%BC%81%E7%9A%87%E6%B2%BBvs%E7%A5%96%E6%A0%B9%E5%AF%BF%E9%BA%BB%EF%BC%81%E4%BB%96.ryHXWoUo-lc.mp3</link>
+<description>ジョビンチャンネル_20211120_【RIZIN32】RENAvs山本美優！皇治vs祖根寿麻！他.ryHXWoUo-lc.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211120_%E3%80%90RIZIN32%E3%80%91RENAvs%E5%B1%B1%E6%9C%AC%E7%BE%8E%E5%84%AA%EF%BC%81%E7%9A%87%E6%B2%BBvs%E7%A5%96%E6%A0%B9%E5%AF%BF%E9%BA%BB%EF%BC%81%E4%BB%96.ryHXWoUo-lc.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 21 Nov 2021 13:36:39 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211120_%E3%80%90RIZIN32%E3%80%91RENAvs%E5%B1%B1%E6%9C%AC%E7%BE%8E%E5%84%AA%EF%BC%81%E7%9A%87%E6%B2%BBvs%E7%A5%96%E6%A0%B9%E5%AF%BF%E9%BA%BB%EF%BC%81%E4%BB%96.ryHXWoUo-lc.mp3" type="audio/mpeg" length="18331629" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20211024_【RIZIN31】ピカちゃんヤッタね！牛久絢太郎vs斎藤裕！.nY1ZWwZF2PE.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211024_%E3%80%90RIZIN31%E3%80%91%E3%83%94%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E3%83%A4%E3%83%83%E3%82%BF%E3%81%AD%EF%BC%81%E7%89%9B%E4%B9%85%E7%B5%A2%E5%A4%AA%E9%83%8Evs%E6%96%8E%E8%97%A4%E8%A3%95%EF%BC%81.nY1ZWwZF2PE.mp3</link>
+<description>ジョビンチャンネル_20211024_【RIZIN31】ピカちゃんヤッタね！牛久絢太郎vs斎藤裕！.nY1ZWwZF2PE.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211024_%E3%80%90RIZIN31%E3%80%91%E3%83%94%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E3%83%A4%E3%83%83%E3%82%BF%E3%81%AD%EF%BC%81%E7%89%9B%E4%B9%85%E7%B5%A2%E5%A4%AA%E9%83%8Evs%E6%96%8E%E8%97%A4%E8%A3%95%EF%BC%81.nY1ZWwZF2PE.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 27 Oct 2021 20:33:49 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211024_%E3%80%90RIZIN31%E3%80%91%E3%83%94%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E3%83%A4%E3%83%83%E3%82%BF%E3%81%AD%EF%BC%81%E7%89%9B%E4%B9%85%E7%B5%A2%E5%A4%AA%E9%83%8Evs%E6%96%8E%E8%97%A4%E8%A3%95%EF%BC%81.nY1ZWwZF2PE.mp3" type="audio/mpeg" length="22404669" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20211022_【RIZIN31】斎藤裕vsピカからの刺客！牛久絢太郎他RI.M0G0XvWTqag.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211022_%E3%80%90RIZIN31%E3%80%91%E6%96%8E%E8%97%A4%E8%A3%95vs%E3%83%94%E3%82%AB%E3%81%8B%E3%82%89%E3%81%AE%E5%88%BA%E5%AE%A2%EF%BC%81%E7%89%9B%E4%B9%85%E7%B5%A2%E5%A4%AA%E9%83%8E%E4%BB%96RI.M0G0XvWTqag.mp3</link>
+<description>ジョビンチャンネル_20211022_【RIZIN31】斎藤裕vsピカからの刺客！牛久絢太郎他RI.M0G0XvWTqag.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211022_%E3%80%90RIZIN31%E3%80%91%E6%96%8E%E8%97%A4%E8%A3%95vs%E3%83%94%E3%82%AB%E3%81%8B%E3%82%89%E3%81%AE%E5%88%BA%E5%AE%A2%EF%BC%81%E7%89%9B%E4%B9%85%E7%B5%A2%E5%A4%AA%E9%83%8E%E4%BB%96RI.M0G0XvWTqag.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 23 Oct 2021 00:59:38 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211022_%E3%80%90RIZIN31%E3%80%91%E6%96%8E%E8%97%A4%E8%A3%95vs%E3%83%94%E3%82%AB%E3%81%8B%E3%82%89%E3%81%AE%E5%88%BA%E5%AE%A2%EF%BC%81%E7%89%9B%E4%B9%85%E7%B5%A2%E5%A4%AA%E9%83%8E%E4%BB%96RI.M0G0XvWTqag.mp3" type="audio/mpeg" length="19862229" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20211002_【RIZIN LANDMARK vol.1】朝倉未来vs萩原.ps7djcK01Xw.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211002_%E3%80%90RIZIN%20LANDMARK%20vol.1%E3%80%91%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5vs%E8%90%A9%E5%8E%9F.ps7djcK01Xw.mp3</link>
+<description>ジョビンチャンネル_20211002_【RIZIN LANDMARK vol.1】朝倉未来vs萩原.ps7djcK01Xw.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211002_%E3%80%90RIZIN%20LANDMARK%20vol.1%E3%80%91%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5vs%E8%90%A9%E5%8E%9F.ps7djcK01Xw.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 03 Oct 2021 16:44:30 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20211002_%E3%80%90RIZIN%20LANDMARK%20vol.1%E3%80%91%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5vs%E8%90%A9%E5%8E%9F.ps7djcK01Xw.mp3" type="audio/mpeg" length="11119005" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210929_【朝倉未来×萩原京平】○○を見るだけで勝敗が分かる！松本晃市.J7HkLtj3LBs.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210929_%E3%80%90%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%C3%97%E8%90%A9%E5%8E%9F%E4%BA%AC%E5%B9%B3%E3%80%91%E2%97%8B%E2%97%8B%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E5%8B%9D%E6%95%97%E3%81%8C%E5%88%86%E3%81%8B%E3%82%8B%EF%BC%81%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82.J7HkLtj3LBs.mp3</link>
+<description>ジョビンチャンネル_20210929_【朝倉未来×萩原京平】○○を見るだけで勝敗が分かる！松本晃市.J7HkLtj3LBs.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210929_%E3%80%90%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%C3%97%E8%90%A9%E5%8E%9F%E4%BA%AC%E5%B9%B3%E3%80%91%E2%97%8B%E2%97%8B%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E5%8B%9D%E6%95%97%E3%81%8C%E5%88%86%E3%81%8B%E3%82%8B%EF%BC%81%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82.J7HkLtj3LBs.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 29 Sep 2021 18:49:33 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210929_%E3%80%90%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%C3%97%E8%90%A9%E5%8E%9F%E4%BA%AC%E5%B9%B3%E3%80%91%E2%97%8B%E2%97%8B%E3%82%92%E8%A6%8B%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E5%8B%9D%E6%95%97%E3%81%8C%E5%88%86%E3%81%8B%E3%82%8B%EF%BC%81%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82.J7HkLtj3LBs.mp3" type="audio/mpeg" length="16636485" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210920_【RIZIN30】元DEEP王者松本晃市郎ことジョビンによる.jbsIj00GV7Y.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210920_%E3%80%90RIZIN30%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.jbsIj00GV7Y.mp3</link>
+<description>ジョビンチャンネル_20210920_【RIZIN30】元DEEP王者松本晃市郎ことジョビンによる.jbsIj00GV7Y.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210920_%E3%80%90RIZIN30%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.jbsIj00GV7Y.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 21 Sep 2021 23:50:08 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210920_%E3%80%90RIZIN30%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.jbsIj00GV7Y.mp3" type="audio/mpeg" length="25328517" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210917_【RIZIN30】元DEEP王者松本晃市郎ことジョビンによる.Sflzw24_Piw.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210917_%E3%80%90RIZIN30%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.Sflzw24_Piw.mp3</link>
+<description>ジョビンチャンネル_20210917_【RIZIN30】元DEEP王者松本晃市郎ことジョビンによる.Sflzw24_Piw.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210917_%E3%80%90RIZIN30%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.Sflzw24_Piw.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 17 Sep 2021 23:54:57 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210917_%E3%80%90RIZIN30%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.Sflzw24_Piw.mp3" type="audio/mpeg" length="23797629" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210904_【ヌルヌル事件】桜庭和志vs秋山成勲を元DEEP王者松本晃市.PX_0qlbvdTo.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210904_%E3%80%90%E3%83%8C%E3%83%AB%E3%83%8C%E3%83%AB%E4%BA%8B%E4%BB%B6%E3%80%91%E6%A1%9C%E5%BA%AD%E5%92%8C%E5%BF%97vs%E7%A7%8B%E5%B1%B1%E6%88%90%E5%8B%B2%E3%82%92%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82.PX_0qlbvdTo.mp3</link>
+<description>ジョビンチャンネル_20210904_【ヌルヌル事件】桜庭和志vs秋山成勲を元DEEP王者松本晃市.PX_0qlbvdTo.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210904_%E3%80%90%E3%83%8C%E3%83%AB%E3%83%8C%E3%83%AB%E4%BA%8B%E4%BB%B6%E3%80%91%E6%A1%9C%E5%BA%AD%E5%92%8C%E5%BF%97vs%E7%A7%8B%E5%B1%B1%E6%88%90%E5%8B%B2%E3%82%92%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82.PX_0qlbvdTo.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 04 Sep 2021 23:07:05 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210904_%E3%80%90%E3%83%8C%E3%83%AB%E3%83%8C%E3%83%AB%E4%BA%8B%E4%BB%B6%E3%80%91%E6%A1%9C%E5%BA%AD%E5%92%8C%E5%BF%97vs%E7%A7%8B%E5%B1%B1%E6%88%90%E5%8B%B2%E3%82%92%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82.PX_0qlbvdTo.mp3" type="audio/mpeg" length="10677213" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210628_【RIZIN29】元DEEP王者松本晃市郎ことジョビンによる.9CYStxufrh0.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210628_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.9CYStxufrh0.mp3</link>
+<description>ジョビンチャンネル_20210628_【RIZIN29】元DEEP王者松本晃市郎ことジョビンによる.9CYStxufrh0.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210628_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.9CYStxufrh0.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 29 Jun 2021 11:28:24 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210628_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.9CYStxufrh0.mp3" type="audio/mpeg" length="17453781" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210626_【RIZIN29】元DEEP王者松本晃市郎ことジョビンによる.PUxX6dYRZRU.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210626_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.PUxX6dYRZRU.mp3</link>
+<description>ジョビンチャンネル_20210626_【RIZIN29】元DEEP王者松本晃市郎ことジョビンによる.PUxX6dYRZRU.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210626_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.PUxX6dYRZRU.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 26 Jun 2021 22:21:09 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210626_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.PUxX6dYRZRU.mp3" type="audio/mpeg" length="24042957" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210614_【RIZIN28】元DEEP王者松本晃市郎ことジョビンによる.Ul6Du5Gj3M8.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210614_%E3%80%90RIZIN28%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.Ul6Du5Gj3M8.mp3</link>
+<description>ジョビンチャンネル_20210614_【RIZIN28】元DEEP王者松本晃市郎ことジョビンによる.Ul6Du5Gj3M8.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210614_%E3%80%90RIZIN28%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.Ul6Du5Gj3M8.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 14 Jun 2021 17:41:41 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210614_%E3%80%90RIZIN28%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.Ul6Du5Gj3M8.mp3" type="audio/mpeg" length="28224333" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210610_【RIZIN28】元DEEP王者松本晃市郎ことジョビンによる.dSsRz-5DGtI.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210610_%E3%80%90RIZIN28%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dSsRz-5DGtI.mp3</link>
+<description>ジョビンチャンネル_20210610_【RIZIN28】元DEEP王者松本晃市郎ことジョビンによる.dSsRz-5DGtI.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210610_%E3%80%90RIZIN28%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dSsRz-5DGtI.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 11 Jun 2021 18:39:26 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210610_%E3%80%90RIZIN28%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dSsRz-5DGtI.mp3" type="audio/mpeg" length="28008813" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20210323_【RIZIN27】元DEEP王者松本晃市郎ことジョビンによる.dYgFh3q-CI8.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210323_%E3%80%90RIZIN27%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dYgFh3q-CI8.mp3</link>
+<description>ジョビンチャンネル_20210323_【RIZIN27】元DEEP王者松本晃市郎ことジョビンによる.dYgFh3q-CI8.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210323_%E3%80%90RIZIN27%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dYgFh3q-CI8.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 24 Mar 2021 03:40:57 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210323_%E3%80%90RIZIN27%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dYgFh3q-CI8.mp3" type="audio/mpeg" length="26494797" />
+</item>
+
+</channel>
+</rss>
