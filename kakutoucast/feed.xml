@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 28 Nov 2021 22:50:24 +0900</lastBuildDate>
+<lastBuildDate>Sun, 28 Nov 2021 23:50:24 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>格闘キャスト_20211128_【RIZIN TRIGGER 1st】 LIVEで一緒に観よ.k_iuefAfA78.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211128_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%20LIVE%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%B3%E3%82%88.k_iuefAfA78.mp3</link>
+<description>格闘キャスト_20211128_【RIZIN TRIGGER 1st】 LIVEで一緒に観よ.k_iuefAfA78.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211128_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%20LIVE%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%B3%E3%82%88.k_iuefAfA78.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 28 Nov 2021 21:09:56 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211128_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%20LIVE%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%B3%E3%82%88.k_iuefAfA78.mp3" type="audio/mpeg" length="15333434" />
+</item>
 
 <item>
 <title>格闘キャスト_20211128_配信再開【RIZIN TRIGGER 1st】 LIVEで一._kl6TE_6kHo.mp3</title>
@@ -40,19 +53,6 @@ Audio files in /home/pi/radio/kakutoucast
 <pubDate>Sun, 28 Nov 2021 19:23:19 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211128_%E5%86%8D%E9%96%8B%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%20LIVE%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB._kl6TE_6kHo.mp3" type="audio/mpeg" length="23298303" />
-</item>
-
-<item>
-<title>格闘キャスト_20211128_【RIZIN TRIGGER 1st】 LIVEで一緒に観よ.k_iuefAfA78.mp3</title>
-<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211128_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%20LIVE%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%B3%E3%82%88.k_iuefAfA78.mp3</link>
-<description>格闘キャスト_20211128_【RIZIN TRIGGER 1st】 LIVEで一緒に観よ.k_iuefAfA78.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211128_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%20LIVE%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%B3%E3%82%88.k_iuefAfA78.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sun, 28 Nov 2021 17:44:27 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211128_%E3%80%90RIZIN%20TRIGGER%201st%E3%80%91%20LIVE%E3%81%A7%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%B3%E3%82%88.k_iuefAfA78.mp3" type="audio/mpeg" length="15333330" />
 </item>
 
 <item>
