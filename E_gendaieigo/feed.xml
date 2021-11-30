@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/E_gendaieigo
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 30 Nov 2021 08:50:04 +0900</lastBuildDate>
+<lastBuildDate>Tue, 30 Nov 2021 09:50:04 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -1080,19 +1080,6 @@ Audio files in /home/pi/radio/E_gendaieigo
 <pubDate>Sun, 29 Nov 2020 12:55:39 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201129.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_gendaieigo_20201128.mp3</title>
-<link>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201128.mp3</link>
-<description>E_gendaieigo_20201128.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201128.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 28 Nov 2020 12:55:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_gendaieigo/E_gendaieigo_20201128.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
 </channel>
