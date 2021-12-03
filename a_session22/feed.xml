@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 03 Dec 2021 14:50:10 +0900</lastBuildDate>
+<lastBuildDate>Fri, 03 Dec 2021 15:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-12-03-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-12-03-15-32.mp3</link>
+<description>radiko_2021-12-03-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-12-03-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 03 Dec 2021 15:35:50 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-12-03-15-32.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>特集「障害者の就労支援の現状と課題」眞保智子×荻上チキ×鈴木厚志×南部広美【コロ.135791.mp3</title>
