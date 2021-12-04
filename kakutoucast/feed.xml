@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 04 Dec 2021 15:50:25 +0900</lastBuildDate>
+<lastBuildDate>Sat, 04 Dec 2021 16:50:25 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>格闘キャスト_20211203_BELLATOR 272 「堀口恭司VS.セルジオ・ぺティス.eqvCEC1uCzo.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211203_BELLATOR%20272%20%E3%80%8C%E5%A0%80%E5%8F%A3%E6%81%AD%E5%8F%B8VS.%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%81%BA%E3%83%86%E3%82%A3%E3%82%B9.eqvCEC1uCzo.mp3</link>
+<description>格闘キャスト_20211203_BELLATOR 272 「堀口恭司VS.セルジオ・ぺティス.eqvCEC1uCzo.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211203_BELLATOR%20272%20%E3%80%8C%E5%A0%80%E5%8F%A3%E6%81%AD%E5%8F%B8VS.%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%81%BA%E3%83%86%E3%82%A3%E3%82%B9.eqvCEC1uCzo.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 04 Dec 2021 14:24:30 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211203_BELLATOR%20272%20%E3%80%8C%E5%A0%80%E5%8F%A3%E6%81%AD%E5%8F%B8VS.%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%81%BA%E3%83%86%E3%82%A3%E3%82%B9.eqvCEC1uCzo.mp3" type="audio/mpeg" length="58770641" />
+</item>
 
 <item>
 <title>格闘キャスト_20211130_RIZIN TRIGGER 1st を終えて、「堀口VSぺテ.ZCFSLuVr508.mp3</title>
