@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 07 Dec 2021 14:50:11 +0900</lastBuildDate>
+<lastBuildDate>Tue, 07 Dec 2021 15:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-12-07-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-12-07-15-32.mp3</link>
+<description>radiko_2021-12-07-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-12-07-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 07 Dec 2021 15:35:40 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-12-07-15-32.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>コロナを克服し、新しい時代を切り開く。岸田総理が所信表明演説【ニュース】解説：T.136134.mp3</title>
