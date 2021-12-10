@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/haruka
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 10 Dec 2021 17:50:20 +0900</lastBuildDate>
+<lastBuildDate>Fri, 10 Dec 2021 18:50:22 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>はるか先生のMMA講座_20211210_第3回はるかアワード 格ヲタ女子のMMA講座.SPBCHkU_HiI.mp3</title>
+<link>http://192.168.11.3/haruka/%E3%81%AF%E3%82%8B%E3%81%8B%E5%85%88%E7%94%9F%E3%81%AEMMA%E8%AC%9B%E5%BA%A7_20211210_%E7%AC%AC3%E5%9B%9E%E3%81%AF%E3%82%8B%E3%81%8B%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%88%E3%82%99%20%E6%A0%BC%E3%83%B2%E3%82%BF%E5%A5%B3%E5%AD%90%E3%81%AEMMA%E8%AC%9B%E5%BA%A7.SPBCHkU_HiI.mp3</link>
+<description>はるか先生のMMA講座_20211210_第3回はるかアワード 格ヲタ女子のMMA講座.SPBCHkU_HiI.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/haruka/%E3%81%AF%E3%82%8B%E3%81%8B%E5%85%88%E7%94%9F%E3%81%AEMMA%E8%AC%9B%E5%BA%A7_20211210_%E7%AC%AC3%E5%9B%9E%E3%81%AF%E3%82%8B%E3%81%8B%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%88%E3%82%99%20%E6%A0%BC%E3%83%B2%E3%82%BF%E5%A5%B3%E5%AD%90%E3%81%AEMMA%E8%AC%9B%E5%BA%A7.SPBCHkU_HiI.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 10 Dec 2021 18:50:20 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/haruka/%E3%81%AF%E3%82%8B%E3%81%8B%E5%85%88%E7%94%9F%E3%81%AEMMA%E8%AC%9B%E5%BA%A7_20211210_%E7%AC%AC3%E5%9B%9E%E3%81%AF%E3%82%8B%E3%81%8B%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%88%E3%82%99%20%E6%A0%BC%E3%83%B2%E3%82%BF%E5%A5%B3%E5%AD%90%E3%81%AEMMA%E8%AC%9B%E5%BA%A7.SPBCHkU_HiI.mp3" type="audio/mpeg" length="16777216" />
+</item>
 
 <item>
 <title>はるか先生のMMA講座_20211208_UFC269 ライト級タイトルマッチ チャールズオリベイ.nA8InuxU3VM.mp3</title>
