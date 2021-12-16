@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/ijuin_shinya_bakajikara
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 16 Dec 2021 08:50:22 +0900</lastBuildDate>
+<lastBuildDate>Thu, 16 Dec 2021 09:50:22 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -417,19 +417,6 @@ Audio files in /home/pi/radio/ijuin_shinya_bakajikara
 <pubDate>Tue, 22 Dec 2020 01:13:42 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/20201222010002.mp3" type="audio/mpeg" length="6700776" />
-</item>
-
-<item>
-<title>20201215010001-TBS.mp3</title>
-<link>http://192.168.11.3/ijuin_shinya_bakajikara/20201215010001-TBS.mp3</link>
-<description>20201215010001-TBS.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/ijuin_shinya_bakajikara/20201215010001-TBS.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 15 Dec 2020 01:13:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/20201215010001-TBS.mp3" type="audio/mpeg" length="6631813" />
 </item>
 
 </channel>
