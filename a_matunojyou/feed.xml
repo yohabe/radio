@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/a_matunojyou
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 20 Dec 2021 08:50:09 +0900</lastBuildDate>
+<lastBuildDate>Mon, 20 Dec 2021 09:50:09 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -599,19 +599,6 @@ Audio files in /home/pi/radio/a_matunojyou
 <pubDate>Fri, 25 Dec 2020 21:43:40 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/a_matunojyou/20201225213002-TBS.mp3" type="audio/mpeg" length="6690536" />
-</item>
-
-<item>
-<title>20201218213001-TBS.mp3</title>
-<link>http://192.168.11.3/a_matunojyou/20201218213001-TBS.mp3</link>
-<description>20201218213001-TBS.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_matunojyou/20201218213001-TBS.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 18 Dec 2020 21:43:34 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/a_matunojyou/20201218213001-TBS.mp3" type="audio/mpeg" length="6638291" />
 </item>
 
 </channel>
