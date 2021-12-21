@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 21 Dec 2021 14:50:10 +0900</lastBuildDate>
+<lastBuildDate>Tue, 21 Dec 2021 15:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-12-21-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2021-12-21-15-32.mp3</link>
+<description>radiko_2021-12-21-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2021-12-21-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 21 Dec 2021 15:35:43 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2021-12-21-15-32.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>香港議会選挙、過去最低の投票率に【ニュース】荻上チキがコメント.137444.mp3</title>
