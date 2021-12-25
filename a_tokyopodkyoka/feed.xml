@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_tokyopodkyoka
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 26 Dec 2021 02:50:16 +0900</lastBuildDate>
+<lastBuildDate>Sun, 26 Dec 2021 03:50:17 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2021-12-26-02-00.mp3</title>
+<link>http://192.168.11.3/a_tokyopodkyoka/radiko_2021-12-26-02-00.mp3</link>
+<description>radiko_2021-12-26-02-00.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_tokyopodkyoka/radiko_2021-12-26-02-00.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 26 Dec 2021 03:14:15 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_tokyopodkyoka/radiko_2021-12-26-02-00.mp3" type="audio/mpeg" length="57600908" />
+</item>
 
 <item>
 <title>radiko_2021-12-19-02-00.mp3</title>
