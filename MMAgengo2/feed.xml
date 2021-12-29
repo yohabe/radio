@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/MMAgengo2
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 30 Dec 2021 01:50:09 +0900</lastBuildDate>
+<lastBuildDate>Thu, 30 Dec 2021 02:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>MMA言語化挑戦中 Voyage GI_20211229_2021忘年会配信.04MjZCbA5o8.mp3</title>
+<link>http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211229_2021%E5%BF%98%E5%B9%B4%E4%BC%9A%E9%85%8D%E4%BF%A1.04MjZCbA5o8.mp3</link>
+<description>MMA言語化挑戦中 Voyage GI_20211229_2021忘年会配信.04MjZCbA5o8.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211229_2021%E5%BF%98%E5%B9%B4%E4%BC%9A%E9%85%8D%E4%BF%A1.04MjZCbA5o8.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 30 Dec 2021 01:54:57 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211229_2021%E5%BF%98%E5%B9%B4%E4%BC%9A%E9%85%8D%E4%BF%A1.04MjZCbA5o8.mp3" type="audio/mpeg" length="25093601" />
+</item>
 
 <item>
 <title>MMA言語化挑戦中 Voyage GI_20211228_忘年会2.fCD9AdgrQQQ.mp3</title>
