@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 01 Jan 2022 13:50:28 +0900</lastBuildDate>
+<lastBuildDate>Sat, 01 Jan 2022 14:50:27 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -24,9 +24,9 @@ Audio files in /home/pi/radio/kakutoucast
 <author></author>
 <guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211231_RIZIN.33%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81.0XT-OyXMqmc.mp3</guid>
 <dc:creator></dc:creator>
-<pubDate>Sat, 01 Jan 2022 13:50:26 +0900</pubDate>
+<pubDate>Sat, 01 Jan 2022 14:50:23 +0900</pubDate>
 
-<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211231_RIZIN.33%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81.0XT-OyXMqmc.mp3" type="audio/mpeg" length="83886080" />
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211231_RIZIN.33%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81.0XT-OyXMqmc.mp3" type="audio/mpeg" length="300417024" />
 </item>
 
 <item>
