@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 03 Jan 2022 19:50:11 +0900</lastBuildDate>
+<lastBuildDate>Mon, 03 Jan 2022 20:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>エシカル消費。企業向けの基準を策定【N検Session】.138650.mp3</title>
+<link>http://192.168.11.3/a_session22/%E3%82%A8%E3%82%B7%E3%82%AB%E3%83%AB%E6%B6%88%E8%B2%BB%E3%80%82%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E5%9F%BA%E6%BA%96%E3%82%92%E7%AD%96%E5%AE%9A%E3%80%90N%E6%A4%9CSession%E3%80%91.138650.mp3</link>
+<description>エシカル消費。企業向けの基準を策定【N検Session】.138650.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E3%82%A8%E3%82%B7%E3%82%AB%E3%83%AB%E6%B6%88%E8%B2%BB%E3%80%82%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E5%9F%BA%E6%BA%96%E3%82%92%E7%AD%96%E5%AE%9A%E3%80%90N%E6%A4%9CSession%E3%80%91.138650.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 03 Jan 2022 20:01:23 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E3%82%A8%E3%82%B7%E3%82%AB%E3%83%AB%E6%B6%88%E8%B2%BB%E3%80%82%E4%BC%81%E6%A5%AD%E5%90%91%E3%81%91%E3%81%AE%E5%9F%BA%E6%BA%96%E3%82%92%E7%AD%96%E5%AE%9A%E3%80%90N%E6%A4%9CSession%E3%80%91.138650.mp3" type="audio/mpeg" length="7915334" />
+</item>
 
 <item>
 <title>radiko_2022-01-03-17-45.mp3</title>
