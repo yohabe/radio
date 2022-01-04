@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/MMAgengo2
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 04 Jan 2022 17:50:08 +0900</lastBuildDate>
+<lastBuildDate>Tue, 04 Jan 2022 18:50:09 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>MMA言語化挑戦中 Voyage GI_20220104_2022年1月4日.FV4LCMQBvDs.mp3</title>
+<link>http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20220104_2022%E5%B9%B41%E6%9C%884%E6%97%A5.FV4LCMQBvDs.mp3</link>
+<description>MMA言語化挑戦中 Voyage GI_20220104_2022年1月4日.FV4LCMQBvDs.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20220104_2022%E5%B9%B41%E6%9C%884%E6%97%A5.FV4LCMQBvDs.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 04 Jan 2022 18:28:08 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20220104_2022%E5%B9%B41%E6%9C%884%E6%97%A5.FV4LCMQBvDs.mp3" type="audio/mpeg" length="9406542" />
+</item>
 
 <item>
 <title>MMA言語化挑戦中 Voyage GI_20220102_【大晦日】RIZIN.33の感想.R5i_itE2ZWc.mp3</title>
