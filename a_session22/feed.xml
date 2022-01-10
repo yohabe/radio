@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 10 Jan 2022 14:50:11 +0900</lastBuildDate>
+<lastBuildDate>Mon, 10 Jan 2022 15:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2022-01-10-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2022-01-10-15-32.mp3</link>
+<description>radiko_2022-01-10-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2022-01-10-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 10 Jan 2022 15:35:40 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2022-01-10-15-32.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>「猫は音を利用して空間を認知する～「音を利用した猫の能力」の紹介」【Screen.139092.mp3</title>
