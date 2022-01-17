@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/E_jissen_business_eigo
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 17 Jan 2022 08:50:05 +0900</lastBuildDate>
+<lastBuildDate>Mon, 17 Jan 2022 09:50:05 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -1340,19 +1340,6 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <pubDate>Wed, 20 Jan 2021 09:30:39 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210120.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_jissen_business_eigo_20210115.mp3</title>
-<link>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210115.mp3</link>
-<description>E_jissen_business_eigo_20210115.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210115.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 15 Jan 2021 09:30:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210115.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
 </channel>
