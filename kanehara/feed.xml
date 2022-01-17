@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+ xmlns:media="http://search.yahoo.com/mrss"
+ version="2.0">
+<channel>
+<ttl>60</ttl>
+<title>kanehara Podcast</title>
+<link>http://192.168.11.3/kanehara</link>
+<description>
+Audio files in /home/pi/radio/kanehara
+</description>
+<language>ja</language>
+<lastBuildDate>Mon, 17 Jan 2022 19:50:28 +0900</lastBuildDate>
+<generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20220114_2022年は矢地君覚醒の年？女子格は戦国時代へ突入！？【RI._1jEq2qE4CM.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220114_2022%E5%B9%B4%E3%81%AF%E7%9F%A2%E5%9C%B0%E5%90%9B%E8%A6%9A%E9%86%92%E3%81%AE%E5%B9%B4%EF%BC%9F%E5%A5%B3%E5%AD%90%E6%A0%BC%E3%81%AF%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3%E3%81%B8%E7%AA%81%E5%85%A5%EF%BC%81%EF%BC%9F%E3%80%90RI._1jEq2qE4CM.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20220114_2022年は矢地君覚醒の年？女子格は戦国時代へ突入！？【RI._1jEq2qE4CM.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220114_2022%E5%B9%B4%E3%81%AF%E7%9F%A2%E5%9C%B0%E5%90%9B%E8%A6%9A%E9%86%92%E3%81%AE%E5%B9%B4%EF%BC%9F%E5%A5%B3%E5%AD%90%E6%A0%BC%E3%81%AF%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3%E3%81%B8%E7%AA%81%E5%85%A5%EF%BC%81%EF%BC%9F%E3%80%90RI._1jEq2qE4CM.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 14 Jan 2022 01:35:10 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220114_2022%E5%B9%B4%E3%81%AF%E7%9F%A2%E5%9C%B0%E5%90%9B%E8%A6%9A%E9%86%92%E3%81%AE%E5%B9%B4%EF%BC%9F%E5%A5%B3%E5%AD%90%E6%A0%BC%E3%81%AF%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3%E3%81%B8%E7%AA%81%E5%85%A5%EF%BC%81%EF%BC%9F%E3%80%90RI._1jEq2qE4CM.mp3" type="audio/mpeg" length="12243875" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20220111_朝倉未来の作戦勝ち？ぶっちゃけ萩原vs.怪物君は〇〇だった！.fbsF5KT23kM.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220111_%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AE%E4%BD%9C%E6%88%A6%E5%8B%9D%E3%81%A1%EF%BC%9F%E3%81%B6%E3%81%A3%E3%81%A1%E3%82%83%E3%81%91%E8%90%A9%E5%8E%9Fvs.%E6%80%AA%E7%89%A9%E5%90%9B%E3%81%AF%E3%80%87%E3%80%87%E3%81%A0%E3%81%A3%E3%81%9F%EF%BC%81.fbsF5KT23kM.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20220111_朝倉未来の作戦勝ち？ぶっちゃけ萩原vs.怪物君は〇〇だった！.fbsF5KT23kM.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220111_%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AE%E4%BD%9C%E6%88%A6%E5%8B%9D%E3%81%A1%EF%BC%9F%E3%81%B6%E3%81%A3%E3%81%A1%E3%82%83%E3%81%91%E8%90%A9%E5%8E%9Fvs.%E6%80%AA%E7%89%A9%E5%90%9B%E3%81%AF%E3%80%87%E3%80%87%E3%81%A0%E3%81%A3%E3%81%9F%EF%BC%81.fbsF5KT23kM.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 11 Jan 2022 11:16:53 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220111_%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AE%E4%BD%9C%E6%88%A6%E5%8B%9D%E3%81%A1%EF%BC%9F%E3%81%B6%E3%81%A3%E3%81%A1%E3%82%83%E3%81%91%E8%90%A9%E5%8E%9Fvs.%E6%80%AA%E7%89%A9%E5%90%9B%E3%81%AF%E3%80%87%E3%80%87%E3%81%A0%E3%81%A3%E3%81%9F%EF%BC%81.fbsF5KT23kM.mp3" type="audio/mpeg" length="13812637" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20220108_2022年最初のライブ！ゲストあり！！.Gku1sBoJD30.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220108_2022%E5%B9%B4%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%EF%BC%81%E3%82%B2%E3%82%B9%E3%83%88%E3%81%82%E3%82%8A%EF%BC%81%EF%BC%81.Gku1sBoJD30.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20220108_2022年最初のライブ！ゲストあり！！.Gku1sBoJD30.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220108_2022%E5%B9%B4%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%EF%BC%81%E3%82%B2%E3%82%B9%E3%83%88%E3%81%82%E3%82%8A%EF%BC%81%EF%BC%81.Gku1sBoJD30.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 08 Jan 2022 18:29:14 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220108_2022%E5%B9%B4%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%EF%BC%81%E3%82%B2%E3%82%B9%E3%83%88%E3%81%82%E3%82%8A%EF%BC%81%EF%BC%81.Gku1sBoJD30.mp3" type="audio/mpeg" length="14056017" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20220107_朝倉海はなぜ勝てなかった？格闘家目線で考察します！【RIZI.Kdhw6ERwnQQ.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220107_%E6%9C%9D%E5%80%89%E6%B5%B7%E3%81%AF%E3%81%AA%E3%81%9C%E5%8B%9D%E3%81%A6%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%EF%BC%9F%E6%A0%BC%E9%97%98%E5%AE%B6%E7%9B%AE%E7%B7%9A%E3%81%A7%E8%80%83%E5%AF%9F%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81%E3%80%90RIZI.Kdhw6ERwnQQ.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20220107_朝倉海はなぜ勝てなかった？格闘家目線で考察します！【RIZI.Kdhw6ERwnQQ.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220107_%E6%9C%9D%E5%80%89%E6%B5%B7%E3%81%AF%E3%81%AA%E3%81%9C%E5%8B%9D%E3%81%A6%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%EF%BC%9F%E6%A0%BC%E9%97%98%E5%AE%B6%E7%9B%AE%E7%B7%9A%E3%81%A7%E8%80%83%E5%AF%9F%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81%E3%80%90RIZI.Kdhw6ERwnQQ.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 08 Jan 2022 02:13:39 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20220107_%E6%9C%9D%E5%80%89%E6%B5%B7%E3%81%AF%E3%81%AA%E3%81%9C%E5%8B%9D%E3%81%A6%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%EF%BC%9F%E6%A0%BC%E9%97%98%E5%AE%B6%E7%9B%AE%E7%B7%9A%E3%81%A7%E8%80%83%E5%AF%9F%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81%E3%80%90RIZI.Kdhw6ERwnQQ.mp3" type="audio/mpeg" length="13943477" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211230_今年最後のライブやります.Xp5t5FmTY10.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211230_%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99.Xp5t5FmTY10.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211230_今年最後のライブやります.Xp5t5FmTY10.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211230_%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99.Xp5t5FmTY10.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 31 Dec 2021 02:42:27 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211230_%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%BE%8C%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99.Xp5t5FmTY10.mp3" type="audio/mpeg" length="19632554" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211226_RIZINから大晦日のオファーはあった？あの噂について喋りま.Se8NdZ4fKGE.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211226_RIZIN%E3%81%8B%E3%82%89%E5%A4%A7%E6%99%A6%E6%97%A5%E3%81%AE%E3%82%AA%E3%83%95%E3%82%A1%E3%83%BC%E3%81%AF%E3%81%82%E3%81%A3%E3%81%9F%EF%BC%9F%E3%81%82%E3%81%AE%E5%99%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%96%8B%E3%82%8A%E3%81%BE.Se8NdZ4fKGE.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211226_RIZINから大晦日のオファーはあった？あの噂について喋りま.Se8NdZ4fKGE.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211226_RIZIN%E3%81%8B%E3%82%89%E5%A4%A7%E6%99%A6%E6%97%A5%E3%81%AE%E3%82%AA%E3%83%95%E3%82%A1%E3%83%BC%E3%81%AF%E3%81%82%E3%81%A3%E3%81%9F%EF%BC%9F%E3%81%82%E3%81%AE%E5%99%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%96%8B%E3%82%8A%E3%81%BE.Se8NdZ4fKGE.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 27 Dec 2021 09:05:16 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211226_RIZIN%E3%81%8B%E3%82%89%E5%A4%A7%E6%99%A6%E6%97%A5%E3%81%AE%E3%82%AA%E3%83%95%E3%82%A1%E3%83%BC%E3%81%AF%E3%81%82%E3%81%A3%E3%81%9F%EF%BC%9F%E3%81%82%E3%81%AE%E5%99%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%96%8B%E3%82%8A%E3%81%BE.Se8NdZ4fKGE.mp3" type="audio/mpeg" length="8347653" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211221_アメリカ帰りの平本蓮は最強なのか？アメリカ修行について語りま.RKRJs1wFMog.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211221_%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%B8%B0%E3%82%8A%E3%81%AE%E5%B9%B3%E6%9C%AC%E8%93%AE%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%BF%AE%E8%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8A%E3%81%BE.RKRJs1wFMog.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211221_アメリカ帰りの平本蓮は最強なのか？アメリカ修行について語りま.RKRJs1wFMog.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211221_%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%B8%B0%E3%82%8A%E3%81%AE%E5%B9%B3%E6%9C%AC%E8%93%AE%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%BF%AE%E8%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8A%E3%81%BE.RKRJs1wFMog.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 21 Dec 2021 21:21:27 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211221_%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%B8%B0%E3%82%8A%E3%81%AE%E5%B9%B3%E6%9C%AC%E8%93%AE%E3%81%AF%E6%9C%80%E5%BC%B7%E3%81%AA%E3%81%AE%E3%81%8B%EF%BC%9F%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E4%BF%AE%E8%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8A%E3%81%BE.RKRJs1wFMog.mp3" type="audio/mpeg" length="15492667" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211213_大晦日のジンクスを崩せるか？バンタム級トーナメントの試合展開.-2sYfUKYsU4.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211213_%E5%A4%A7%E6%99%A6%E6%97%A5%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%AF%E3%82%B9%E3%82%92%E5%B4%A9%E3%81%9B%E3%82%8B%E3%81%8B%EF%BC%9F%E3%83%90%E3%83%B3%E3%82%BF%E3%83%A0%E7%B4%9A%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E8%A9%A6%E5%90%88%E5%B1%95%E9%96%8B.-2sYfUKYsU4.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211213_大晦日のジンクスを崩せるか？バンタム級トーナメントの試合展開.-2sYfUKYsU4.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211213_%E5%A4%A7%E6%99%A6%E6%97%A5%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%AF%E3%82%B9%E3%82%92%E5%B4%A9%E3%81%9B%E3%82%8B%E3%81%8B%EF%BC%9F%E3%83%90%E3%83%B3%E3%82%BF%E3%83%A0%E7%B4%9A%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E8%A9%A6%E5%90%88%E5%B1%95%E9%96%8B.-2sYfUKYsU4.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 14 Dec 2021 13:30:10 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211213_%E5%A4%A7%E6%99%A6%E6%97%A5%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%AF%E3%82%B9%E3%82%92%E5%B4%A9%E3%81%9B%E3%82%8B%E3%81%8B%EF%BC%9F%E3%83%90%E3%83%B3%E3%82%BF%E3%83%A0%E7%B4%9A%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E8%A9%A6%E5%90%88%E5%B1%95%E9%96%8B.-2sYfUKYsU4.mp3" type="audio/mpeg" length="10917444" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211211_RIZIN33追加カード展開予想！朝倉未来の怪我と矢地祐介の.AKcYAWlEsQs.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211211_RIZIN33%E8%BF%BD%E5%8A%A0%E3%82%AB%E3%83%BC%E3%83%89%E5%B1%95%E9%96%8B%E4%BA%88%E6%83%B3%EF%BC%81%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%80%AA%E6%88%91%E3%81%A8%E7%9F%A2%E5%9C%B0%E7%A5%90%E4%BB%8B%E3%81%AE.AKcYAWlEsQs.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211211_RIZIN33追加カード展開予想！朝倉未来の怪我と矢地祐介の.AKcYAWlEsQs.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211211_RIZIN33%E8%BF%BD%E5%8A%A0%E3%82%AB%E3%83%BC%E3%83%89%E5%B1%95%E9%96%8B%E4%BA%88%E6%83%B3%EF%BC%81%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%80%AA%E6%88%91%E3%81%A8%E7%9F%A2%E5%9C%B0%E7%A5%90%E4%BB%8B%E3%81%AE.AKcYAWlEsQs.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 12 Dec 2021 00:15:26 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211211_RIZIN33%E8%BF%BD%E5%8A%A0%E3%82%AB%E3%83%BC%E3%83%89%E5%B1%95%E9%96%8B%E4%BA%88%E6%83%B3%EF%BC%81%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5%E3%81%AE%E6%80%AA%E6%88%91%E3%81%A8%E7%9F%A2%E5%9C%B0%E7%A5%90%E4%BB%8B%E3%81%AE.AKcYAWlEsQs.mp3" type="audio/mpeg" length="11542610" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211209_勝手にベストバウトランキング！1位はあの試合！RIZIN32.t8G0uJFvtsY.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211209_%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%99%E3%82%B9%E3%83%88%E3%83%90%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%EF%BC%811%E4%BD%8D%E3%81%AF%E3%81%82%E3%81%AE%E8%A9%A6%E5%90%88%EF%BC%81RIZIN32.t8G0uJFvtsY.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211209_勝手にベストバウトランキング！1位はあの試合！RIZIN32.t8G0uJFvtsY.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211209_%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%99%E3%82%B9%E3%83%88%E3%83%90%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%EF%BC%811%E4%BD%8D%E3%81%AF%E3%81%82%E3%81%AE%E8%A9%A6%E5%90%88%EF%BC%81RIZIN32.t8G0uJFvtsY.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 09 Dec 2021 20:07:37 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211209_%E5%8B%9D%E6%89%8B%E3%81%AB%E3%83%99%E3%82%B9%E3%83%88%E3%83%90%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%EF%BC%811%E4%BD%8D%E3%81%AF%E3%81%82%E3%81%AE%E8%A9%A6%E5%90%88%EF%BC%81RIZIN32.t8G0uJFvtsY.mp3" type="audio/mpeg" length="14842736" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211124_緊急参戦！！中田大貴ってどんな選手！？よく知る2人と萩原京平.OZ6ZORXkcSE.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211124_%E7%B7%8A%E6%80%A5%E5%8F%82%E6%88%A6%EF%BC%81%EF%BC%81%E4%B8%AD%E7%94%B0%E5%A4%A7%E8%B2%B4%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E9%81%B8%E6%89%8B%EF%BC%81%EF%BC%9F%E3%82%88%E3%81%8F%E7%9F%A5%E3%82%8B2%E4%BA%BA%E3%81%A8%E8%90%A9%E5%8E%9F%E4%BA%AC%E5%B9%B3.OZ6ZORXkcSE.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211124_緊急参戦！！中田大貴ってどんな選手！？よく知る2人と萩原京平.OZ6ZORXkcSE.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211124_%E7%B7%8A%E6%80%A5%E5%8F%82%E6%88%A6%EF%BC%81%EF%BC%81%E4%B8%AD%E7%94%B0%E5%A4%A7%E8%B2%B4%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E9%81%B8%E6%89%8B%EF%BC%81%EF%BC%9F%E3%82%88%E3%81%8F%E7%9F%A5%E3%82%8B2%E4%BA%BA%E3%81%A8%E8%90%A9%E5%8E%9F%E4%BA%AC%E5%B9%B3.OZ6ZORXkcSE.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 28 Nov 2021 23:53:51 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211124_%E7%B7%8A%E6%80%A5%E5%8F%82%E6%88%A6%EF%BC%81%EF%BC%81%E4%B8%AD%E7%94%B0%E5%A4%A7%E8%B2%B4%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E9%81%B8%E6%89%8B%EF%BC%81%EF%BC%9F%E3%82%88%E3%81%8F%E7%9F%A5%E3%82%8B2%E4%BA%BA%E3%81%A8%E8%90%A9%E5%8E%9F%E4%BA%AC%E5%B9%B3.OZ6ZORXkcSE.mp3" type="audio/mpeg" length="13369269" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211127_大会直前！ケージの試合はここに注目！【RIZIN TRIGG.VVwt1sr87tI.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211127_%E5%A4%A7%E4%BC%9A%E7%9B%B4%E5%89%8D%EF%BC%81%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E8%A9%A6%E5%90%88%E3%81%AF%E3%81%93%E3%81%93%E3%81%AB%E6%B3%A8%E7%9B%AE%EF%BC%81%E3%80%90RIZIN%20TRIGG.VVwt1sr87tI.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211127_大会直前！ケージの試合はここに注目！【RIZIN TRIGG.VVwt1sr87tI.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211127_%E5%A4%A7%E4%BC%9A%E7%9B%B4%E5%89%8D%EF%BC%81%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E8%A9%A6%E5%90%88%E3%81%AF%E3%81%93%E3%81%93%E3%81%AB%E6%B3%A8%E7%9B%AE%EF%BC%81%E3%80%90RIZIN%20TRIGG.VVwt1sr87tI.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 27 Nov 2021 21:25:07 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211127_%E5%A4%A7%E4%BC%9A%E7%9B%B4%E5%89%8D%EF%BC%81%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E8%A9%A6%E5%90%88%E3%81%AF%E3%81%93%E3%81%93%E3%81%AB%E6%B3%A8%E7%9B%AE%EF%BC%81%E3%80%90RIZIN%20TRIGG.VVwt1sr87tI.mp3" type="audio/mpeg" length="10829973" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211119_試合直前！絶対にするべき事とは？正しい作戦の立て方教えます＃.TAVd31pzy5U.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211119_%E8%A9%A6%E5%90%88%E7%9B%B4%E5%89%8D%EF%BC%81%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%B9%E3%81%8D%E4%BA%8B%E3%81%A8%E3%81%AF%EF%BC%9F%E6%AD%A3%E3%81%97%E3%81%84%E4%BD%9C%E6%88%A6%E3%81%AE%E7%AB%8B%E3%81%A6%E6%96%B9%E6%95%99%E3%81%88%E3%81%BE%E3%81%99%EF%BC%83.TAVd31pzy5U.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211119_試合直前！絶対にするべき事とは？正しい作戦の立て方教えます＃.TAVd31pzy5U.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211119_%E8%A9%A6%E5%90%88%E7%9B%B4%E5%89%8D%EF%BC%81%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%B9%E3%81%8D%E4%BA%8B%E3%81%A8%E3%81%AF%EF%BC%9F%E6%AD%A3%E3%81%97%E3%81%84%E4%BD%9C%E6%88%A6%E3%81%AE%E7%AB%8B%E3%81%A6%E6%96%B9%E6%95%99%E3%81%88%E3%81%BE%E3%81%99%EF%BC%83.TAVd31pzy5U.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 18 Nov 2021 15:38:39 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211119_%E8%A9%A6%E5%90%88%E7%9B%B4%E5%89%8D%EF%BC%81%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%B9%E3%81%8D%E4%BA%8B%E3%81%A8%E3%81%AF%EF%BC%9F%E6%AD%A3%E3%81%97%E3%81%84%E4%BD%9C%E6%88%A6%E3%81%AE%E7%AB%8B%E3%81%A6%E6%96%B9%E6%95%99%E3%81%88%E3%81%BE%E3%81%99%EF%BC%83.TAVd31pzy5U.mp3" type="audio/mpeg" length="9170816" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211116_RIZIN32の見どころを解説しました！金原を負かしたあの選.jd3hzBQB9u0.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211116_RIZIN32%E3%81%AE%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%E3%82%92%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81%E9%87%91%E5%8E%9F%E3%82%92%E8%B2%A0%E3%81%8B%E3%81%97%E3%81%9F%E3%81%82%E3%81%AE%E9%81%B8.jd3hzBQB9u0.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211116_RIZIN32の見どころを解説しました！金原を負かしたあの選.jd3hzBQB9u0.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211116_RIZIN32%E3%81%AE%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%E3%82%92%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81%E9%87%91%E5%8E%9F%E3%82%92%E8%B2%A0%E3%81%8B%E3%81%97%E3%81%9F%E3%81%82%E3%81%AE%E9%81%B8.jd3hzBQB9u0.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 16 Nov 2021 20:42:16 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211116_RIZIN32%E3%81%AE%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%E3%82%92%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81%E9%87%91%E5%8E%9F%E3%82%92%E8%B2%A0%E3%81%8B%E3%81%97%E3%81%9F%E3%81%82%E3%81%AE%E9%81%B8.jd3hzBQB9u0.mp3" type="audio/mpeg" length="8267385" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211115_正しい知識ありますか？ダイエットや減量に必要な情報伝えます！.5i_60YzXR70.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211115_%E6%AD%A3%E3%81%97%E3%81%84%E7%9F%A5%E8%AD%98%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%82%84%E6%B8%9B%E9%87%8F%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E6%83%85%E5%A0%B1%E4%BC%9D%E3%81%88%E3%81%BE%E3%81%99%EF%BC%81.5i_60YzXR70.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211115_正しい知識ありますか？ダイエットや減量に必要な情報伝えます！.5i_60YzXR70.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211115_%E6%AD%A3%E3%81%97%E3%81%84%E7%9F%A5%E8%AD%98%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%82%84%E6%B8%9B%E9%87%8F%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E6%83%85%E5%A0%B1%E4%BC%9D%E3%81%88%E3%81%BE%E3%81%99%EF%BC%81.5i_60YzXR70.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 15 Nov 2021 21:05:47 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211115_%E6%AD%A3%E3%81%97%E3%81%84%E7%9F%A5%E8%AD%98%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%82%84%E6%B8%9B%E9%87%8F%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E6%83%85%E5%A0%B1%E4%BC%9D%E3%81%88%E3%81%BE%E3%81%99%EF%BC%81.5i_60YzXR70.mp3" type="audio/mpeg" length="16447809" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211112_【閲覧注意】格闘家を裏切るとこうなります.CksLL2YN6NQ.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211112_%E3%80%90%E9%96%B2%E8%A6%A7%E6%B3%A8%E6%84%8F%E3%80%91%E6%A0%BC%E9%97%98%E5%AE%B6%E3%82%92%E8%A3%8F%E5%88%87%E3%82%8B%E3%81%A8%E3%81%93%E3%81%86%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99.CksLL2YN6NQ.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211112_【閲覧注意】格闘家を裏切るとこうなります.CksLL2YN6NQ.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211112_%E3%80%90%E9%96%B2%E8%A6%A7%E6%B3%A8%E6%84%8F%E3%80%91%E6%A0%BC%E9%97%98%E5%AE%B6%E3%82%92%E8%A3%8F%E5%88%87%E3%82%8B%E3%81%A8%E3%81%93%E3%81%86%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99.CksLL2YN6NQ.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 13 Nov 2021 09:08:55 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211112_%E3%80%90%E9%96%B2%E8%A6%A7%E6%B3%A8%E6%84%8F%E3%80%91%E6%A0%BC%E9%97%98%E5%AE%B6%E3%82%92%E8%A3%8F%E5%88%87%E3%82%8B%E3%81%A8%E3%81%93%E3%81%86%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99.CksLL2YN6NQ.mp3" type="audio/mpeg" length="12193262" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211110_過酷な減量経験から語る！絶対的な間違いを教えます！#MMA学.8Z26UxQnUsw.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211110_%E9%81%8E%E9%85%B7%E3%81%AA%E6%B8%9B%E9%87%8F%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E8%AA%9E%E3%82%8B%EF%BC%81%E7%B5%B6%E5%AF%BE%E7%9A%84%E3%81%AA%E9%96%93%E9%81%95%E3%81%84%E3%82%92%E6%95%99%E3%81%88%E3%81%BE%E3%81%99%EF%BC%81%23MMA%E5%AD%A6.8Z26UxQnUsw.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211110_過酷な減量経験から語る！絶対的な間違いを教えます！#MMA学.8Z26UxQnUsw.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211110_%E9%81%8E%E9%85%B7%E3%81%AA%E6%B8%9B%E9%87%8F%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E8%AA%9E%E3%82%8B%EF%BC%81%E7%B5%B6%E5%AF%BE%E7%9A%84%E3%81%AA%E9%96%93%E9%81%95%E3%81%84%E3%82%92%E6%95%99%E3%81%88%E3%81%BE%E3%81%99%EF%BC%81%23MMA%E5%AD%A6.8Z26UxQnUsw.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 10 Nov 2021 21:08:59 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211110_%E9%81%8E%E9%85%B7%E3%81%AA%E6%B8%9B%E9%87%8F%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E8%AA%9E%E3%82%8B%EF%BC%81%E7%B5%B6%E5%AF%BE%E7%9A%84%E3%81%AA%E9%96%93%E9%81%95%E3%81%84%E3%82%92%E6%95%99%E3%81%88%E3%81%BE%E3%81%99%EF%BC%81%23MMA%E5%AD%A6.8Z26UxQnUsw.mp3" type="audio/mpeg" length="9897387" />
+</item>
+
+<item>
+<title>Kanehara Masanori no kinchanTV_20211107_２１時から久しぶりにライブやります！.BGwymbzaw-8.mp3</title>
+<link>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211107_%EF%BC%92%EF%BC%91%E6%99%82%E3%81%8B%E3%82%89%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AB%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99%EF%BC%81.BGwymbzaw-8.mp3</link>
+<description>Kanehara Masanori no kinchanTV_20211107_２１時から久しぶりにライブやります！.BGwymbzaw-8.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211107_%EF%BC%92%EF%BC%91%E6%99%82%E3%81%8B%E3%82%89%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AB%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99%EF%BC%81.BGwymbzaw-8.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 08 Nov 2021 05:23:48 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kanehara/Kanehara%20Masanori%20no%20kinchanTV_20211107_%EF%BC%92%EF%BC%91%E6%99%82%E3%81%8B%E3%82%89%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AB%E3%83%A9%E3%82%A4%E3%83%96%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99%EF%BC%81.BGwymbzaw-8.mp3" type="audio/mpeg" length="30371525" />
+</item>
+
+</channel>
+</rss>
