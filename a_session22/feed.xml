@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 24 Jan 2022 20:50:11 +0900</lastBuildDate>
+<lastBuildDate>Mon, 24 Jan 2022 21:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>2022年1月24日（月）ニュース.142420.mp3</title>
+<link>http://192.168.11.3/a_session22/2022%E5%B9%B41%E6%9C%8824%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.142420.mp3</link>
+<description>2022年1月24日（月）ニュース.142420.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2022%E5%B9%B41%E6%9C%8824%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.142420.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 24 Jan 2022 21:01:52 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2022%E5%B9%B41%E6%9C%8824%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.142420.mp3" type="audio/mpeg" length="6246854" />
+</item>
 
 <item>
 <title>思いやり予算、増額で合意【N検Session】.142416.mp3</title>
