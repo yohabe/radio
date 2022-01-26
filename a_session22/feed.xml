@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 26 Jan 2022 19:50:11 +0900</lastBuildDate>
+<lastBuildDate>Wed, 26 Jan 2022 20:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>【Yahoo!ニュースvoiceinSession】大久保佳代子.142611.mp3</title>
+<link>http://192.168.11.3/a_session22/%E3%80%90Yahoo!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9voiceinSession%E3%80%91%E5%A4%A7%E4%B9%85%E4%BF%9D%E4%BD%B3%E4%BB%A3%E5%AD%90.142611.mp3</link>
+<description>【Yahoo!ニュースvoiceinSession】大久保佳代子.142611.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E3%80%90Yahoo!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9voiceinSession%E3%80%91%E5%A4%A7%E4%B9%85%E4%BF%9D%E4%BD%B3%E4%BB%A3%E5%AD%90.142611.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 26 Jan 2022 20:03:23 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E3%80%90Yahoo!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9voiceinSession%E3%80%91%E5%A4%A7%E4%B9%85%E4%BF%9D%E4%BD%B3%E4%BB%A3%E5%AD%90.142611.mp3" type="audio/mpeg" length="13317446" />
+</item>
 
 <item>
 <title>特集「緊迫化か!?いま、ウクライナをめぐり何が起きているのか？」服部倫卓×荻上チ.142604.mp3</title>
