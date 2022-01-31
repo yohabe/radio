@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 31 Jan 2022 18:50:10 +0900</lastBuildDate>
+<lastBuildDate>Mon, 31 Jan 2022 19:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>新型コロナの影響で臓器移植が減少【N検Session】.143026.mp3</title>
+<link>http://192.168.11.3/a_session22/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%A7%E8%87%93%E5%99%A8%E7%A7%BB%E6%A4%8D%E3%81%8C%E6%B8%9B%E5%B0%91%E3%80%90N%E6%A4%9CSession%E3%80%91.143026.mp3</link>
+<description>新型コロナの影響で臓器移植が減少【N検Session】.143026.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%A7%E8%87%93%E5%99%A8%E7%A7%BB%E6%A4%8D%E3%81%8C%E6%B8%9B%E5%B0%91%E3%80%90N%E6%A4%9CSession%E3%80%91.143026.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 31 Jan 2022 19:02:12 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%A7%E8%87%93%E5%99%A8%E7%A7%BB%E6%A4%8D%E3%81%8C%E6%B8%9B%E5%B0%91%E3%80%90N%E6%A4%9CSession%E3%80%91.143026.mp3" type="audio/mpeg" length="8112326" />
+</item>
 
 <item>
 <title>radiko_2022-01-31-17-45.mp3</title>
