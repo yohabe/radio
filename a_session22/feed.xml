@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 09 Feb 2022 21:50:11 +0900</lastBuildDate>
+<lastBuildDate>Wed, 09 Feb 2022 22:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>【Yahoo!ニュースvoiceinSession】室井滋.143885.mp3</title>
+<link>http://192.168.11.3/a_session22/%E3%80%90Yahoo!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9voiceinSession%E3%80%91%E5%AE%A4%E4%BA%95%E6%BB%8B.143885.mp3</link>
+<description>【Yahoo!ニュースvoiceinSession】室井滋.143885.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E3%80%90Yahoo!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9voiceinSession%E3%80%91%E5%AE%A4%E4%BA%95%E6%BB%8B.143885.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 09 Feb 2022 22:03:45 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E3%80%90Yahoo!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9voiceinSession%E3%80%91%E5%AE%A4%E4%BA%95%E6%BB%8B.143885.mp3" type="audio/mpeg" length="14747846" />
+</item>
 
 <item>
 <title>特集「新型コロナ禍であらためて浮き彫りとなった日米地位協定の課題と、これから必要.143881.mp3</title>
