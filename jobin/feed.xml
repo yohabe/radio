@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 27 Feb 2022 18:50:26 +0900</lastBuildDate>
+<lastBuildDate>Sun, 27 Feb 2022 19:50:27 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ジョビンチャンネル_20220227_【RIZIN LANDMARK vol.2】キックからMMA.S4arxa5Aq3g.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220227_%E3%80%90RIZIN%20LANDMARK%20vol.2%E3%80%91%E3%82%AD%E3%83%83%E3%82%AF%E3%81%8B%E3%82%89MMA.S4arxa5Aq3g.mp3</link>
+<description>ジョビンチャンネル_20220227_【RIZIN LANDMARK vol.2】キックからMMA.S4arxa5Aq3g.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220227_%E3%80%90RIZIN%20LANDMARK%20vol.2%E3%80%91%E3%82%AD%E3%83%83%E3%82%AF%E3%81%8B%E3%82%89MMA.S4arxa5Aq3g.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 27 Feb 2022 18:19:49 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220227_%E3%80%90RIZIN%20LANDMARK%20vol.2%E3%80%91%E3%82%AD%E3%83%83%E3%82%AF%E3%81%8B%E3%82%89MMA.S4arxa5Aq3g.mp3" type="audio/mpeg" length="16952517" />
+</item>
 
 <item>
 <title>ジョビンチャンネル_20220226_【ジョビンテクニック】魔法のタックルの入り方講座。.m07-I57WenA.mp3</title>
