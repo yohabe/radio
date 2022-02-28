@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 28 Feb 2022 08:50:37 +0900</lastBuildDate>
+<lastBuildDate>Mon, 28 Feb 2022 09:50:37 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -378,19 +378,6 @@ Audio files in /home/pi/radio/mygame
 <pubDate>Sat, 06 Mar 2021 01:07:39 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/mygame/%E7%AC%AC205%E5%9B%9E.108510.mp3" type="audio/mpeg" length="42840896" />
-</item>
-
-<item>
-<title>第204回：内田敦子さん後編.108087.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC204%E5%9B%9E%EF%BC%9A%E5%86%85%E7%94%B0%E6%95%A6%E5%AD%90%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.108087.mp3</link>
-<description>第204回：内田敦子さん後編.108087.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC204%E5%9B%9E%EF%BC%9A%E5%86%85%E7%94%B0%E6%95%A6%E5%AD%90%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.108087.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 27 Feb 2021 01:26:04 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC204%E5%9B%9E%EF%BC%9A%E5%86%85%E7%94%B0%E6%95%A6%E5%AD%90%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.108087.mp3" type="audio/mpeg" length="67048640" />
 </item>
 
 </channel>
