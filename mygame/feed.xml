@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 07 Mar 2022 08:50:38 +0900</lastBuildDate>
+<lastBuildDate>Mon, 07 Mar 2022 09:50:38 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -365,19 +365,6 @@ Audio files in /home/pi/radio/mygame
 <pubDate>Tue, 16 Mar 2021 01:07:27 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/mygame/%E7%AC%AC206%E5%9B%9E%EF%BC%9Asumika%E3%81%AE%E7%89%87%E5%B2%A1%E5%81%A5%E5%A4%AA%E3%81%95%E3%82%93%E3%80%81%E6%9C%9D4%E6%99%82%E3%81%ABw-inds.%E3%81%AE%E6%A9%98%E6%85%B6%E5%A4%AA%E3%81%95%E3%82%93%E3%81%ABDb.109729.mp3" type="audio/mpeg" length="42819776" />
-</item>
-
-<item>
-<title>第205回.108510.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC205%E5%9B%9E.108510.mp3</link>
-<description>第205回.108510.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC205%E5%9B%9E.108510.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 06 Mar 2021 01:07:39 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC205%E5%9B%9E.108510.mp3" type="audio/mpeg" length="42840896" />
 </item>
 
 </channel>
