@@ -13,20 +13,20 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 10 Mar 2022 12:50:32 +0900</lastBuildDate>
+<lastBuildDate>Thu, 10 Mar 2022 13:50:33 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
-<title>格闘キャスト_20220122_UFC 270 を一緒に見よう！ Feat. 細川バレンタイ.8-0xo7EpFOk.mp3</title>
-<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220122_UFC%20270%20%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%8B%E3%82%88%E3%81%86%EF%BC%81%20Feat.%20%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4.8-0xo7EpFOk.mp3</link>
-<description>格闘キャスト_20220122_UFC 270 を一緒に見よう！ Feat. 細川バレンタイ.8-0xo7EpFOk.mp3</description>
+<title>格闘キャスト_20211231_RIZIN.33を一緒にみよう！.0XT-OyXMqmc.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211231_RIZIN.33%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81.0XT-OyXMqmc.mp3</link>
+<description>格闘キャスト_20211231_RIZIN.33を一緒にみよう！.0XT-OyXMqmc.mp3</description>
 <itunes:author></itunes:author>
 <author></author>
-<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220122_UFC%20270%20%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%8B%E3%82%88%E3%81%86%EF%BC%81%20Feat.%20%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4.8-0xo7EpFOk.mp3</guid>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211231_RIZIN.33%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81.0XT-OyXMqmc.mp3</guid>
 <dc:creator></dc:creator>
-<pubDate>Thu, 10 Mar 2022 12:50:28 +0900</pubDate>
+<pubDate>Thu, 10 Mar 2022 13:50:32 +0900</pubDate>
 
-<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220122_UFC%20270%20%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%8B%E3%82%88%E3%81%86%EF%BC%81%20Feat.%20%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4.8-0xo7EpFOk.mp3" type="audio/mpeg" length="116129792" />
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20211231_RIZIN.33%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%BF%E3%82%88%E3%81%86%EF%BC%81.0XT-OyXMqmc.mp3" type="audio/mpeg" length="160169984" />
 </item>
 
 <item>
@@ -144,6 +144,19 @@ Audio files in /home/pi/radio/kakutoucast
 <pubDate>Sun, 06 Feb 2022 15:21:55 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220206_UFC%20270%E3%82%92%E7%B5%82%E3%81%88%E3%81%A6%EF%BD%9CUFC%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%83%9E%E3%83%8D%E3%83%BC%E9%A8%92%E3%81%8E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BD%9C.Cm1I9jdpQl4.mp3" type="audio/mpeg" length="47379971" />
+</item>
+
+<item>
+<title>格闘キャスト_20220122_UFC 270 を一緒に見よう！ Feat. 細川バレンタイ.8-0xo7EpFOk.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220122_UFC%20270%20%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%8B%E3%82%88%E3%81%86%EF%BC%81%20Feat.%20%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4.8-0xo7EpFOk.mp3</link>
+<description>格闘キャスト_20220122_UFC 270 を一緒に見よう！ Feat. 細川バレンタイ.8-0xo7EpFOk.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220122_UFC%20270%20%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%8B%E3%82%88%E3%81%86%EF%BC%81%20Feat.%20%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4.8-0xo7EpFOk.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 28 Jan 2022 16:44:33 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220122_UFC%20270%20%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E8%A6%8B%E3%82%88%E3%81%86%EF%BC%81%20Feat.%20%E7%B4%B0%E5%B7%9D%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4.8-0xo7EpFOk.mp3" type="audio/mpeg" length="117437598" />
 </item>
 
 <item>
