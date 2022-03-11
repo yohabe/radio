@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 11 Mar 2022 19:50:11 +0900</lastBuildDate>
+<lastBuildDate>Fri, 11 Mar 2022 20:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>「蚊の繁殖に音が関係する～「マラリアと音」を考える【ScreenlessMedi.147004.mp3</title>
+<link>http://192.168.11.3/a_session22/%E3%80%8C%E8%9A%8A%E3%81%AE%E7%B9%81%E6%AE%96%E3%81%AB%E9%9F%B3%E3%81%8C%E9%96%A2%E4%BF%82%E3%81%99%E3%82%8B%EF%BD%9E%E3%80%8C%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%A8%E9%9F%B3%E3%80%8D%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E3%80%90ScreenlessMedi.147004.mp3</link>
+<description>「蚊の繁殖に音が関係する～「マラリアと音」を考える【ScreenlessMedi.147004.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/%E3%80%8C%E8%9A%8A%E3%81%AE%E7%B9%81%E6%AE%96%E3%81%AB%E9%9F%B3%E3%81%8C%E9%96%A2%E4%BF%82%E3%81%99%E3%82%8B%EF%BD%9E%E3%80%8C%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%A8%E9%9F%B3%E3%80%8D%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E3%80%90ScreenlessMedi.147004.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 11 Mar 2022 20:03:22 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/%E3%80%8C%E8%9A%8A%E3%81%AE%E7%B9%81%E6%AE%96%E3%81%AB%E9%9F%B3%E3%81%8C%E9%96%A2%E4%BF%82%E3%81%99%E3%82%8B%EF%BD%9E%E3%80%8C%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%A8%E9%9F%B3%E3%80%8D%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E3%80%90ScreenlessMedi.147004.mp3" type="audio/mpeg" length="9000134" />
+</item>
+
+<item>
+<title>2022年3月11日（金）ニュース.147003.mp3</title>
+<link>http://192.168.11.3/a_session22/2022%E5%B9%B43%E6%9C%8811%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.147003.mp3</link>
+<description>2022年3月11日（金）ニュース.147003.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2022%E5%B9%B43%E6%9C%8811%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.147003.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 11 Mar 2022 20:01:40 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2022%E5%B9%B43%E6%9C%8811%E6%97%A5%EF%BC%88%E9%87%91%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.147003.mp3" type="audio/mpeg" length="8499782" />
+</item>
 
 <item>
 <title>radiko_2022-03-11-17-45.mp3</title>
