@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 24 Mar 2022 20:50:11 +0900</lastBuildDate>
+<lastBuildDate>Thu, 24 Mar 2022 21:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>2022年3月24日（木）ニュース.156331.mp3</title>
+<link>http://192.168.11.3/a_session22/2022%E5%B9%B43%E6%9C%8824%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.156331.mp3</link>
+<description>2022年3月24日（木）ニュース.156331.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2022%E5%B9%B43%E6%9C%8824%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.156331.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 24 Mar 2022 21:00:51 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2022%E5%B9%B43%E6%9C%8824%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.156331.mp3" type="audio/mpeg" length="4150598" />
+</item>
 
 <item>
 <title>radiko_2022-03-24-17-45.mp3</title>
