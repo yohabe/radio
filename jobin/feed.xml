@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 25 Mar 2022 08:50:27 +0900</lastBuildDate>
+<lastBuildDate>Fri, 25 Mar 2022 09:50:27 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -729,19 +729,6 @@ Audio files in /home/pi/radio/jobin
 <pubDate>Fri, 11 Jun 2021 18:39:26 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210610_%E3%80%90RIZIN28%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dSsRz-5DGtI.mp3" type="audio/mpeg" length="28008813" />
-</item>
-
-<item>
-<title>ジョビンチャンネル_20210323_【RIZIN27】元DEEP王者松本晃市郎ことジョビンによる.dYgFh3q-CI8.mp3</title>
-<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210323_%E3%80%90RIZIN27%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dYgFh3q-CI8.mp3</link>
-<description>ジョビンチャンネル_20210323_【RIZIN27】元DEEP王者松本晃市郎ことジョビンによる.dYgFh3q-CI8.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210323_%E3%80%90RIZIN27%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dYgFh3q-CI8.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Wed, 24 Mar 2021 03:40:57 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210323_%E3%80%90RIZIN27%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.dYgFh3q-CI8.mp3" type="audio/mpeg" length="26494797" />
 </item>
 
 </channel>
