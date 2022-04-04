@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 04 Apr 2022 14:50:10 +0900</lastBuildDate>
+<lastBuildDate>Mon, 04 Apr 2022 15:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2022-04-04-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2022-04-04-15-32.mp3</link>
+<description>radiko_2022-04-04-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2022-04-04-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 04 Apr 2022 15:35:44 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2022-04-04-15-32.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>「睡眠時に聞こえる音は脳はどのように判断するのか～『K複合波』を考える」【Scr.161999.mp3</title>
