@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 18 Apr 2022 08:50:40 +0900</lastBuildDate>
+<lastBuildDate>Mon, 18 Apr 2022 09:50:40 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -287,19 +287,6 @@ Audio files in /home/pi/radio/mygame
 <pubDate>Sun, 25 Apr 2021 01:11:00 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/mygame/%E7%AC%AC212%E5%9B%9E%EF%BC%9A%E4%B8%8A%E5%9D%82%E3%81%99%E3%81%BF%E3%82%8C%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.113486.mp3" type="audio/mpeg" length="57641024" />
-</item>
-
-<item>
-<title>第211回：上坂すみれさん前編.112702.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC211%E5%9B%9E%EF%BC%9A%E4%B8%8A%E5%9D%82%E3%81%99%E3%81%BF%E3%82%8C%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.112702.mp3</link>
-<description>第211回：上坂すみれさん前編.112702.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC211%E5%9B%9E%EF%BC%9A%E4%B8%8A%E5%9D%82%E3%81%99%E3%81%BF%E3%82%8C%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.112702.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 17 Apr 2021 01:10:07 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC211%E5%9B%9E%EF%BC%9A%E4%B8%8A%E5%9D%82%E3%81%99%E3%81%BF%E3%82%8C%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.112702.mp3" type="audio/mpeg" length="56429120" />
 </item>
 
 </channel>

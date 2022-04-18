@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/a_matunojyou
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 18 Apr 2022 08:50:09 +0900</lastBuildDate>
+<lastBuildDate>Mon, 18 Apr 2022 09:50:09 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -690,19 +690,6 @@ Audio files in /home/pi/radio/a_matunojyou
 <pubDate>Fri, 23 Apr 2021 22:06:28 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/a_matunojyou/radiko_2021-04-23-21-30.mp3" type="audio/mpeg" length="14400707" />
-</item>
-
-<item>
-<title>radiko_2021-04-16-21-30.mp3</title>
-<link>http://192.168.11.3/a_matunojyou/radiko_2021-04-16-21-30.mp3</link>
-<description>radiko_2021-04-16-21-30.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_matunojyou/radiko_2021-04-16-21-30.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 16 Apr 2021 22:06:24 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/a_matunojyou/radiko_2021-04-16-21-30.mp3" type="audio/mpeg" length="14400707" />
 </item>
 
 </channel>
