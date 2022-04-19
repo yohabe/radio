@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 19 Apr 2022 14:50:10 +0900</lastBuildDate>
+<lastBuildDate>Tue, 19 Apr 2022 15:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2022-04-19-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2022-04-19-15-32.mp3</link>
+<description>radiko_2022-04-19-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2022-04-19-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 19 Apr 2022 15:35:39 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2022-04-19-15-32.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>ロシアのウクライナ侵攻をきっかけに考える、日本の難民受け入れの現状【N検Sess.175645.mp3</title>
