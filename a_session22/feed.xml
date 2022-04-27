@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 27 Apr 2022 14:50:10 +0900</lastBuildDate>
+<lastBuildDate>Wed, 27 Apr 2022 15:50:11 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2022-04-27-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2022-04-27-15-32.mp3</link>
+<description>radiko_2022-04-27-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2022-04-27-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 27 Apr 2022 15:35:39 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2022-04-27-15-32.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>特集「急速に進む円安。その背景や影響とは」出演：後藤達也さん（元日本経済新聞社記.182288.mp3</title>
