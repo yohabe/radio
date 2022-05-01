@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 01 May 2022 18:50:28 +0900</lastBuildDate>
+<lastBuildDate>Sun, 01 May 2022 19:50:28 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ジョビンチャンネル_20220501_【RIZIN LANDMARK vol.3】クレベルコイケv.yitXBt8yKxg.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220501_%E3%80%90RIZIN%20LANDMARK%20vol.3%E3%80%91%E3%82%AF%E3%83%AC%E3%83%99%E3%83%AB%E3%82%B3%E3%82%A4%E3%82%B1v.yitXBt8yKxg.mp3</link>
+<description>ジョビンチャンネル_20220501_【RIZIN LANDMARK vol.3】クレベルコイケv.yitXBt8yKxg.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220501_%E3%80%90RIZIN%20LANDMARK%20vol.3%E3%80%91%E3%82%AF%E3%83%AC%E3%83%99%E3%83%AB%E3%82%B3%E3%82%A4%E3%82%B1v.yitXBt8yKxg.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 01 May 2022 18:44:05 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220501_%E3%80%90RIZIN%20LANDMARK%20vol.3%E3%80%91%E3%82%AF%E3%83%AC%E3%83%99%E3%83%AB%E3%82%B3%E3%82%A4%E3%82%B1v.yitXBt8yKxg.mp3" type="audio/mpeg" length="14034285" />
+</item>
 
 <item>
 <title>ジョビンチャンネル_20220424_【パウンドストーム】ジョビンによる忖度無しの全試合感想！.6RB1OnBsHoo.mp3</title>
