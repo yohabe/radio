@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 03 May 2022 16:50:11 +0900</lastBuildDate>
+<lastBuildDate>Tue, 03 May 2022 17:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2022-05-03-17-45.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2022-05-03-17-45.mp3</link>
+<description>radiko_2022-05-03-17-45.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2022-05-03-17-45.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 03 May 2022 17:48:34 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2022-05-03-17-45.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>radiko_2022-05-03-15-32.mp3</title>
