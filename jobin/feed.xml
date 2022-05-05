@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 06 May 2022 00:50:28 +0900</lastBuildDate>
+<lastBuildDate>Fri, 06 May 2022 01:50:33 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ジョビンチャンネル_20220505_【RIZIN LANDMARK vol.3】生解説配信！ 2.Ev8PY3F4Big.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220505_%E3%80%90RIZIN%20LANDMARK%20vol.3%E3%80%91%E7%94%9F%E8%A7%A3%E8%AA%AC%E9%85%8D%E4%BF%A1%EF%BC%81%202.Ev8PY3F4Big.mp3</link>
+<description>ジョビンチャンネル_20220505_【RIZIN LANDMARK vol.3】生解説配信！ 2.Ev8PY3F4Big.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220505_%E3%80%90RIZIN%20LANDMARK%20vol.3%E3%80%91%E7%94%9F%E8%A7%A3%E8%AA%AC%E9%85%8D%E4%BF%A1%EF%BC%81%202.Ev8PY3F4Big.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 06 May 2022 01:50:31 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220505_%E3%80%90RIZIN%20LANDMARK%20vol.3%E3%80%91%E7%94%9F%E8%A7%A3%E8%AA%AC%E9%85%8D%E4%BF%A1%EF%BC%81%202.Ev8PY3F4Big.mp3" type="audio/mpeg" length="50855936" />
+</item>
 
 <item>
 <title>ジョビンチャンネル_20220505_【RIZIN LANDMARK vol.3】ジョビンによる全.9glWCu2Nkmc.mp3</title>
