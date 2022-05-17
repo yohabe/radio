@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 17 May 2022 23:50:31 +0900</lastBuildDate>
+<lastBuildDate>Wed, 18 May 2022 00:50:30 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>格闘キャスト_20220517_平良達郎のUFCデビューの感想 Ep.175.lP6n8e31OSY.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220517_%E5%B9%B3%E8%89%AF%E9%81%94%E9%83%8E%E3%81%AEUFC%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E6%84%9F%E6%83%B3%20Ep.175.lP6n8e31OSY.mp3</link>
+<description>格闘キャスト_20220517_平良達郎のUFCデビューの感想 Ep.175.lP6n8e31OSY.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220517_%E5%B9%B3%E8%89%AF%E9%81%94%E9%83%8E%E3%81%AEUFC%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E6%84%9F%E6%83%B3%20Ep.175.lP6n8e31OSY.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 17 May 2022 22:16:35 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220517_%E5%B9%B3%E8%89%AF%E9%81%94%E9%83%8E%E3%81%AEUFC%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E6%84%9F%E6%83%B3%20Ep.175.lP6n8e31OSY.mp3" type="audio/mpeg" length="68902386" />
+</item>
 
 <item>
 <title>格闘キャスト_20220515_長谷川賢選手とベッティングしたらメッチャ盛り上がった！（勝っ._fQLOGFN3Ys.mp3</title>
