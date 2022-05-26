@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 26 May 2022 20:50:10 +0900</lastBuildDate>
+<lastBuildDate>Thu, 26 May 2022 21:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>2022年5月26日（木）ニュース.205545.mp3</title>
+<link>http://192.168.11.3/a_session22/2022%E5%B9%B45%E6%9C%8826%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.205545.mp3</link>
+<description>2022年5月26日（木）ニュース.205545.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/2022%E5%B9%B45%E6%9C%8826%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.205545.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Thu, 26 May 2022 21:01:23 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/2022%E5%B9%B45%E6%9C%8826%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9.205545.mp3" type="audio/mpeg" length="7047878" />
+</item>
 
 <item>
 <title>radiko_2022-05-26-17-45.mp3</title>
