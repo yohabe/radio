@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/konotaro
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 28 May 2022 21:50:43 +0900</lastBuildDate>
+<lastBuildDate>Sat, 28 May 2022 22:50:40 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>KonoTaroGomame_20220522_【河野太郎のLIVE配信】たろうとかたろう 2022-05-.ELz3ZVADMKc.mp3</title>
+<link>http://192.168.11.3/konotaro/KonoTaroGomame_20220522_%E3%80%90%E6%B2%B3%E9%87%8E%E5%A4%AA%E9%83%8E%E3%81%AELIVE%E9%85%8D%E4%BF%A1%E3%80%91%E3%81%9F%E3%82%8D%E3%81%86%E3%81%A8%E3%81%8B%E3%81%9F%E3%82%8D%E3%81%86%202022-05-.ELz3ZVADMKc.mp3</link>
+<description>KonoTaroGomame_20220522_【河野太郎のLIVE配信】たろうとかたろう 2022-05-.ELz3ZVADMKc.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/konotaro/KonoTaroGomame_20220522_%E3%80%90%E6%B2%B3%E9%87%8E%E5%A4%AA%E9%83%8E%E3%81%AELIVE%E9%85%8D%E4%BF%A1%E3%80%91%E3%81%9F%E3%82%8D%E3%81%86%E3%81%A8%E3%81%8B%E3%81%9F%E3%82%8D%E3%81%86%202022-05-.ELz3ZVADMKc.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 28 May 2022 22:05:31 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/konotaro/KonoTaroGomame_20220522_%E3%80%90%E6%B2%B3%E9%87%8E%E5%A4%AA%E9%83%8E%E3%81%AELIVE%E9%85%8D%E4%BF%A1%E3%80%91%E3%81%9F%E3%82%8D%E3%81%86%E3%81%A8%E3%81%8B%E3%81%9F%E3%82%8D%E3%81%86%202022-05-.ELz3ZVADMKc.mp3" type="audio/mpeg" length="20319677" />
+</item>
 
 <item>
 <title>KonoTaroGomame_20220304_【河野太郎のLIVE配信】たろうとかたろう　ゲスト ウクライ.H9m27T0h23M.mp3</title>
