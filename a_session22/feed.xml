@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 27 Jun 2022 19:50:10 +0900</lastBuildDate>
+<lastBuildDate>Mon, 27 Jun 2022 20:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>Jリーグの声出し応援。条件付きで再開【N検Session】.231520.mp3</title>
+<link>http://192.168.11.3/a_session22/J%E3%83%AA%E3%83%BC%E3%82%B0%E3%81%AE%E5%A3%B0%E5%87%BA%E3%81%97%E5%BF%9C%E6%8F%B4%E3%80%82%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E3%81%A7%E5%86%8D%E9%96%8B%E3%80%90N%E6%A4%9CSession%E3%80%91.231520.mp3</link>
+<description>Jリーグの声出し応援。条件付きで再開【N検Session】.231520.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/J%E3%83%AA%E3%83%BC%E3%82%B0%E3%81%AE%E5%A3%B0%E5%87%BA%E3%81%97%E5%BF%9C%E6%8F%B4%E3%80%82%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E3%81%A7%E5%86%8D%E9%96%8B%E3%80%90N%E6%A4%9CSession%E3%80%91.231520.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 27 Jun 2022 20:02:27 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/J%E3%83%AA%E3%83%BC%E3%82%B0%E3%81%AE%E5%A3%B0%E5%87%BA%E3%81%97%E5%BF%9C%E6%8F%B4%E3%80%82%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E3%81%A7%E5%86%8D%E9%96%8B%E3%80%90N%E6%A4%9CSession%E3%80%91.231520.mp3" type="audio/mpeg" length="8914118" />
+</item>
 
 <item>
 <title>radiko_2022-06-27-17-45.mp3</title>
