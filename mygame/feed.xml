@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 27 Jun 2022 08:50:45 +0900</lastBuildDate>
+<lastBuildDate>Mon, 27 Jun 2022 09:50:45 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -469,19 +469,6 @@ Audio files in /home/pi/radio/mygame
 <pubDate>Sat, 03 Jul 2021 01:09:21 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/mygame/%E7%AC%AC222%E5%9B%9E%EF%BC%9A%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.120588.mp3" type="audio/mpeg" length="55247168" />
-</item>
-
-<item>
-<title>第221回：豊崎愛生さん前編.119928.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC221%E5%9B%9E%EF%BC%9A%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.119928.mp3</link>
-<description>第221回：豊崎愛生さん前編.119928.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC221%E5%9B%9E%EF%BC%9A%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.119928.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 26 Jun 2021 01:08:53 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC221%E5%9B%9E%EF%BC%9A%E8%B1%8A%E5%B4%8E%E6%84%9B%E7%94%9F%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.119928.mp3" type="audio/mpeg" length="52566080" />
 </item>
 
 </channel>
