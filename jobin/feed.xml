@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 28 Jun 2022 08:50:30 +0900</lastBuildDate>
+<lastBuildDate>Tue, 28 Jun 2022 09:50:31 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -1132,19 +1132,6 @@ Audio files in /home/pi/radio/jobin
 <pubDate>Tue, 29 Jun 2021 11:28:24 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210628_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.9CYStxufrh0.mp3" type="audio/mpeg" length="17453781" />
-</item>
-
-<item>
-<title>ジョビンチャンネル_20210626_【RIZIN29】元DEEP王者松本晃市郎ことジョビンによる.PUxX6dYRZRU.mp3</title>
-<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210626_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.PUxX6dYRZRU.mp3</link>
-<description>ジョビンチャンネル_20210626_【RIZIN29】元DEEP王者松本晃市郎ことジョビンによる.PUxX6dYRZRU.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210626_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.PUxX6dYRZRU.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 26 Jun 2021 22:21:09 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20210626_%E3%80%90RIZIN29%E3%80%91%E5%85%83DEEP%E7%8E%8B%E8%80%85%E6%9D%BE%E6%9C%AC%E6%99%83%E5%B8%82%E9%83%8E%E3%81%93%E3%81%A8%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B.PUxX6dYRZRU.mp3" type="audio/mpeg" length="24042957" />
 </item>
 
 </channel>
