@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/a_session22
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 06 Jul 2022 14:50:10 +0900</lastBuildDate>
+<lastBuildDate>Wed, 06 Jul 2022 15:50:10 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2022-07-06-15-32.mp3</title>
+<link>http://192.168.11.3/a_session22/radiko_2022-07-06-15-32.mp3</link>
+<description>radiko_2022-07-06-15-32.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_session22/radiko_2022-07-06-15-32.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Wed, 06 Jul 2022 15:35:44 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_session22/radiko_2022-07-06-15-32.mp3" type="audio/mpeg" length="2881292" />
+</item>
 
 <item>
 <title>台風4号は温帯低気圧に。気象庁は太平洋側の広い範囲で警戒呼びかけ。【ニュース】解.238238.mp3</title>
