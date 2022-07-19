@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/videonews_marugeki
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 19 Jul 2022 08:50:51 +0900</lastBuildDate>
+<lastBuildDate>Tue, 19 Jul 2022 09:50:51 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -768,32 +768,6 @@ Audio files in /home/pi/radio/videonews_marugeki
 <pubDate>Sat, 24 Jul 2021 23:03:59 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E5%8F%A4%E8%B3%80%E8%8C%82%E6%98%8E%E6%B0%8F%EF%BC%9A%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%A8%E4%BA%94%E8%BC%AA%E3%81%A7%E6%A9%9F%E8%83%BD%E4%B8%8D%E5%85%A8%E3%81%B6%E3%82%8A%E3%82%92%E9%9C%B2%E5%91%88%E3%81%97%E3%81%9F%E6%94%BF%E5%BA%9C%E3%81%8C%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E3%81%AA%E3%81%8A%E6%A8%A9%E5%8A%9B%E3%81%AE%E5%BA%A7%E3%81%AB%E5%B1%85%E5%BA%A7%E3%82%8A%E7%B6%9A%E3%81%91%E3%82%89%E3%82%8C%E3%82%8B%E3%82%AB%E3%83%A9%E3%82%AF%E3%83%AA%E3%82%92%E6%96%AC%E3%82%8B-578774878.mp3" type="audio/mpeg" length="33062123" />
-</item>
-
-<item>
-<title>【Part2】松崎英吾氏：ブラインドサッカーに学ぶ、パラリンピックを100倍楽しむ方法-576129866.mp3</title>
-<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9D%BE%E5%B4%8E%E8%8B%B1%E5%90%BE%E6%B0%8F%EF%BC%9A%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E5%AD%A6%E3%81%B6%E3%80%81%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%82%92100%E5%80%8D%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B9%E6%B3%95-576129866.mp3</link>
-<description>【Part2】松崎英吾氏：ブラインドサッカーに学ぶ、パラリンピックを100倍楽しむ方法-576129866.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9D%BE%E5%B4%8E%E8%8B%B1%E5%90%BE%E6%B0%8F%EF%BC%9A%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E5%AD%A6%E3%81%B6%E3%80%81%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%82%92100%E5%80%8D%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B9%E6%B3%95-576129866.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 17 Jul 2021 23:28:45 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part2%E3%80%91%E6%9D%BE%E5%B4%8E%E8%8B%B1%E5%90%BE%E6%B0%8F%EF%BC%9A%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E5%AD%A6%E3%81%B6%E3%80%81%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%82%92100%E5%80%8D%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B9%E6%B3%95-576129866.mp3" type="audio/mpeg" length="42911075" />
-</item>
-
-<item>
-<title>【Part1】松崎英吾氏：ブラインドサッカーに学ぶ、パラリンピックを100倍楽しむ方法-576128486.mp3</title>
-<link>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9D%BE%E5%B4%8E%E8%8B%B1%E5%90%BE%E6%B0%8F%EF%BC%9A%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E5%AD%A6%E3%81%B6%E3%80%81%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%82%92100%E5%80%8D%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B9%E6%B3%95-576128486.mp3</link>
-<description>【Part1】松崎英吾氏：ブラインドサッカーに学ぶ、パラリンピックを100倍楽しむ方法-576128486.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9D%BE%E5%B4%8E%E8%8B%B1%E5%90%BE%E6%B0%8F%EF%BC%9A%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E5%AD%A6%E3%81%B6%E3%80%81%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%82%92100%E5%80%8D%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B9%E6%B3%95-576128486.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 17 Jul 2021 23:07:41 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/videonews_marugeki/%E3%80%90Part1%E3%80%91%E6%9D%BE%E5%B4%8E%E8%8B%B1%E5%90%BE%E6%B0%8F%EF%BC%9A%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E3%81%AB%E5%AD%A6%E3%81%B6%E3%80%81%E3%83%91%E3%83%A9%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%82%92100%E5%80%8D%E6%A5%BD%E3%81%97%E3%82%80%E6%96%B9%E6%B3%95-576128486.mp3" type="audio/mpeg" length="45576275" />
 </item>
 
 </channel>
