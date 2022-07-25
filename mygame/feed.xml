@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 25 Jul 2022 08:50:43 +0900</lastBuildDate>
+<lastBuildDate>Mon, 25 Jul 2022 09:50:44 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -417,19 +417,6 @@ Audio files in /home/pi/radio/mygame
 <pubDate>Sat, 31 Jul 2021 01:10:57 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/mygame/%E7%AC%AC226%E5%9B%9E%EF%BC%9A%E5%90%89%E5%8E%9F%E9%9B%85%E6%96%97%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.123379.mp3" type="audio/mpeg" length="63010496" />
-</item>
-
-<item>
-<title>第225回：BOYSANDMENの吉原雅斗さん前編.122614.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC225%E5%9B%9E%EF%BC%9ABOYSANDMEN%E3%81%AE%E5%90%89%E5%8E%9F%E9%9B%85%E6%96%97%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.122614.mp3</link>
-<description>第225回：BOYSANDMENの吉原雅斗さん前編.122614.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC225%E5%9B%9E%EF%BC%9ABOYSANDMEN%E3%81%AE%E5%90%89%E5%8E%9F%E9%9B%85%E6%96%97%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.122614.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 24 Jul 2021 01:05:21 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC225%E5%9B%9E%EF%BC%9ABOYSANDMEN%E3%81%AE%E5%90%89%E5%8E%9F%E9%9B%85%E6%96%97%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.122614.mp3" type="audio/mpeg" length="32116544" />
 </item>
 
 </channel>
