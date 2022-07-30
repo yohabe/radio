@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 30 Jul 2022 09:50:30 +0900</lastBuildDate>
+<lastBuildDate>Sat, 30 Jul 2022 10:50:30 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>格闘キャスト_20220729_【UFC 277 _ RIZIN 37 勝敗予測 】_ 全試.wP14YHYojIU.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220729_%E3%80%90UFC%20277%20_%20RIZIN%2037%20%E5%8B%9D%E6%95%97%E4%BA%88%E6%B8%AC%20%E3%80%91_%20%E5%85%A8%E8%A9%A6.wP14YHYojIU.mp3</link>
+<description>格闘キャスト_20220729_【UFC 277 _ RIZIN 37 勝敗予測 】_ 全試.wP14YHYojIU.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220729_%E3%80%90UFC%20277%20_%20RIZIN%2037%20%E5%8B%9D%E6%95%97%E4%BA%88%E6%B8%AC%20%E3%80%91_%20%E5%85%A8%E8%A9%A6.wP14YHYojIU.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 30 Jul 2022 09:27:48 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20220729_%E3%80%90UFC%20277%20_%20RIZIN%2037%20%E5%8B%9D%E6%95%97%E4%BA%88%E6%B8%AC%20%E3%80%91_%20%E5%85%A8%E8%A9%A6.wP14YHYojIU.mp3" type="audio/mpeg" length="48708816" />
+</item>
 
 <item>
 <title>格闘キャスト_20220715_井岡選手の完璧なパフォーマンスが観れた！あと、色々見えすぎた.j-gaPzhtWzU.mp3</title>
