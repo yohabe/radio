@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/okamishousa
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 30 Jul 2022 08:50:44 +0900</lastBuildDate>
+<lastBuildDate>Sat, 30 Jul 2022 09:50:45 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -1262,19 +1262,6 @@ Audio files in /home/pi/radio/okamishousa
 <pubDate>Mon, 02 Aug 2021 13:54:56 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/okamishousa/%E3%80%90%E5%85%83%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%B9%B9%E9%83%A8%E3%81%8C%E3%83%84%E3%83%83%E3%82%B3%E3%82%80%EF%BC%81%E3%80%91%E7%A9%BA%E6%AF%8D%E3%81%84%E3%81%B6%E3%81%8D%E7%AC%AC%EF%BC%92%E5%B7%BB%E3%80%90%E3%81%8B%E3%82%8F%E3%81%90%E3%81%A1%E3%81%8B.mp3" type="audio/mpeg" length="14648620" />
-</item>
-
-<item>
-<title>【元海上自衛隊幹部が語る】先任伍長【海曹士】【CPO】【曹長.mp3</title>
-<link>http://192.168.11.3/okamishousa/%E3%80%90%E5%85%83%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%B9%B9%E9%83%A8%E3%81%8C%E8%AA%9E%E3%82%8B%E3%80%91%E5%85%88%E4%BB%BB%E4%BC%8D%E9%95%B7%E3%80%90%E6%B5%B7%E6%9B%B9%E5%A3%AB%E3%80%91%E3%80%90CPO%E3%80%91%E3%80%90%E6%9B%B9%E9%95%B7.mp3</link>
-<description>【元海上自衛隊幹部が語る】先任伍長【海曹士】【CPO】【曹長.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/okamishousa/%E3%80%90%E5%85%83%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%B9%B9%E9%83%A8%E3%81%8C%E8%AA%9E%E3%82%8B%E3%80%91%E5%85%88%E4%BB%BB%E4%BC%8D%E9%95%B7%E3%80%90%E6%B5%B7%E6%9B%B9%E5%A3%AB%E3%80%91%E3%80%90CPO%E3%80%91%E3%80%90%E6%9B%B9%E9%95%B7.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Thu, 29 Jul 2021 02:07:02 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/okamishousa/%E3%80%90%E5%85%83%E6%B5%B7%E4%B8%8A%E8%87%AA%E8%A1%9B%E9%9A%8A%E5%B9%B9%E9%83%A8%E3%81%8C%E8%AA%9E%E3%82%8B%E3%80%91%E5%85%88%E4%BB%BB%E4%BC%8D%E9%95%B7%E3%80%90%E6%B5%B7%E6%9B%B9%E5%A3%AB%E3%80%91%E3%80%90CPO%E3%80%91%E3%80%90%E6%9B%B9%E9%95%B7.mp3" type="audio/mpeg" length="12355525" />
 </item>
 
 </channel>
