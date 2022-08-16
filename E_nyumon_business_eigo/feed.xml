@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/E_nyumon_business_eigo
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 03 Aug 2022 19:50:05 +0900</lastBuildDate>
+<lastBuildDate>Tue, 16 Aug 2022 10:50:05 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -144,58 +144,6 @@ Audio files in /home/pi/radio/E_nyumon_business_eigo
 <pubDate>Mon, 16 Aug 2021 09:30:33 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210816.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_nyumon_business_eigo_20210810.mp3</title>
-<link>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210810.mp3</link>
-<description>E_nyumon_business_eigo_20210810.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210810.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 10 Aug 2021 09:30:32 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210810.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_nyumon_business_eigo_20210809.mp3</title>
-<link>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210809.mp3</link>
-<description>E_nyumon_business_eigo_20210809.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210809.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 09 Aug 2021 09:30:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210809.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_nyumon_business_eigo_20210803.mp3</title>
-<link>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210803.mp3</link>
-<description>E_nyumon_business_eigo_20210803.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210803.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 03 Aug 2021 09:30:32 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210803.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_nyumon_business_eigo_20210802.mp3</title>
-<link>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210802.mp3</link>
-<description>E_nyumon_business_eigo_20210802.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210802.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 02 Aug 2021 09:30:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_nyumon_business_eigo/E_nyumon_business_eigo_20210802.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
 </channel>

@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 03 Aug 2022 19:50:45 +0900</lastBuildDate>
+<lastBuildDate>Tue, 16 Aug 2022 10:50:44 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -378,32 +378,6 @@ Audio files in /home/pi/radio/mygame
 <pubDate>Sat, 21 Aug 2021 01:09:21 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/mygame/%E7%AC%AC229%E5%9B%9E%EF%BC%9AFIVENEWOLD%E3%81%AEHIROSHI%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.125581.mp3" type="audio/mpeg" length="57348800" />
-</item>
-
-<item>
-<title>第228回：菅良太郎さん後編.125046.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC228%E5%9B%9E%EF%BC%9A%E8%8F%85%E8%89%AF%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.125046.mp3</link>
-<description>第228回：菅良太郎さん後編.125046.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC228%E5%9B%9E%EF%BC%9A%E8%8F%85%E8%89%AF%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.125046.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sun, 15 Aug 2021 01:08:35 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC228%E5%9B%9E%EF%BC%9A%E8%8F%85%E8%89%AF%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.125046.mp3" type="audio/mpeg" length="48637376" />
-</item>
-
-<item>
-<title>第227回：菅良太郎さん前編.124361.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC227%E5%9B%9E%EF%BC%9A%E8%8F%85%E8%89%AF%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.124361.mp3</link>
-<description>第227回：菅良太郎さん前編.124361.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC227%E5%9B%9E%EF%BC%9A%E8%8F%85%E8%89%AF%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.124361.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 07 Aug 2021 01:09:15 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC227%E5%9B%9E%EF%BC%9A%E8%8F%85%E8%89%AF%E5%A4%AA%E9%83%8E%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.124361.mp3" type="audio/mpeg" length="48674240" />
 </item>
 
 </channel>

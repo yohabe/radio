@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/E_jissen_business_eigo
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 03 Aug 2022 19:50:04 +0900</lastBuildDate>
+<lastBuildDate>Tue, 16 Aug 2022 10:50:04 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -170,84 +170,6 @@ Audio files in /home/pi/radio/E_jissen_business_eigo
 <pubDate>Wed, 18 Aug 2021 09:30:32 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210818.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_jissen_business_eigo_20210813.mp3</title>
-<link>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210813.mp3</link>
-<description>E_jissen_business_eigo_20210813.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210813.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 13 Aug 2021 09:30:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210813.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_jissen_business_eigo_20210812.mp3</title>
-<link>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210812.mp3</link>
-<description>E_jissen_business_eigo_20210812.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210812.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Thu, 12 Aug 2021 09:30:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210812.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_jissen_business_eigo_20210811.mp3</title>
-<link>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210811.mp3</link>
-<description>E_jissen_business_eigo_20210811.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210811.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Wed, 11 Aug 2021 09:30:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210811.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_jissen_business_eigo_20210806.mp3</title>
-<link>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210806.mp3</link>
-<description>E_jissen_business_eigo_20210806.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210806.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Fri, 06 Aug 2021 09:30:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210806.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_jissen_business_eigo_20210805.mp3</title>
-<link>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210805.mp3</link>
-<description>E_jissen_business_eigo_20210805.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210805.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Thu, 05 Aug 2021 09:30:33 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210805.mp3" type="audio/mpeg" length="14400416" />
-</item>
-
-<item>
-<title>E_jissen_business_eigo_20210804.mp3</title>
-<link>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210804.mp3</link>
-<description>E_jissen_business_eigo_20210804.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210804.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Wed, 04 Aug 2021 09:30:32 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/E_jissen_business_eigo/E_jissen_business_eigo_20210804.mp3" type="audio/mpeg" length="14400416" />
 </item>
 
 </channel>

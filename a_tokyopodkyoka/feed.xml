@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/a_tokyopodkyoka
 </description>
 <language>ja</language>
-<lastBuildDate>Wed, 03 Aug 2022 19:50:22 +0900</lastBuildDate>
+<lastBuildDate>Tue, 16 Aug 2022 10:50:21 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>radiko_2022-08-14-02-00.mp3</title>
+<link>http://192.168.11.3/a_tokyopodkyoka/radiko_2022-08-14-02-00.mp3</link>
+<description>radiko_2022-08-14-02-00.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_tokyopodkyoka/radiko_2022-08-14-02-00.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 14 Aug 2022 03:14:52 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_tokyopodkyoka/radiko_2022-08-14-02-00.mp3" type="audio/mpeg" length="57600908" />
+</item>
+
+<item>
+<title>radiko_2022-08-07-02-00.mp3</title>
+<link>http://192.168.11.3/a_tokyopodkyoka/radiko_2022-08-07-02-00.mp3</link>
+<description>radiko_2022-08-07-02-00.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/a_tokyopodkyoka/radiko_2022-08-07-02-00.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sun, 07 Aug 2022 03:14:49 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/a_tokyopodkyoka/radiko_2022-08-07-02-00.mp3" type="audio/mpeg" length="57600908" />
+</item>
 
 <item>
 <title>radiko_2022-07-31-02-00.mp3</title>
@@ -664,32 +690,6 @@ Audio files in /home/pi/radio/a_tokyopodkyoka
 <pubDate>Sun, 22 Aug 2021 03:14:34 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/a_tokyopodkyoka/radiko_2021-08-22-02-00.mp3" type="audio/mpeg" length="28800515" />
-</item>
-
-<item>
-<title>radiko_2021-08-15-02-00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/radiko_2021-08-15-02-00.mp3</link>
-<description>radiko_2021-08-15-02-00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/radiko_2021-08-15-02-00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sun, 15 Aug 2021 03:14:17 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/radiko_2021-08-15-02-00.mp3" type="audio/mpeg" length="28800515" />
-</item>
-
-<item>
-<title>radiko_2021-08-08-02-00.mp3</title>
-<link>http://192.168.11.3/a_tokyopodkyoka/radiko_2021-08-08-02-00.mp3</link>
-<description>radiko_2021-08-08-02-00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/a_tokyopodkyoka/radiko_2021-08-08-02-00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sun, 08 Aug 2021 03:14:18 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/a_tokyopodkyoka/radiko_2021-08-08-02-00.mp3" type="audio/mpeg" length="28800515" />
 </item>
 
 </channel>
