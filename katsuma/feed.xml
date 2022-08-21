@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 21 Aug 2022 08:50:33 +0900</lastBuildDate>
+<lastBuildDate>Sun, 21 Aug 2022 09:50:34 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -9569,32 +9569,6 @@ Audio files in /home/pi/radio/katsuma
 <pubDate>Fri, 20 Aug 2021 14:05:05 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/katsuma/%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8C%E3%82%AB%E3%82%BF%E3%83%B3%E3%80%8D%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92%E8%AA%9E%E3%82%8B-2uaiWhXJSaY.mp3" type="audio/mpeg" length="3452858" />
-</item>
-
-<item>
-<title>幸福を呼ぶ、親切２割増しの勧め-RoC3RfyJQKk.mp3</title>
-<link>http://192.168.11.3/katsuma/%E5%B9%B8%E7%A6%8F%E3%82%92%E5%91%BC%E3%81%B6%E3%80%81%E8%A6%AA%E5%88%87%EF%BC%92%E5%89%B2%E5%A2%97%E3%81%97%E3%81%AE%E5%8B%A7%E3%82%81-RoC3RfyJQKk.mp3</link>
-<description>幸福を呼ぶ、親切２割増しの勧め-RoC3RfyJQKk.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E5%B9%B8%E7%A6%8F%E3%82%92%E5%91%BC%E3%81%B6%E3%80%81%E8%A6%AA%E5%88%87%EF%BC%92%E5%89%B2%E5%A2%97%E3%81%97%E3%81%AE%E5%8B%A7%E3%82%81-RoC3RfyJQKk.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Thu, 19 Aug 2021 20:32:15 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E5%B9%B8%E7%A6%8F%E3%82%92%E5%91%BC%E3%81%B6%E3%80%81%E8%A6%AA%E5%88%87%EF%BC%92%E5%89%B2%E5%A2%97%E3%81%97%E3%81%AE%E5%8B%A7%E3%82%81-RoC3RfyJQKk.mp3" type="audio/mpeg" length="2661562" />
-</item>
-
-<item>
-<title>話は基本、通じていないことを前提にしよう-d2QTJGx_vE0.mp3</title>
-<link>http://192.168.11.3/katsuma/%E8%A9%B1%E3%81%AF%E5%9F%BA%E6%9C%AC%E3%80%81%E9%80%9A%E3%81%98%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%89%8D%E6%8F%90%E3%81%AB%E3%81%97%E3%82%88%E3%81%86-d2QTJGx_vE0.mp3</link>
-<description>話は基本、通じていないことを前提にしよう-d2QTJGx_vE0.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E8%A9%B1%E3%81%AF%E5%9F%BA%E6%9C%AC%E3%80%81%E9%80%9A%E3%81%98%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%89%8D%E6%8F%90%E3%81%AB%E3%81%97%E3%82%88%E3%81%86-d2QTJGx_vE0.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Thu, 19 Aug 2021 19:42:07 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E8%A9%B1%E3%81%AF%E5%9F%BA%E6%9C%AC%E3%80%81%E9%80%9A%E3%81%98%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%89%8D%E6%8F%90%E3%81%AB%E3%81%97%E3%82%88%E3%81%86-d2QTJGx_vE0.mp3" type="audio/mpeg" length="2371405" />
 </item>
 
 </channel>
