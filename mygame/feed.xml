@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/mygame
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 22 Aug 2022 08:50:44 +0900</lastBuildDate>
+<lastBuildDate>Mon, 22 Aug 2022 09:50:44 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -365,19 +365,6 @@ Audio files in /home/pi/radio/mygame
 <pubDate>Tue, 31 Aug 2021 01:07:09 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/mygame/%E7%AC%AC230%E5%9B%9E%EF%BC%9AFIVENEWOLD%E3%81%AEHIROSHI%E3%81%95%E3%82%93%E5%BE%8C%E7%B7%A8.126593.mp3" type="audio/mpeg" length="43817408" />
-</item>
-
-<item>
-<title>第229回：FIVENEWOLDのHIROSHIさん前編.125581.mp3</title>
-<link>http://192.168.11.3/mygame/%E7%AC%AC229%E5%9B%9E%EF%BC%9AFIVENEWOLD%E3%81%AEHIROSHI%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.125581.mp3</link>
-<description>第229回：FIVENEWOLDのHIROSHIさん前編.125581.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/mygame/%E7%AC%AC229%E5%9B%9E%EF%BC%9AFIVENEWOLD%E3%81%AEHIROSHI%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.125581.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 21 Aug 2021 01:09:21 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/mygame/%E7%AC%AC229%E5%9B%9E%EF%BC%9AFIVENEWOLD%E3%81%AEHIROSHI%E3%81%95%E3%82%93%E5%89%8D%E7%B7%A8.125581.mp3" type="audio/mpeg" length="57348800" />
 </item>
 
 </channel>
