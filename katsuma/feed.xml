@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 23 Aug 2022 08:50:34 +0900</lastBuildDate>
+<lastBuildDate>Tue, 23 Aug 2022 09:50:34 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -9569,32 +9569,6 @@ Audio files in /home/pi/radio/katsuma
 <pubDate>Sun, 22 Aug 2021 13:33:23 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/katsuma/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E6%B4%BB%E7%94%A8%E3%81%AE%E5%8B%A7%E3%82%81%E3%80%82%E9%80%9A%E8%B2%A9%E3%82%82%E5%A4%A7%E3%81%8D%E3%81%AA%E8%B2%B7%E3%81%84%E7%89%A9%E3%82%82%E6%80%96%E3%81%8F%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82-OPN5p5sLxbY.mp3" type="audio/mpeg" length="4842632" />
-</item>
-
-<item>
-<title>めんどくさいは人生好転のチャンス-1DD11wshJ0c.mp3</title>
-<link>http://192.168.11.3/katsuma/%E3%82%81%E3%82%93%E3%81%A9%E3%81%8F%E3%81%95%E3%81%84%E3%81%AF%E4%BA%BA%E7%94%9F%E5%A5%BD%E8%BB%A2%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9-1DD11wshJ0c.mp3</link>
-<description>めんどくさいは人生好転のチャンス-1DD11wshJ0c.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E3%82%81%E3%82%93%E3%81%A9%E3%81%8F%E3%81%95%E3%81%84%E3%81%AF%E4%BA%BA%E7%94%9F%E5%A5%BD%E8%BB%A2%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9-1DD11wshJ0c.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 21 Aug 2021 20:12:34 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E3%82%81%E3%82%93%E3%81%A9%E3%81%8F%E3%81%95%E3%81%84%E3%81%AF%E4%BA%BA%E7%94%9F%E5%A5%BD%E8%BB%A2%E3%81%AE%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9-1DD11wshJ0c.mp3" type="audio/mpeg" length="2780528" />
-</item>
-
-<item>
-<title>ベストはリラックスしながら尽くそう-eS0P3lj9vtY.mp3</title>
-<link>http://192.168.11.3/katsuma/%E3%83%99%E3%82%B9%E3%83%88%E3%81%AF%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E5%B0%BD%E3%81%8F%E3%81%9D%E3%81%86-eS0P3lj9vtY.mp3</link>
-<description>ベストはリラックスしながら尽くそう-eS0P3lj9vtY.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E3%83%99%E3%82%B9%E3%83%88%E3%81%AF%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E5%B0%BD%E3%81%8F%E3%81%9D%E3%81%86-eS0P3lj9vtY.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 21 Aug 2021 13:37:58 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E3%83%99%E3%82%B9%E3%83%88%E3%81%AF%E3%83%AA%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E5%B0%BD%E3%81%8F%E3%81%9D%E3%81%86-eS0P3lj9vtY.mp3" type="audio/mpeg" length="2610594" />
 </item>
 
 </channel>
