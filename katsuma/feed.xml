@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 01 Sep 2022 08:50:34 +0900</lastBuildDate>
+<lastBuildDate>Thu, 01 Sep 2022 09:50:34 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -9569,32 +9569,6 @@ Audio files in /home/pi/radio/katsuma
 <pubDate>Tue, 31 Aug 2021 18:23:23 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/katsuma/%E4%B8%AD%E9%AB%98%E5%B9%B4%E3%81%AB%E3%82%82%E3%82%BB%E3%83%9F%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%92%E5%8B%A7%E3%82%81%E3%82%8B%EF%BC%93%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-qrSEGoHwuwI.mp3" type="audio/mpeg" length="2447511" />
-</item>
-
-<item>
-<title>劣等感マウンティングに気をつけよう-I-5f8aj_TVk.mp3</title>
-<link>http://192.168.11.3/katsuma/%E5%8A%A3%E7%AD%89%E6%84%9F%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%88%E3%81%86-I-5f8aj_TVk.mp3</link>
-<description>劣等感マウンティングに気をつけよう-I-5f8aj_TVk.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E5%8A%A3%E7%AD%89%E6%84%9F%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%88%E3%81%86-I-5f8aj_TVk.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 30 Aug 2021 20:12:46 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E5%8A%A3%E7%AD%89%E6%84%9F%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%88%E3%81%86-I-5f8aj_TVk.mp3" type="audio/mpeg" length="1905045" />
-</item>
-
-<item>
-<title>なぜ手料理はまずくなるのか-S5z0viej7k0.mp3</title>
-<link>http://192.168.11.3/katsuma/%E3%81%AA%E3%81%9C%E6%89%8B%E6%96%99%E7%90%86%E3%81%AF%E3%81%BE%E3%81%9A%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B-S5z0viej7k0.mp3</link>
-<description>なぜ手料理はまずくなるのか-S5z0viej7k0.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E3%81%AA%E3%81%9C%E6%89%8B%E6%96%99%E7%90%86%E3%81%AF%E3%81%BE%E3%81%9A%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B-S5z0viej7k0.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 30 Aug 2021 16:54:29 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E3%81%AA%E3%81%9C%E6%89%8B%E6%96%99%E7%90%86%E3%81%AF%E3%81%BE%E3%81%9A%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B-S5z0viej7k0.mp3" type="audio/mpeg" length="3043019" />
 </item>
 
 </channel>

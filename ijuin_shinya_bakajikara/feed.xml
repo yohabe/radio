@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/ijuin_shinya_bakajikara
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 01 Sep 2022 08:50:29 +0900</lastBuildDate>
+<lastBuildDate>Thu, 01 Sep 2022 09:50:29 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -40,19 +40,6 @@ Audio files in /home/pi/radio/ijuin_shinya_bakajikara
 <pubDate>Tue, 07 Sep 2021 03:29:00 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-09-07-01-00.mp3" type="audio/mpeg" length="57600515" />
-</item>
-
-<item>
-<title>radiko_2021-08-31-01-00.mp3</title>
-<link>http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-08-31-01-00.mp3</link>
-<description>radiko_2021-08-31-01-00.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-08-31-01-00.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 31 Aug 2021 03:28:52 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/ijuin_shinya_bakajikara/radiko_2021-08-31-01-00.mp3" type="audio/mpeg" length="57600515" />
 </item>
 
 </channel>
