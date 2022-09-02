@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 02 Sep 2022 08:50:34 +0900</lastBuildDate>
+<lastBuildDate>Fri, 02 Sep 2022 09:50:34 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -9569,32 +9569,6 @@ Audio files in /home/pi/radio/katsuma
 <pubDate>Wed, 01 Sep 2021 15:32:09 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/katsuma/Kindle%E6%9B%B8%E7%B1%8D%E3%81%AF%E3%81%A9%E3%81%AE%E7%AB%AF%E6%9C%AB%E3%81%A7%E8%AA%AD%E3%82%80%E3%81%AE%E3%81%8C%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B-XzlHsnevY4o.mp3" type="audio/mpeg" length="3940616" />
-</item>
-
-<item>
-<title>日常生活で毎日脳トレしよう-CxN_TrDn74w.mp3</title>
-<link>http://192.168.11.3/katsuma/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%81%A7%E6%AF%8E%E6%97%A5%E8%84%B3%E3%83%88%E3%83%AC%E3%81%97%E3%82%88%E3%81%86-CxN_TrDn74w.mp3</link>
-<description>日常生活で毎日脳トレしよう-CxN_TrDn74w.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%81%A7%E6%AF%8E%E6%97%A5%E8%84%B3%E3%83%88%E3%83%AC%E3%81%97%E3%82%88%E3%81%86-CxN_TrDn74w.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 31 Aug 2021 19:27:59 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%81%A7%E6%AF%8E%E6%97%A5%E8%84%B3%E3%83%88%E3%83%AC%E3%81%97%E3%82%88%E3%81%86-CxN_TrDn74w.mp3" type="audio/mpeg" length="1967523" />
-</item>
-
-<item>
-<title>中高年にもセミロングを勧める３つのポイント-qrSEGoHwuwI.mp3</title>
-<link>http://192.168.11.3/katsuma/%E4%B8%AD%E9%AB%98%E5%B9%B4%E3%81%AB%E3%82%82%E3%82%BB%E3%83%9F%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%92%E5%8B%A7%E3%82%81%E3%82%8B%EF%BC%93%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-qrSEGoHwuwI.mp3</link>
-<description>中高年にもセミロングを勧める３つのポイント-qrSEGoHwuwI.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E4%B8%AD%E9%AB%98%E5%B9%B4%E3%81%AB%E3%82%82%E3%82%BB%E3%83%9F%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%92%E5%8B%A7%E3%82%81%E3%82%8B%EF%BC%93%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-qrSEGoHwuwI.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 31 Aug 2021 18:23:23 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E4%B8%AD%E9%AB%98%E5%B9%B4%E3%81%AB%E3%82%82%E3%82%BB%E3%83%9F%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%92%E5%8B%A7%E3%82%81%E3%82%8B%EF%BC%93%E3%81%A4%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-qrSEGoHwuwI.mp3" type="audio/mpeg" length="2447511" />
 </item>
 
 </channel>
