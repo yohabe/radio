@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 12 Sep 2022 00:50:29 +0900</lastBuildDate>
+<lastBuildDate>Mon, 12 Sep 2022 01:50:34 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ジョビンチャンネル_20220911_【DEEP】解説生配信！ 2022-09-11 19_32.ZvwDAvtqNSs.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220911_%E3%80%90DEEP%E3%80%91%E8%A7%A3%E8%AA%AC%E7%94%9F%E9%85%8D%E4%BF%A1%EF%BC%81%202022-09-11%2019_32.ZvwDAvtqNSs.mp3</link>
+<description>ジョビンチャンネル_20220911_【DEEP】解説生配信！ 2022-09-11 19_32.ZvwDAvtqNSs.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220911_%E3%80%90DEEP%E3%80%91%E8%A7%A3%E8%AA%AC%E7%94%9F%E9%85%8D%E4%BF%A1%EF%BC%81%202022-09-11%2019_32.ZvwDAvtqNSs.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 12 Sep 2022 01:50:29 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20220911_%E3%80%90DEEP%E3%80%91%E8%A7%A3%E8%AA%AC%E7%94%9F%E9%85%8D%E4%BF%A1%EF%BC%81%202022-09-11%2019_32.ZvwDAvtqNSs.mp3" type="audio/mpeg" length="59768832" />
+</item>
 
 <item>
 <title>ジョビンチャンネル_20220904_【雑談】超RIZIN &amp;RIZIN38他雑談配信！ 2022.EojHfkOd7dE.mp3</title>
