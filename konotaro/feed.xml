@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/konotaro
 </description>
 <language>ja</language>
-<lastBuildDate>Sun, 18 Sep 2022 08:50:41 +0900</lastBuildDate>
+<lastBuildDate>Sun, 18 Sep 2022 09:50:41 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -157,19 +157,6 @@ Audio files in /home/pi/radio/konotaro
 <pubDate>Mon, 20 Sep 2021 19:20:07 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/konotaro/%E3%80%90%E6%B2%B3%E9%87%8E%E5%A4%AA%E9%83%8E%E3%80%91%E7%B7%8F%E8%A3%81%E9%81%B82021%E3%80%80%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%87%BA%E9%99%A3%E5%BC%8F%EF%BC%88%E5%85%A8%E6%96%87%EF%BC%89-3_tapAzUd70.mp3" type="audio/mpeg" length="2742974" />
-</item>
-
-<item>
-<title>【河野太郎のLIVE配信】たろうとかたろう-9ZZSX3r2Vrc.mp3</title>
-<link>http://192.168.11.3/konotaro/%E3%80%90%E6%B2%B3%E9%87%8E%E5%A4%AA%E9%83%8E%E3%81%AELIVE%E9%85%8D%E4%BF%A1%E3%80%91%E3%81%9F%E3%82%8D%E3%81%86%E3%81%A8%E3%81%8B%E3%81%9F%E3%82%8D%E3%81%86-9ZZSX3r2Vrc.mp3</link>
-<description>【河野太郎のLIVE配信】たろうとかたろう-9ZZSX3r2Vrc.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/konotaro/%E3%80%90%E6%B2%B3%E9%87%8E%E5%A4%AA%E9%83%8E%E3%81%AELIVE%E9%85%8D%E4%BF%A1%E3%80%91%E3%81%9F%E3%82%8D%E3%81%86%E3%81%A8%E3%81%8B%E3%81%9F%E3%82%8D%E3%81%86-9ZZSX3r2Vrc.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Thu, 16 Sep 2021 22:20:02 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/konotaro/%E3%80%90%E6%B2%B3%E9%87%8E%E5%A4%AA%E9%83%8E%E3%81%AELIVE%E9%85%8D%E4%BF%A1%E3%80%91%E3%81%9F%E3%82%8D%E3%81%86%E3%81%A8%E3%81%8B%E3%81%9F%E3%82%8D%E3%81%86-9ZZSX3r2Vrc.mp3" type="audio/mpeg" length="33097185" />
 </item>
 
 </channel>
