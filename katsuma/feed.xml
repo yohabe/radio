@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/katsuma
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 04 Oct 2022 08:50:34 +0900</lastBuildDate>
+<lastBuildDate>Tue, 04 Oct 2022 09:50:34 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -9582,32 +9582,6 @@ Audio files in /home/pi/radio/katsuma
 <pubDate>Sun, 03 Oct 2021 13:29:20 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/katsuma/%E9%9F%B3%E5%A3%B0%E5%85%A5%E5%8A%9B%E3%81%AF%E4%BA%BA%E7%94%9F%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B.mp3" type="audio/mpeg" length="2296543" />
-</item>
-
-<item>
-<title>脱力が高パフォーマンスを生む-xWtPAG7gBME.mp3</title>
-<link>http://192.168.11.3/katsuma/%E8%84%B1%E5%8A%9B%E3%81%8C%E9%AB%98%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%E7%94%9F%E3%82%80-xWtPAG7gBME.mp3</link>
-<description>脱力が高パフォーマンスを生む-xWtPAG7gBME.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E8%84%B1%E5%8A%9B%E3%81%8C%E9%AB%98%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%E7%94%9F%E3%82%80-xWtPAG7gBME.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 02 Oct 2021 19:37:43 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E8%84%B1%E5%8A%9B%E3%81%8C%E9%AB%98%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%E7%94%9F%E3%82%80-xWtPAG7gBME.mp3" type="audio/mpeg" length="1167073" />
-</item>
-
-<item>
-<title>楽しくなければ学べない-mv-dyYzhwfM.mp3</title>
-<link>http://192.168.11.3/katsuma/%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E5%AD%A6%E3%81%B9%E3%81%AA%E3%81%84-mv-dyYzhwfM.mp3</link>
-<description>楽しくなければ学べない-mv-dyYzhwfM.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/katsuma/%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E5%AD%A6%E3%81%B9%E3%81%AA%E3%81%84-mv-dyYzhwfM.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 02 Oct 2021 15:31:26 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/katsuma/%E6%A5%BD%E3%81%97%E3%81%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E5%AD%A6%E3%81%B9%E3%81%AA%E3%81%84-mv-dyYzhwfM.mp3" type="audio/mpeg" length="866381" />
 </item>
 
 </channel>
