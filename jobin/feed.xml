@@ -13,8 +13,34 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 25 Nov 2022 03:50:29 +0900</lastBuildDate>
+<lastBuildDate>Fri, 25 Nov 2022 04:50:29 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ジョビンチャンネル_20221124_亀.bpbc4ooNfw0.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221124_%E4%BA%80.bpbc4ooNfw0.mp3</link>
+<description>ジョビンチャンネル_20221124_亀.bpbc4ooNfw0.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221124_%E4%BA%80.bpbc4ooNfw0.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 25 Nov 2022 04:24:00 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221124_%E4%BA%80.bpbc4ooNfw0.mp3" type="audio/mpeg" length="915139" />
+</item>
+
+<item>
+<title>ジョビンチャンネル_20221124_亀.2yrQRNZHZtk.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221124_%E4%BA%80.2yrQRNZHZtk.mp3</link>
+<description>ジョビンチャンネル_20221124_亀.2yrQRNZHZtk.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221124_%E4%BA%80.2yrQRNZHZtk.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Fri, 25 Nov 2022 04:19:16 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221124_%E4%BA%80.2yrQRNZHZtk.mp3" type="audio/mpeg" length="8570805" />
+</item>
 
 <item>
 <title>ジョビンチャンネル_20221123_【亀仙人】乗っ取り配信！ 2022-11-23 22_30.J3Stq4CcRw8.mp3</title>
