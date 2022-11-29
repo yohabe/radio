@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/videonews_marugeki
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 29 Nov 2022 08:50:50 +0900</lastBuildDate>
+<lastBuildDate>Tue, 29 Nov 2022 09:50:49 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -742,19 +742,6 @@ Audio files in /home/pi/radio/videonews_marugeki
 <pubDate>Sat, 04 Dec 2021 20:40:51 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/videonews_marugeki/%E6%A1%9C%E4%BA%95%E6%98%8C%E5%8F%B8%C3%97%E5%AE%AE%E5%8F%B0%E7%9C%9F%E5%8F%B8%C3%97%E7%A5%9E%E4%BF%9D%E5%93%B2%E7%94%9F%EF%BC%9A%E5%B8%83%E5%B7%9D%E2%80%9D%E5%86%A4%E7%BD%AA%E2%80%9D%E4%BA%8B%E4%BB%B6%E3%81%AE%E6%82%B2%E5%8A%87%E3%82%92%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%95%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AB%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91-hNw7LAIUcpA.mp3" type="audio/mpeg" length="7193712" />
-</item>
-
-<item>
-<title>岡田憲治×宮台真司×神保哲生：リベラルが勝つためにまずやらなくてはならないこと【ダイジェスト】-VgqX_QWfw_I.mp3</title>
-<link>http://192.168.11.3/videonews_marugeki/%E5%B2%A1%E7%94%B0%E6%86%B2%E6%B2%BB%C3%97%E5%AE%AE%E5%8F%B0%E7%9C%9F%E5%8F%B8%C3%97%E7%A5%9E%E4%BF%9D%E5%93%B2%E7%94%9F%EF%BC%9A%E3%83%AA%E3%83%99%E3%83%A9%E3%83%AB%E3%81%8C%E5%8B%9D%E3%81%A4%E3%81%9F%E3%82%81%E3%81%AB%E3%81%BE%E3%81%9A%E3%82%84%E3%82%89%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91-VgqX_QWfw_I.mp3</link>
-<description>岡田憲治×宮台真司×神保哲生：リベラルが勝つためにまずやらなくてはならないこと【ダイジェスト】-VgqX_QWfw_I.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/videonews_marugeki/%E5%B2%A1%E7%94%B0%E6%86%B2%E6%B2%BB%C3%97%E5%AE%AE%E5%8F%B0%E7%9C%9F%E5%8F%B8%C3%97%E7%A5%9E%E4%BF%9D%E5%93%B2%E7%94%9F%EF%BC%9A%E3%83%AA%E3%83%99%E3%83%A9%E3%83%AB%E3%81%8C%E5%8B%9D%E3%81%A4%E3%81%9F%E3%82%81%E3%81%AB%E3%81%BE%E3%81%9A%E3%82%84%E3%82%89%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91-VgqX_QWfw_I.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Sat, 27 Nov 2021 22:33:01 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/videonews_marugeki/%E5%B2%A1%E7%94%B0%E6%86%B2%E6%B2%BB%C3%97%E5%AE%AE%E5%8F%B0%E7%9C%9F%E5%8F%B8%C3%97%E7%A5%9E%E4%BF%9D%E5%93%B2%E7%94%9F%EF%BC%9A%E3%83%AA%E3%83%99%E3%83%A9%E3%83%AB%E3%81%8C%E5%8B%9D%E3%81%A4%E3%81%9F%E3%82%81%E3%81%AB%E3%81%BE%E3%81%9A%E3%82%84%E3%82%89%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%AF%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%80%90%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%91-VgqX_QWfw_I.mp3" type="audio/mpeg" length="7645112" />
 </item>
 
 </channel>
