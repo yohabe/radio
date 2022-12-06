@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/kakutoucast
 </description>
 <language>ja</language>
-<lastBuildDate>Tue, 06 Dec 2022 18:50:27 +0900</lastBuildDate>
+<lastBuildDate>Tue, 06 Dec 2022 19:50:27 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>格闘キャスト_20221206_Japan&#39;s Reaction _ CASIMERO vs.efAMv2iy4XY.mp3</title>
+<link>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20221206_Japan&#39;s%20Reaction%20_%20CASIMERO%20vs.efAMv2iy4XY.mp3</link>
+<description>格闘キャスト_20221206_Japan&#39;s Reaction _ CASIMERO vs.efAMv2iy4XY.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20221206_Japan's%20Reaction%20_%20CASIMERO%20vs.efAMv2iy4XY.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Tue, 06 Dec 2022 15:38:51 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/kakutoucast/%E6%A0%BC%E9%97%98%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88_20221206_Japan&#39;s%20Reaction%20_%20CASIMERO%20vs.efAMv2iy4XY.mp3" type="audio/mpeg" length="9940821" />
+</item>
 
 <item>
 <title>格闘キャスト_20221205_【カシメロvs.赤穂】ノニト・ドネアが試合感想を語る.mBvDRB_pwdw.mp3</title>
