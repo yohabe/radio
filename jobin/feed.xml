@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Mon, 12 Dec 2022 02:50:26 +0900</lastBuildDate>
+<lastBuildDate>Mon, 12 Dec 2022 03:50:29 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ジョビンチャンネル_20221211_【DEEP111】感想配信！ 2022-12-11 22_3.X5XlsQ10B4w.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221211_%E3%80%90DEEP111%E3%80%91%E6%84%9F%E6%83%B3%E9%85%8D%E4%BF%A1%EF%BC%81%202022-12-11%2022_3.X5XlsQ10B4w.mp3</link>
+<description>ジョビンチャンネル_20221211_【DEEP111】感想配信！ 2022-12-11 22_3.X5XlsQ10B4w.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221211_%E3%80%90DEEP111%E3%80%91%E6%84%9F%E6%83%B3%E9%85%8D%E4%BF%A1%EF%BC%81%202022-12-11%2022_3.X5XlsQ10B4w.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Mon, 12 Dec 2022 03:50:28 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221211_%E3%80%90DEEP111%E3%80%91%E6%84%9F%E6%83%B3%E9%85%8D%E4%BF%A1%EF%BC%81%202022-12-11%2022_3.X5XlsQ10B4w.mp3" type="audio/mpeg" length="2621440" />
+</item>
 
 <item>
 <title>ジョビンチャンネル_20221204_【ブレイキングダウン6.5】生解説配信！ 2022-12-0.XE5tJRuLnu0.mp3</title>
