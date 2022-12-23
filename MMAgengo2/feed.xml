@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/MMAgengo2
 </description>
 <language>ja</language>
-<lastBuildDate>Fri, 23 Dec 2022 08:50:07 +0900</lastBuildDate>
+<lastBuildDate>Fri, 23 Dec 2022 09:50:06 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -1704,19 +1704,6 @@ Audio files in /home/pi/radio/MMAgengo2
 <pubDate>Thu, 23 Dec 2021 21:25:11 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211223_%E6%9C%9D%E5%80%89%E6%9C%AA%E6%9D%A5vs%E6%96%8E%E8%97%A4%E8%A3%951%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%81%A3%E3%81%A62%E3%81%AE%E4%BA%88%E7%BF%92%E3%82%92%E3%81%99%E3%82%8B%E5%8B%95%E7%94%BB.kIHHulklOGg.mp3" type="audio/mpeg" length="9328965" />
-</item>
-
-<item>
-<title>MMA言語化挑戦中 Voyage GI_20211221_【大晦日】RIZIN.33のカードについて.DEEi42marXw.mp3</title>
-<link>http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211221_%E3%80%90%E5%A4%A7%E6%99%A6%E6%97%A5%E3%80%91RIZIN.33%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.DEEi42marXw.mp3</link>
-<description>MMA言語化挑戦中 Voyage GI_20211221_【大晦日】RIZIN.33のカードについて.DEEi42marXw.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211221_%E3%80%90%E5%A4%A7%E6%99%A6%E6%97%A5%E3%80%91RIZIN.33%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.DEEi42marXw.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Tue, 21 Dec 2021 17:59:19 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211221_%E3%80%90%E5%A4%A7%E6%99%A6%E6%97%A5%E3%80%91RIZIN.33%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.DEEi42marXw.mp3" type="audio/mpeg" length="15676927" />
 </item>
 
 </channel>
