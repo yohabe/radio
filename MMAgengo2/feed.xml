@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/MMAgengo2
 </description>
 <language>ja</language>
-<lastBuildDate>Thu, 29 Dec 2022 08:50:07 +0900</lastBuildDate>
+<lastBuildDate>Thu, 29 Dec 2022 09:50:06 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -1717,19 +1717,6 @@ Audio files in /home/pi/radio/MMAgengo2
 <pubDate>Tue, 28 Dec 2021 12:18:04 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211227_RIZIN%E3%81%AE%E3%83%9C%E3%82%B9%E6%A6%8A%E5%8E%9F%E4%BC%B8%E8%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.FtDmRwk_Qqo.mp3" type="audio/mpeg" length="11208768" />
-</item>
-
-<item>
-<title>MMA言語化挑戦中 Voyage GI_20211227_朝倉海vs瀧澤謙太　簡易バウトプレビュー.jfzEBNuv6gU.mp3</title>
-<link>http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211227_%E6%9C%9D%E5%80%89%E6%B5%B7vs%E7%80%A7%E6%BE%A4%E8%AC%99%E5%A4%AA%E3%80%80%E7%B0%A1%E6%98%93%E3%83%90%E3%82%A6%E3%83%88%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC.jfzEBNuv6gU.mp3</link>
-<description>MMA言語化挑戦中 Voyage GI_20211227_朝倉海vs瀧澤謙太　簡易バウトプレビュー.jfzEBNuv6gU.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211227_%E6%9C%9D%E5%80%89%E6%B5%B7vs%E7%80%A7%E6%BE%A4%E8%AC%99%E5%A4%AA%E3%80%80%E7%B0%A1%E6%98%93%E3%83%90%E3%82%A6%E3%83%88%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC.jfzEBNuv6gU.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Mon, 27 Dec 2021 20:43:43 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/MMAgengo2/MMA%E8%A8%80%E8%AA%9E%E5%8C%96%E6%8C%91%E6%88%A6%E4%B8%AD%20Voyage%20GI_20211227_%E6%9C%9D%E5%80%89%E6%B5%B7vs%E7%80%A7%E6%BE%A4%E8%AC%99%E5%A4%AA%E3%80%80%E7%B0%A1%E6%98%93%E3%83%90%E3%82%A6%E3%83%88%E3%83%97%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC.jfzEBNuv6gU.mp3" type="audio/mpeg" length="4894539" />
 </item>
 
 </channel>
