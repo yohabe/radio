@@ -13,8 +13,21 @@
 Audio files in /home/pi/radio/jobin
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 31 Dec 2022 01:50:41 +0900</lastBuildDate>
+<lastBuildDate>Sat, 31 Dec 2022 02:50:26 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
+
+<item>
+<title>ジョビンチャンネル_20221230_【RIZIN４０】前夜祭！ 2022-12-31 00_30.0tVGUzErnkk.mp3</title>
+<link>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221230_%E3%80%90RIZIN%EF%BC%94%EF%BC%90%E3%80%91%E5%89%8D%E5%A4%9C%E7%A5%AD%EF%BC%81%202022-12-31%2000_30.0tVGUzErnkk.mp3</link>
+<description>ジョビンチャンネル_20221230_【RIZIN４０】前夜祭！ 2022-12-31 00_30.0tVGUzErnkk.mp3</description>
+<itunes:author></itunes:author>
+<author></author>
+<guid>http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221230_%E3%80%90RIZIN%EF%BC%94%EF%BC%90%E3%80%91%E5%89%8D%E5%A4%9C%E7%A5%AD%EF%BC%81%202022-12-31%2000_30.0tVGUzErnkk.mp3</guid>
+<dc:creator></dc:creator>
+<pubDate>Sat, 31 Dec 2022 02:31:36 +0900</pubDate>
+
+<enclosure url="http://192.168.11.3/jobin/%E3%82%B8%E3%83%A7%E3%83%93%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB_20221230_%E3%80%90RIZIN%EF%BC%94%EF%BC%90%E3%80%91%E5%89%8D%E5%A4%9C%E7%A5%AD%EF%BC%81%202022-12-31%2000_30.0tVGUzErnkk.mp3" type="audio/mpeg" length="45406552" />
+</item>
 
 <item>
 <title>ジョビンチャンネル_20221228_【RIZIN40】格闘技の祭典！RIZIN×BELLATOR.qlxLL807x5k.mp3</title>
