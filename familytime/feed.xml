@@ -13,7 +13,7 @@
 Audio files in /home/pi/radio/familytime
 </description>
 <language>ja</language>
-<lastBuildDate>Sat, 21 Jan 2023 08:50:21 +0900</lastBuildDate>
+<lastBuildDate>Sat, 21 Jan 2023 09:50:21 +0900</lastBuildDate>
 <generator>https://github.com/miyagawa/dircaster</generator>
 
 <item>
@@ -1067,19 +1067,6 @@ Audio files in /home/pi/radio/familytime
 <pubDate>Thu, 20 Jan 2022 16:01:53 +0900</pubDate>
 
 <enclosure url="http://192.168.11.3/familytime/FamilytimeFT%20_%20%E6%A0%BC%E9%97%98%E6%8A%80%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1CH_20220123_2022%E5%B9%B4%E6%9C%80%E3%82%82%E5%AE%9F%E7%8F%BE%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E8%A9%A6%E5%90%88%E3%83%88%E3%83%83%E3%83%975.GZPADKJ6lmQ.mp3" type="audio/mpeg" length="14148693" />
-</item>
-
-<item>
-<title>FamilytimeFT _ 格闘技エンタメCH_20220119_平本蓮の次の相手は誰になるのか？.2WKzz9WLQHQ.mp3</title>
-<link>http://192.168.11.3/familytime/FamilytimeFT%20_%20%E6%A0%BC%E9%97%98%E6%8A%80%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1CH_20220119_%E5%B9%B3%E6%9C%AC%E8%93%AE%E3%81%AE%E6%AC%A1%E3%81%AE%E7%9B%B8%E6%89%8B%E3%81%AF%E8%AA%B0%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F.2WKzz9WLQHQ.mp3</link>
-<description>FamilytimeFT _ 格闘技エンタメCH_20220119_平本蓮の次の相手は誰になるのか？.2WKzz9WLQHQ.mp3</description>
-<itunes:author></itunes:author>
-<author></author>
-<guid>http://192.168.11.3/familytime/FamilytimeFT%20_%20%E6%A0%BC%E9%97%98%E6%8A%80%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1CH_20220119_%E5%B9%B3%E6%9C%AC%E8%93%AE%E3%81%AE%E6%AC%A1%E3%81%AE%E7%9B%B8%E6%89%8B%E3%81%AF%E8%AA%B0%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F.2WKzz9WLQHQ.mp3</guid>
-<dc:creator></dc:creator>
-<pubDate>Wed, 19 Jan 2022 19:38:47 +0900</pubDate>
-
-<enclosure url="http://192.168.11.3/familytime/FamilytimeFT%20_%20%E6%A0%BC%E9%97%98%E6%8A%80%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1CH_20220119_%E5%B9%B3%E6%9C%AC%E8%93%AE%E3%81%AE%E6%AC%A1%E3%81%AE%E7%9B%B8%E6%89%8B%E3%81%AF%E8%AA%B0%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F.2WKzz9WLQHQ.mp3" type="audio/mpeg" length="10243269" />
 </item>
 
 </channel>
